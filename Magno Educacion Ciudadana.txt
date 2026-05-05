@@ -639,7 +639,7 @@ Atributos de persona juridica
  - Domicilio
  - Nacionalidad (discutible)
 
-Sociedad de responsabilidad limitada (Ley N°3918
+Sociedad de responsabilidad limitada (Ley N°3918)
  - Los socios solo responden hasta sus aportes
  - Max. 50 socios
  - Se usa en negocios pequeños/familiares
