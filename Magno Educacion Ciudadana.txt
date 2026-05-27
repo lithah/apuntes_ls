@@ -984,5 +984,10 @@ Salario Minimo/Nominal
  - Salario real (poder adquisitivo real del trabajador)
   
 
+Objetivo clase 17: Proponer formas de organizacion del territorio y del espacio publico, que promuevan
+la accion colectiva, la interculturalidad, la inclusion de la diversidad, y el mejoramiento de la vida
+comunitaria
 
+    # La invariabilidad tributaria es, según el gobierno, un elemento principal en el proyecto de baja de 
+impuesto corporativo. 
  
