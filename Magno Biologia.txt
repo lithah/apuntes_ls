@@ -348,4 +348,95 @@ El ciclo celular es un proceso fundamental en el cual una célula se divide y se
 
 Le sigue la fase S, donde tiene lugar la replicación del ADN, asegurando que cada célula hija reciba una copia completa del material genético. Finalmente, llegamos a la fase G2, donde la célula se prepara para la división celular. Una vez completada la interfase, la célula entra en la mitosis, un proceso de división nuclear que consta de cuatro fases: profase, metafase, anafase y telofase, culminando con la separación de los cromosomas y la formación de dos núcleos hijos.
 
-Et ciclo celular y sus fases son esenciales para el crecimiento y la reproducción celular, cada paso es crucial pare garantizar la correcta división celular y la preservación de la información genética.
+El ciclo celular y sus fases son esenciales para el crecimiento y la reproducción celular, cada paso es crucial pare garantizar la correcta división celular y la preservación de la información genética.
+
+
+---------------------- Reproduccion y sexualidad ------------------------------------------------
+
+Tipos de organismo reproductivos
+ - Sexuales
+  * Creacion de individuos a partir de gametos haploides provenientes de dos Organismos
+  * Se obtiene un cigoto
+  * Permite variabilidad genetica
+ - Asexual 
+  * Creación de nuevos individuos a partir de un solo progenitor sin unión de gametos; la descendencia
+  suele ser genéticamente igual al progenitor
+  * Usualmente no tiene variabilidad
+
+Genero
+ - Identidad de Genero
+  * es la percepcion que cada individuo tiene sobre si mismo
+   # No esta ligada al sexo Biologicos
+
+ - Expresion de Genero 
+  * Se relaciona con la manera en la que un individuo muestra su genero al mundo
+   # Sea nombre, vestimenta, etc
+
+ - Sexo Biologico
+  * Es el sexo con el que se nace, y esta determinado por caracteristicas fisicas/fisiologicas
+   # Cromosomas, hormonas, etc.
+
+ - Orientacion sexual
+  * Esta dada por el tipo de persona por el cual se tiene atraccion
+  
+Organos de reproduccion 
+ - Pene (organismo sexual masculino)
+  * Organo erectil que permite el deposito de espermatosoides en el aparato reproductor femenino
+  * Su extremo sensible es el glande
+  * Cuerpo cavernoso y cuerpo esponjoso: Tejidos eréctiles que se llenan de sangre para producir la 
+  erección; el cuerpo esponjoso rodea la uretra y forma el glande.
+  * Uretra: Conducto único por el que salen la orina y el semen; atraviesa el interior del pene hasta 
+  el meato urinario en el glande.
+  * Prepucio: Pliegue de piel que cubre y protege el glande en estado flácido; puede ser removido por 
+  circuncisión.
+  * Frenillo: Banda de tejido en la cara inferior del glande que conecta el prepucio con el glande y 
+  es una zona sensible.
+
+ - Utero
+  * Organismo muscular hueco que recibe al embrion y hace el desarrollo del feto
+ - Oviductos
+  * Conductos musculares que conectan los ovarios con el utero, asi ocurriendo la fecundacion
+ - Ovarios
+  * Gonadas que producen ovocitos
+  * Ubicacion en cavidad pelvica en ambos lados del utero.
+ - Vagina 
+  * Conducto tubular de aprox. 10cm de largo que conecta el utero resto del organismo
+  * Constituye al canal de parto
+ - Endometrio
+  * Capa del utero externa que se desprende todos los meses
+ - Vulva
+  * Conjunto de ganitales externos femeninos
+  * Tiene dos pliegues
+  * Organo sensible = clitoris
+  * Orificio de la uretra por delante del orificio vaginal
+
+Hormonas
+ - Mensajeros quimicos de origen peptidico / lipidico que influyen en el activacion de celulas 
+ determinadas (tejido diana/blanco), el otro grupo de mensajeros quimicos son los neurotransmisores
+ - En torno a reproduccion, existen las siguentes hormonas troncales:
+  * FSH (Hormona Foliculo-estimulante)
+   # Maduracion del ovocito (En femeninos)
+   # Estimula la produccion de espermatosoides (En masculinos)
+  * LH (Hormona Luteinizante)
+   # Controla maduracion del foliculo
+  * Testosterona
+   # Prohormona esteroidal
+   # Responsable de caracteristicas sexuales masculinas secundarias
+   # Tambien esta presente en mujeres, pero en menores cantidades
+   # Su forma activa es la dihidro-testosterona
+   # Es secretada en hombres por las celulas de Leydig
+  * Inhibina
+   # Inhibe la liberacion de FSH (cuando hay demasiada testosterona en el sistema, frena su produccion)
+   # Secretada por Celulas de Sertolli 
+  * Estrogenos
+   # Es parte de las hormonas esteroidales
+   # Su forma mas común es el 17-B-Estrogeno
+   # Responsable de las caracteristicas sexuales femeninas y crecimiento endometrico
+   # Intervienen en el metabolismo de los lípidos y la distribución de la grasa corporal.
+   # Secretado en ovarios principalmente
+   # Produce cuerpo luteo y maduracion del Endometrio
+
+  * Testiculos
+   # Producen espermatosoides y hormona sexual masculinas
+   # Almacenados los espermatosoides en el epididimo para su maduracion
+s
