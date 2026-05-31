@@ -249,6 +249,7 @@ Momento de inercia, torque, y varios
   * Se determina con la regla de la mano derecha
   * Se relaciona con el hecho de que un obj. en rotacion persistente, tenga este tipo de movimiento (???)
   * Produce que los nodos mantengan equilibrio
+
  - Torque
   * Es el giro que resulta de la aplicacion de la fuerza a cierta distancia del eje rotacional de un cuerpo
   * Se expresa como
@@ -262,4 +263,19 @@ Momento de inercia, torque, y varios
    # L inicial = L final
    # (Momento angular) inicial = (Momento angular) final
   * Por lo que
-   # Momento de inercia inicial x velocidad angular inicial = Momento de inercia final x velocidad angular finals
+   # Momento de inercia inicial x velocidad angular inicial = Momento de inercia final x velocidad angular final
+  
+* Concepto de torque
+   # Efecto de rotacion que produc una fuerza sobre un cuerpo con eje de giro
+  * Es vectorial, se mide en Tou, se calcula como T = F x r
+  * Fuerza debe aplicarse a distancia del brazo de torque
+  * Su unidad de medida es Newton x Metro (Nm)
+  * Si la fuerza no es perpenticular al brazo, solo produce torque solo la componente perpendicular al brazo produce torque; es decir
+   # T = r × F
+   # T = r·F·sin(θ)
+  * Toda fuerza cuya direccion (linea de accion) pase por el eje de giro no produce torque
+  * No produce torque si la fuerza es aplicada
+   # Paralela al eje
+   # En el eje de rotacion
+  * Para que haya equilibrio rotacional
+   # Sumatoria de los torques de la derecha = Sumatoria de los torques de la izquierda
