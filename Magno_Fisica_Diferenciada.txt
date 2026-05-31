@@ -218,8 +218,21 @@ Fenómenos ondulatorios y sonido
  
  - Resonancia
   * El fenómeno de resonancia ocurre cuando un objeto vibra con mayor amplitud debido a la influencia de una fuerza externa que tiene la misma frecuencia natural del objeto
-
- - Efecto Doppler
+< - Efecto Doppler
   * Efecto en el cual varia el tono del sonido emitido por un objeto en movimiento
   * Cambio aparente en la frecuencia de una onda (sonido o luz) cuando la fuente de la onda y el observador están en movimiento relativo.
    # Ej: Ambulancia
+-----------------------------------------------------------------------------------------------------------------------------
+Momento de inercia, torque, y varios
+ - Momento de inercia
+  * Resistencia de un obj. a los cambios en su movimiento de rotacion, es decir, los obj. en rotacion tienden a pertenecer en este estado,
+  mientras que los obj. que no giran (podiendo hacerlo) tienden a pertener sin girar.
+  * Mientras mas alejada la masa, mayor momento de inercia
+  * Si la masa de un cuerpo se encuentra distribuida cercana a su eje de rotacion, la inercia rotacional seria menor, por lo tanto, seria
+  mas facil hacerlo girar o detenerlo
+  * Dependiendo de la situacion, el tipo de obj. y su punto de equilibrio, puede variar la formula para calcular el momento de inercia;
+  la "formula general" para esto es la siguente:
+   # i = mr²
+  * IMPORTANTE; ESTA FORMULA APLICA SOLO PARA ALGUNOS CASOS; para medir la inercia de objetos densos; en caso de que el medio que los transporte
+  sea de masa deprecable
+  * Para buscar otros casos; revisar cuaderno, o buscar "formula de momento de inercia en obj. regulares"
