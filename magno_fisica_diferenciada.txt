@@ -224,6 +224,7 @@ Fenómenos ondulatorios y sonido
    # Ej: Ambulancia
 -----------------------------------------------------------------------------------------------------------------------------
 Momento de inercia, torque, y varios
+
  - Momento de inercia
   * Resistencia de un obj. a los cambios en su movimiento de rotacion, es decir, los obj. en rotacion tienden a pertenecer en este estado,
   mientras que los obj. que no giran (podiendo hacerlo) tienden a pertener sin girar.
@@ -236,3 +237,29 @@ Momento de inercia, torque, y varios
   * IMPORTANTE; ESTA FORMULA APLICA SOLO PARA ALGUNOS CASOS; para medir la inercia de objetos densos; en caso de que el medio que los transporte
   sea de masa deprecable
   * Para buscar otros casos; revisar cuaderno, o buscar "formula de momento de inercia en obj. regulares"
+  * En el caso de tener masas extendidas, existen varios calculos para comprender su momento de inercia; en el caso de un sistema de particulas
+  discretas, se calcula de la siguente manera.
+   # I = Sumatoria de la masa inicial multiplicado por el radio inicial al cuadrado
+
+ - Momento angular
+  * El momento angular o cantidad de momento angular es una magnitud que depende del momento de inercia (I) y de la velocidad angular
+  de un cuerpo en rotacion
+  * Es un vector que se determina como:
+   # L = I x ω
+  * Se determina con la regla de la mano derecha
+  * Se relaciona con el hecho de que un obj. en rotacion persistente, tenga este tipo de movimiento (???)
+  * Produce que los nodos mantengan equilibrio
+ - Torque
+  * Es el giro que resulta de la aplicacion de la fuerza a cierta distancia del eje rotacional de un cuerpo
+  * Se expresa como
+   # T = F x r
+   # F = F cos (angulo) + F sin (angulo)
+ 
+ - Conservacion de momento angular
+  * Cuando un cuerpo se encuentra girando, su momento angular permanece constante, a no ser que sobre el actue un torque externo que lo
+  haga modificar su rotacion.
+  * Por lo que su torque externo es 0, se cumple que
+   # L inicial = L final
+   # (Momento angular) inicial = (Momento angular) final
+  * Por lo que
+   # Momento de inercia inicial x velocidad angular inicial = Momento de inercia final x velocidad angular finals
