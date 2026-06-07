@@ -989,7 +989,7 @@ la accion colectiva, la interculturalidad, la inclusion de la diversidad, y el m
 comunitaria
 
     # La invariabilidad tributaria es, según el gobierno, un elemento principal en el proyecto de baja de 
-impuesto corporativo. 
+impuesto corporativo. ()
 
 Art. 8 (reformado en 1980)
  - Veto a ideologias totalitarias
@@ -1003,3 +1003,56 @@ Art. 8 (reformado en 1980)
       ideológicas que, en general, sugieren un sistema económico de economía mixta, y el centrismo 
       o reformismo como ideología.]
  
+Derechos politicos
+ - Sufragar
+  * Desde 1990 a 2012, Voto voluntario
+  * Desde 2012 a 2022, Inscripcion automatia (voluntaria)
+  * Desde 2022 hasta hoy, Inscripcion automatica (obligatia)
+ - Ser elegido
+
+Diferentes perspectivas del concepto ciudadania
+ - Ciudadania liberal
+  * Enfasis en los derechos individuales
+ - Ciudadania Comunitarista
+  * Prioridad a los derechos de la comunidad donde el individuo esta abscrito
+ - Ciudadania republicana
+  * El pensamiento republicano se centra en la busqueda del bien común
+   # El estado es: Instrumental (no es un fin, es una herramienta para obtener el bien común), y tiene deberes
+
+En resumen:
+ - Ciudadania
+  * Quienes son ciudadanos?
+   # Las personas que cumplen con los requisitos del art. 13 de la constitucion
+    $ Ser Chilenos
+    $ Ser mayores de 18 años
+    $ No estar condenado a pena aflictiva
+     & Al no tener pena aflictiva, tienes derecho a Sufragio, y a postular a cargos publicos
+  * Para estar habilitado a votar
+   # Inscrito automaticamente (SERVEL informa) sólo portar cedula de identidad
+  * Suspende, revoca derecho a votar
+   # Por interdiccion en caso de demencia, acusado por delito que merezca pena aflictiva
+
+Instancias de participacion politica
+ - Existen 3 formas de participar como ciudadanos en nuestro pais
+  * Acciones politicas que buscan influir en decisiones relacionadas a asuntos comunes, ya sea ciudad, region, o país
+   # Politica
+    & Directa 
+     % Votando en elecciones / Ocupando cargos publicos
+    & Indirecta
+     % Informandose sobre coyuntura social y politica / Manifestando nuestra opinion donde sea posible
+    & Nos exige
+     % Dialogar, cooperar, y colaborar con otros
+      # Patria = Nacionalismo de identidad (Termino juridico que engloba los conceptos relacionados a el pais propiamente tal)
+   # Civil o ciudadana
+    & Acciones donde como ciudadanos individual o colecticamente podemos incidir en la toma de decisiones de asuntos publicos, logrando que nuestra opinion sea 
+    tomada en cuenta del sistema politico
+    & Campañas informativas a traves de medios de comunicacion
+    & Manifestaciones callejeras
+    & Reuniones con autoridades
+    & Difusion y organizacion de ideas a traves de redes sociales
+    & Actividades de servicio solidarias, participativas, deportivas, etc
+
+ - Participacion social o comunitaria
+  * Son acciones que buscan defender o promover intereses colectivos de la comunidad a la que perteneces
+   # Se limita a organizaciones de participacion civil sin intencion de influir en politica
+    & El estado mantiene una relacion asistencialista. (ej. de este tipo de participacion: Junta de vecinos)

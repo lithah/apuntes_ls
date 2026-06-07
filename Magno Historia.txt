@@ -80,8 +80,9 @@ Diaclasas
 
 Sistema de temperaturas de Köppen
 
- - Divide los climas del mundo en cinco grupos principales: tropical, seco, templado, continental y polar, identificados por la primera letra en mayúscula. Cada grupo se divide en subgrupos, y cada subgrupo en tipos de clima. Los tipos de clima se identifican con un símbolo de 2 o 3 letras. 
-  * Ej: "Mediterráneo con estaciones semejantes" es el clima talquino
+ - Divide los climas del mundo en cinco grupos principales: tropical, seco, templado, continental y polar, identificados por la primera letra en mayúscula. Cada 
+  grupo se divide en subgrupos, y cada subgrupo en tipos de clima. Los tipos de clima se identifican con un símbolo de 2 o 3 letras. * Ej: "Mediterráneo con 
+  estaciones semejantes" es el clima talquino
 
 Biombo climático
   - Lugar separador de climas
@@ -92,7 +93,8 @@ Antartandes
 
 Camanchaca
 
- - Es un banco de nubes estratocúmulos que se forma en la costa chileno-peruana, cerca del desierto de Atacama. A medida que avanza tierra adentro hacia las montañas, la camanchaca se convierte en una espesa niebla que no produce lluvia. 
+ - Es un banco de nubes estratocúmulos que se forma en la costa chileno-peruana, cerca del desierto de Atacama. A medida que avanza tierra adentro hacia las 
+ montañas, la camanchaca se convierte en una espesa niebla que no produce lluvia.
 
 Efectos e impactos del cambio climático
  - Incremento de calor (olas de calor)
@@ -468,3 +470,27 @@ Principales caracteristicas del IVA
    # Impuesto de primera categoria = De las rentas del capital y de las empresas comerciales, 
    industriales, mineras y otras.
    # Impuesto de segunda categoria = De las rentas del trabajo.
+
+-------------------------------------------Obj. de nueva unidad --------------------------------------------------------------
+Obj: Analizar el impacto de la guerra fria en latinoamerica
+
+Guerras en las que ha participado Chile
+ - 1836/39: Guerra de la confederacion
+ - 1879/83: Guerra Peru-Bolivia
+  * Hubieron 4 tratados, en los que 2 de ellos, Chile ganó territorio (1904, 1929)
+    # Chovinismo
+     & Ultra-nacionalismo
+    # Estados unidos le dio poder a un grupo de separatistas Colombianos para poder formar un canal de paso maritimo, asi formando una nueva nacion (Panamá)
+    # 1898 = guerra hispano-americana (USA pierde Santa Juana (Cuba), Puerto Rico, y Filipinas).
+ 
+1. Impacto de la guerra fria en America Latina
+
+ - Bloque Capitalista
+  * Gran parte de America Latina estuvo bajo la esfera de influencia de EEUU.
+  * Adhesion el los estados de la refion al modelo politico-economico norteamericano: la democracia y el capitalismo liberal/keynesiano, respectivamente.
+  * Consolidacion del bloque con la formacion del TIAR/OEA.
+
+ - Movimientos revolucionarios
+  * Levantamiento popular y revolucion en Cuba contra el dictador Fulgencio Batista (1959), liderada por Fidel Castro.
+  * Cuba se convirtio en la primera nacion latinoamericana en integrar la órbita sovietica y adscribir al socialismo.
+  * Surgimiento de movimientos guerrilleros que optan por la via armada en varios paises de America Latina.
