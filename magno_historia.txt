@@ -250,7 +250,7 @@ CORA = Corporacion de la reforma agraria
 INDEP = Instituto Nacional de Desarrollo economico
 
 Escuela de las americas (1948)
- - Doctrina de  seguridad interior
+ - Doctrina de seguridad interior
   * Ley seguridad interior
   * Ley anti...?
 Periodo desde los 60' hasta los 90'
@@ -494,3 +494,31 @@ Guerras en las que ha participado Chile
   * Levantamiento popular y revolucion en Cuba contra el dictador Fulgencio Batista (1959), liderada por Fidel Castro.
   * Cuba se convirtio en la primera nacion latinoamericana en integrar la órbita sovietica y adscribir al socialismo.
   * Surgimiento de movimientos guerrilleros que optan por la via armada en varios paises de America Latina.
+
+ - Periodo 1960-90
+  * Implementacion de reformas estructurales en el ambito socioeconomico a traves de diversos metodos: democraticos y violentos
+  * Prevalecieron las dictaduras militares
+  * Las dictaduras militares se conocieron como de "seguridad nacional"
+ - Factores de las dictaduras
+  * Crisis de la institucionalidad democratica en los paises de la region, problemas de legitimidad de las instituciones ante la creciente
+  polarizacion social
+  * Desarrollo doctrinario interno de las fuerzas armadas, que buscaba detener el avance de los grupos populares de izquierda.
+ - Contexto diplomatico
+  * 1ra mitad del siglo XX, EEUU desarrolló la idea del panamericanismo, con las transformaciones del avance del marxismo, para evitar
+  su avance
+   # Kennedy buscaba financiar reformas economicas y sociales para sacar la region del subdesarrollo
+   # Con obj. de frenar los avances marxista, fortalecen la democracia, y modernizar las estructuras socioeconomicas
+ - Doctrina de seguridad social
+   # INDAP -> Instituto nacional del desarrollo agropecuario
+  * En 1960, la politica de EEUU se centró en el desarrollo militar en contra del marxismo (enemigo interno)
+  * Consecuencia: Golpes de estado / Dictaduras en LATAM
+   # Mark
+
+    # Protestas en 1983 para cambiar parametros de la dictadura
+    # Reforma estructurales del 80'
+   - Constitucion 1980
+   - Fonasa/Isapre
+   - Prevision
+   - Cod. laboral
+   - Regionalizacion
+   - Universidades
