@@ -1056,3 +1056,55 @@ Instancias de participacion politica
   * Son acciones que buscan defender o promover intereses colectivos de la comunidad a la que perteneces
    # Se limita a organizaciones de participacion civil sin intencion de influir en politica
     & El estado mantiene una relacion asistencialista. (ej. de este tipo de participacion: Junta de vecinos)
+
+Regionalizacion de la CONARA
+ - Diagnostico
+  * Desequilibrio en la distribucion de la poblacion
+  * Desigualdad de explotación de Recursos
+  * Contratacion de poder en la capital, impidiendo decisiones regionales
+  * Contratacion de poder economico en Santiago
+   # Los embajadores plenipotenciarios existian para tomar desiciones en nombre de gob. antes de las telecomunicaciones
+
+Concepto de region
+ - Territorio de homogeneidad interna
+ - Variabilidad de actividades economicas, politicas y sociales
+ - Unidad territorial que tiene bienes economicos y sociales afines (check***)
+Provincia (Unidad territorial de la region)
+ - Destino productivo caracteristico y dominante (check***)
+Comuna (Unidad territorial de provincias)
+ - Administracion local
+ - Corporacion de derecho publico
+ - Personalidad juridica
+ - Patrimonio propio
+ - Satisfacer necesidad de comunicacion local
+Antecedentes historicos de la regionalizacion
+ - Las regiones de la CORFO
+  * Se crea hacia 1950 y pretendio atender a las caracteristicas fisicas, humanas, y economicas de cada region
+  * Sus regiones son muy extensas y sin organizacion propia
+  * Regiones: 
+   # Norte grande (del limite norte a Antofagasta), 
+   # Norte Chico (Hoy siendo Atacama y Coquimbo), 
+   # Nucleo central (Aconcagua, Valparaiso, Santiago, O'Higgins, Colchagua, Curicó, Talca, Linares, Maule y Ñuble)
+   # Concepcion y la frontera (Integrada por las provincias de Concepcion, BioBio, Malleco, Arauco y Cautin)
+   # Los Lagos (Provincias de Valdivia, Osorno y Llanquihue)
+   # Region de los canales (?????? buscar despues)
+
+Regionalizacion de ODEPLAN (Oficina de planificacion nacional)
+ - Teoria de los polos de desarrollo (1965-1968)
+ - Se establecen 11 regiones (y la Region Metropolitana)
+ - Cada region concentra un grupo de provincias
+ - Especializacion en bienes y servicios (Polos de Desarrollo)
+ - Desventajas: No hay facultades administrativas para un buen manejo de la región
+  # Estados Unidos prometio beneficios a naciones que le entregaran recursos mas baratos durante WW1, pero tardo decadas en 
+  responder, la respuesta fue la CEPAL (Comision economica para LATAM y el Caribe), con sede en Chile.
+  # Estas crean el concepto de los polos de desarrollo en LATAM, con inspiracion en el desarrollo Europeo
+ - Polos de desarrollo son lugares claves predispuestos para fabricacion de bienes que serán repartidos por el territorio nacional
+   y exteriores
+  * Los lugares predispuestos para esto reciben una gran cantidad de bienes economicos
+  * El problema de todo esto es que se requiere profesionalizacion, capacitacion permanente y materia prima.
+   # Asi nace la industria de Maquila (Compra de piesas extranjeras, para armado en Chile, al nombre de producto nacional)
+    & Fracasa por que el precio de armado e importacion era mayor a la ganancia
+
+  # Linea Blanca: Refrigeradores, Cocinas, Estufas, Y TV's (como Antu y Bolocco)
+  # Estamento NO ES clase social
+  # Asesor tecnico del alcalde (SERPLAC)

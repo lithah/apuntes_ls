@@ -1,0 +1,77 @@
+--------------------- Termodinámica -----------------------------------------------------
+
+ - Gran parte de los cambios fisicoquímicos ocurren en 1 atmosfera
+ 
+ - Se utiliza un calorímetro para medir el flujo de calor en reacciones químicas
+ 
+ - Al escribir una reacción termodinámica, se debe incluir el estado físico
+ 
+Entalpia (H°)
+
+ - Cantidad de energía que el sistema intercambia con el sistema en presión constante
+ 
+ - Sin importar si absorbe o libera energía, la presión no cambia
+
+ - El valor y el signo de la entalpia definen el tipo de reacción y la cantidad del calor transferido
+
+ - Esta depende de las condiciones de temperatura, presión, y estado, por lo que, por conveniencia, se trabaja con medidas standard
+  * 1 atm (1 atmosfera)
+  * 298 K° (25 C°)
+ 
+ - Se mide en kilo Joules x Mol (kJ/mol)
+
+Ejemplo de entalpia de reacción standard (Hr°)
+
+ - Al iniciar, se dispone de equilibrio térmico en el sistema (temp° constante)
+  * Se lleva a cabo una reacción (transferencia de calor)
+   &: Finalmente, se mide el cambio de temp° producido en el sistema 
+    #: Asi se puede calcular el calor liberado/recibido, usualmente a 1 atm.
+     ~: Al calor medido, se le conoce como *Entalpia de reaccion*
+
+Proceso exotermico
+ - ΔH < 0 
+
+ - A+B => C+D+Calor
+Proceso endotérmico
+ - ΔH > 0 
+
+Entalpia/calor de formacion standard (Hf°)
+
+ - Corresponde a la formación de un compuesto a partir de los elementos que lo constituyen
+
+ - Es el cambio de entalpia de la reacción que forma 1 mol del compuesto a partir de sus elementos
+ 
+ - Su forma mas estable vale 0, refiriéndose a que no se requiere una reacción para formar el elemento en condiciones standard
+
+ - ΔH = ΣH° productos - ΣH° reactivos
+
+
+Reacciones espontaneas (pendiente a traducir)
+
+- La reacción espontanea favorece la reacción bajo las condiciones que se le imponen; como una fogata 
+- La energía de la entropía favorece la combinacion de energia
+- entalpy decrease and entropy increase dictates that combustion reactions are spontaneous reactions.
+A large, bright bonfire with intense orange flames against a dark background. The fire is burning wood, creating a dramatic contrast with the surrounding darkness.
+Figure 20.3.1
+: Bonfire.
+
+A nonspontaneous reaction is a reaction that does not favor the formation of products
+at the given set of conditions. In order for a reaction to be nonspontaneous, it must be endothermic, accompanied by a decrease in entropy, or both. Our atmosphere
+is composed primarily of a mixture of nitrogen and oxygen gases. One could write an equation showing these gases undergoing a chemical reaction to form nitrogen monoxide:
+
+N2(g)+O2(g)→2NO(g)
+
+Fortunately, this reaction is nonspontaneous at normal temperatures and pressures. It is a highly endothermic reaction with a slightly positive entropy change (ΔS)
+. Nitrogen monoxide is capable of being produced at very high temperatures and has been observed to form as a result of lightning strikes.
+
+---------- Prueba lunes 6/oct -----------------------------------
+
+
+ 
+
+
+
+
+ 
+
+
