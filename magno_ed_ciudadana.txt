@@ -1108,3 +1108,48 @@ Regionalizacion de ODEPLAN (Oficina de planificacion nacional)
   # Linea Blanca: Refrigeradores, Cocinas, Estufas, Y TV's (como Antu y Bolocco)
   # Estamento NO ES clase social
   # Asesor tecnico del alcalde (SERPLAC)
+
+22/07 Objetivo: Evaluar las caracteristicas y funcionamiento de la institucionalidad democratica, las formas de representacion y su 
+ impacto en la distribucion del poder en la sociedad, a la luz del bien comun, la cohesion y justicia social.
+
+ # Carta fundamental tenia originalmente 14 caps. y 20 art; actualmente tiene 15 caps, 147 art.
+
+Reformas
+ - 89' (durante golpe de estado)
+ - 91' (durante gob. de Patricio Alwin, con apoyo de Genaro Arriagada y Carlos Caceres)
+ - 2005 (durante (nomeacuerdo))
+
+Reformas constitucionales de 1980
+ - Respeto y promocion de derechos escenciales
+ - Termino de facultad presidencial de exiliar.
+ - Vigencia de recurso de amparo y proteccion en estados
+ - Eliminacion art. 8
+ - Nominas de militantes no serán publicas
+ - Elimina incompatibilidad de dirigencia gremial y militancia politica
+ - Se mantienen senadores designados
+ - Derrogacion facultad presidencial de disolver camara baja
+ - Elimina disposicion de cesar a parlamentario que promoviera mocion contraria a constitucion
+ - Integrantes del COSENA (se agrega al contralor general)
+ - Aumento de quorum para ciertas Reformas
+  # Bandos, Derechos leyes, y Actas constitucionales
+   & Dentro de ese ultimo, hay 4, siendo
+    % 1. Bases de la institucionalidad
+    % 2. Consejo de estado (ya no existe)
+    % 3. Derechos y deberes
+    % 4. Estado de excepcion constitucional.
+  # El art. 5 estuvo desde 1989-2005 derrogado; que plantaba que no se podia crear un partido circa-totalitarista.
+  # Providad = Honradez politica
+  # 4 militares (3 comandantes y general en jefe) manejaban el COSENA (cual representa al presidente)
+  # hoy solo asesoran en defensa
+  # 2/3 para cambios a Constitucion Politica, y L.O.C, actualmente volvio a ser 4/7
+
+Leyes Cumplido (91'-92')
+ - Recalificacion de las conductas terroristas
+ - Modificacion del codigo de justicia militar
+ - Garantizar de mejor forma el derecho de las personas
+ - Aplicacion legal de indultos amnistias y libertad provicional
+ - Inicio proceso de gratuidad y obligatoriedad de ed. media (1991-2001)
+ - Eleccion democratica de alcaldes
+ - Duracion periodo presidencial
+   # Museo de la memoria como recordatorio constante de violaciones DDHH durante golpe de estado
+   #
