@@ -439,3 +439,109 @@ Hormonas
   * Testiculos
    # Producen espermatosoides y hormona sexual masculinas
    # Almacenados los espermatosoides en el epididimo para su maduracion
+-------------------------------------------------------------------------------
+Segundo semestre ---- Teorias evolutivas
+
+Biodiversidad
+ - Fijismo (Somos seres perfectos, e inevolucionables)
+  * Creacionismo (Somos seres perfectos, creados por una deidad para la perfeccion)
+ - Evolucionismo
+  * Evolucion de los caracteres adquiridos (Por Jean Baptiste Lamark?
+  * Evolucion por seleccion natural (Por Charles Darwin)
+
+
+Postulados de Lamark
+ - El ambiente no es constante, sinó que va cambiando gradualemente, y establece que surjan nuevas necesidades
+ - Un "sentimento interior" del animal lo lleva a satisfacer una necesidad evolutiva, 
+ - El uso de ciertas partes las fortalece, el desuso las atrofia (ej: el apendice)
+ - Las caracteristicas adquiridas se adhieren (a la siguente generacion, directamente)
+
+Postulados de Darwin/Wallace
+ - Embarcacion Beagle
+  * Experiencias vividas por Darwin en Galapagos
+   # Seleccion natural
+   # Los pinzones, según necesidad, desarrollaban distintos picos, importante conocimiento para la creacion de los postulados.
+ - Las formas de vidas no son estaticas, sinó evolutivas
+ - El proceso de evolucion es gradual, lento y continuo (GRADUALISMO)
+ - Organismos parecidos estan emparejados y decienden de un antepasado común (ORIGEN COMÚN)
+ - Seleccion natural (SUPERVIVENCIA DEL MAS APTO)
+
+ - Teoria de Darwin/Wallace
+  * Ideas centrales
+   # NO EXPLICA VARIABILIDAD GENETICA
+   # Evolucionismo
+   # Gradualismo
+   # Origen Común
+  * Condiciones para la seleccion natural
+   # Variabilidad
+   # Presion por la seleccion y reproduccion natural
+
+"En las costas de la region del maule, la arena es gris, y existen meduzas grises y medusas blancas; con el paso del tiempo, se ha establecido
+que la fraccion de las meduzas grises era mayor que las blancas"
+ - Como interpretarias esto?
+  * Posible respuesta: Las medusas grises sobrevivian mas, pues pasaban desapercibidas en el ambiente
+ - Que pasaria si la arena fuera blanca?
+  * Posible respuesta: Las medusas blancas sobrevivirian más, pues ellas se camuflarian mejor en el ambiente
+
+Tipos de seleccion natural
+ - Estabilizante
+  * Privilegia los rangos promedio
+   # Una girafa con un cuello muy largo u muy corto no sobreviven mucho, pero la que tenga el rasgo promedio (cuello mediano) si.
+ - Distruptiva
+  * Elimina el rasgo promedio
+   # Un pajaro tiene un pico especializado para semillas pequeñas, y el otro para semillas grandes; el rasgo promedio (pico mediocre para ambas)
+   no evolucionará; y las caracteristicas especializadas prevaleceran
+ - Direccional
+  * Se prioriza uno de los rasgos extremos
+   # Un grupo de polillas tiene distintos colores en una cueva; un extremo seria oscuro, y el otro claro,
+   como la cueva es oscura, poco a poco, las polillas claras dejaron de existir, y las polillas oscuras prevalecen
+
+Neodarwinismo (Teoria sintetica de la evolucion)
+ - Paleontologia
+ - Genetica
+ - Sintetica
+  * Rechaza la teoria de caracteres adquiridos
+  * No basado en individuos, sinó poblaciones
+  * Mutaciones aportan/justifican variabilidad
+  * Evolucion gradual
+
+Teoria del equilibrio puntuado (Stephen J. Gould, Niles Eldredge)
+ - Basada en cambios geneticos
+ - Habla de genetica, y de registros fosiles
+  * Propone paradas (Estasis)
+  * Saltos bruscos
+   # Y es mecanismo de especialidades
+
+Neodarwinismo vs. equilibrio puntuado
+ -             | - - - - 
+  *            | &   @
+ - #           | %     °
+ -  &          | #  +
+
+Seleccion artificial
+ - Lo que pasó con los pugs
+
+Registro fosil
+ - Huella o rastro de la existencia de una especie
+  * Tipos de fosilizacion
+   # Reemplazo
+    & Se cambia materia organica por minerales
+   # Molde
+    & Vestigios de presencia o actividad (sease huellas, coprolitos, etc)
+   # Preservacion
+    & Capacidad de organismos para preservarse, usualmente confinados en un material que los preserva (Ambar, asfalto, hielo, etc)
+
+Biogeografia
+ - Estudia el reparto de los seres vivos en el planeta
+Anatomia comparada
+ - Organos homologos (Origen evolutivo común: provienen del mismo ancestro.
+Evolución divergente: con el tiempo se modifican para cumplir funciones distintas.)
+
+ - Organos analogos (Origen evolutivo distinto: no comparten un ancestro inmediato común para esa estructura.
+Evolución convergente: la forma se parece porque enfrentan presiones ambientales similares, por lo que “convergen” hacia soluciones parecidas.)
+
+Organos vestigiales
+ - Organos en desuso, algún dia tuvieron uso, pero ya no es el caso
+
+Bioquimica y biologia molecular
+ - Se comparan secuencias de ADN, y asi se determina parentesco

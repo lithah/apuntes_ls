@@ -569,5 +569,16 @@ Impacto guerra fria Chile y LATAM (RESUMEN; IMPORTANTE; REVISAR)
    # Alianza para el progreso
    # Doct. Seguridad nacional
 
+Dictaduras latinoamericanas
+ - Entre los 60' y 70', en LATAM hubieron golpes de estado que condujeron a la instalacion de dictaduras militares
+ - Principales dictaduras:
+  * Perú: golpe de Juan Velasco Alvarado (1968) quien hizo reformas estructurales
+  * Bolivia: Hugo Bonzer (77'), que tuvo transformaciones de gobierno de Juan Jose Trabajadores
+  * Argentina: tras fallecer Juan Domingo Perón ocurrio una crisis que le dio poder a Jorge Videla
+  (76')
 
- 
+   # Caracteristicas comunes
+    & Adhesion a la doctrina de seguridad nacional
+    & Suprecion del estado de derecho y institucionalidad democratica
+    & Uso de violencia politica y violacion a DDHH por parte de los gob. organizados por EEUU
+    & Colaboracion en la operacion Condor

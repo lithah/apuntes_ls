@@ -1057,6 +1057,8 @@ Instancias de participacion politica
    # Se limita a organizaciones de participacion civil sin intencion de influir en politica
     & El estado mantiene una relacion asistencialista. (ej. de este tipo de participacion: Junta de vecinos)
 
+
+
 Regionalizacion de la CONARA
  - Diagnostico
   * Desequilibrio en la distribucion de la poblacion
@@ -1088,6 +1090,8 @@ Antecedentes historicos de la regionalizacion
    # Concepcion y la frontera (Integrada por las provincias de Concepcion, BioBio, Malleco, Arauco y Cautin)
    # Los Lagos (Provincias de Valdivia, Osorno y Llanquihue)
    # Region de los canales (?????? buscar despues)
+
+
 
 Regionalizacion de ODEPLAN (Oficina de planificacion nacional)
  - Teoria de los polos de desarrollo (1965-1968)
@@ -1152,4 +1156,8 @@ Leyes Cumplido (91'-92')
  - Eleccion democratica de alcaldes
  - Duracion periodo presidencial
    # Museo de la memoria como recordatorio constante de violaciones DDHH durante golpe de estado
-   #
+   # en 1978 se dio amnistia total, perdonando a los violadores de DDHH durante golpe de estado
+   # (buscar concepto sentencia ejecutoriada)
+   # Prision efectiva remitida (por colaboracion, ejerces tiempo de carcel fuera de ella (BUSCAR))
+   # Conmutacion de la pena: institución del Derecho Penal mediante la cual se cambia una pena, establecida 
+   por una sentencia judicial luego de un juicio, por una pena menor.​
