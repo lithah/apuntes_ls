@@ -1,0 +1,547 @@
+-------------------------------- Nutricion y dietas -------------------------
+Ventajas de una buena nutricion
+
+ - Mejora la función cerebral
+ - Proteje al corazón
+ - Fortalece el sistema inmune
+ - Ayuda a mantener una masa corporal saludable
+ - Mejora la digestión
+ - Favorece al descanso
+ - Fortalece huesos y musculos
+ - Mejora el aspecto de la piel, pelo, y uñas
+
+Desventajas de una mala nutrición
+
+ - Problemas cognitivos y emocionales
+ - Debilitamiento sistema inmune
+ - Alteraciones masa corporal
+ - Riesgo enfermedades cardiovasculares
+ - Problemas digestivos, oseos y musculares
+ - Deterioro de la piel, pelo y uñas
+
+Biomoléculas
+ 
+ - Aminoácidos
+ - Proteínas
+ - Carbohidratos
+ - Lípidos
+ - Acidos nucleicos
+ - Vitaminas
+
+Dietas
+ 
+ - Mediterranea
+  * Hecha de frutas, verduras, aceite de oliva, pescados, frutos secos, cereales integrales, y vino
+  * Rica en antioxidantes, grasas saludables, reduce riesgo cardiovascular
+  * Es costosa de mantener
+
+ - Keto
+  * Baja en carbs, alta en grasas y moderada en proteínas
+  * Rápida baja de peso, mejora de la sensibilidad a la resistencia a la insulina
+  * Difícil de mantener, provoca la "gripe keto"
+
+ - Vegana
+  * Solo alimentos vegetales
+  * Reduce riesgo cardiovascular
+  * Déficit de proteinas, vitamina B12, y hierro
+ 
+ - Paleo
+  * Contiene carnes de poca grasa, frutas, verduras y semillas
+  * Excluye lácteos y procesados
+  * Rica en proteínas, promueve la perdida de peso
+  * Difícil de mantener, y costosa
+
+Factores que influyen en nutrición
+ 
+ - Biologicos
+   + Genetica
+   + Edad
+   + Sexo
+   + Estado fisiologico
+   + Estado nutricional previo
+
+ - Ambientales
+   + Disponibilidad alimentaria
+   + Contaminacion
+   + Condiciones sanitarias
+ 
+ - Sociales
+   + Educación nutricional
+   + Publicidad
+   + Nivel socioeconomico
+   + Apoyo social/familiar
+
+------------- Patogenos, Enfermedades infecciosas, Sistema inmunologico y Tratamientos comunes -----------------------------
+Agentes infecciosos
+ - Cualquier entidad biologica que provoque algún enfermedad en un huesped suceptible
+ - Pueden ser
+  * Bacterias
+   > Vivo, Unicelular, de reproduccion asexual
+  * Protozoos
+   > Vivo, Unicelular y flagelado, de reproduccion binaria
+  * Virus
+   > No vivo, Formado por una estructura de ADN, de reproduccion por huesped
+  * Hongos 
+   > Vivo, Formado por fibras llamadas "hifas" y levaduras (unicelulares), de reproduccion por esporas
+
+Enfermedades infecciosas
+ - Trastornos de salud causados por
+  * Patogenos
+   > Pueden ser bacterias, viruses, hongos, protozoos, parasitos, entre otros
+ 
+Mecanismos de infeccion
+ - Fuente (agente infeccioso)
+  * El microorganismo causal de la infeccion
+  
+ - Reservorio
+  * Lugar donde reside el microorganismo y prolifera
+ 
+ - Salida
+  * Lugar de salida del reservorio hacia afuera
+  
+ - Metodos de transmision / Via de contagio
+  * Como el organismo pasa del reservorio a un huesped
+ 
+ - Entrada
+  * Lugar por el cual el agente accede al huesped
+  
+ - Huesped 
+  * Es cualquier organismo que pueda ser infectado
+  
+Metodos de transmision (ejemplo en *)
+ - Sangre
+  * Sida
+ - Prenatal
+  * Sifilis
+ - Aerea
+  * Influenza
+ - Vectores (como los mosquitos y las garrapatas pueden transportar patógenos que pueden transmitirse a nuevos huéspedes).
+  * Fiebre amarilla, peste negra
+ - Agua
+  * Giardiasis, cólera
+ - Alimentos
+  * Salmonella
+ - Contaminacion indirecta
+  * Covid-19
+ - Sexual
+  * Candidiasis
+
+Medicamentos utilizados para tratar patogenos
+ - Para viruses, antivirales
+ - Para bacterias y protozoos, antibioticos
+ - Para hongos, antifungicos / fungicida
+
+Enfermedades respiratorias
+ - Una de estas, para ejemplificar, podria ser el Covid-19, o la Influenza
+  * El covid tiene una proteina llamada Spikes, que se inserta en receptores presentes en los pulmones, alterando sus instrucciones
+ 
+ Ejemplo de una cadena de transmision
+ 
+           ------Agente causal------
+ Huesped /                           \ Reservorio
+ Entrada \                           / Salida
+          -Mecanismos de transmision-
+ 
+ Influenza / Gripe
+  - Tiene cuatro tipos (a,b,c,d), este ultimo solo contagia ganado
+  - Se contagia de manera de directa / indirecta
+   * Por gotas de saliva
+  - Para humanos, el tipo A / B son los mas comunes.
+  - Muta rapidamente
+
+Influenza tipo A 
+ - H1N1
+ - Sintomas comunes son diarrea, tos, y fiebre
+ - Poblacion de riesgo son niños, adultos mayores, y embarazadas
+ - Para prevenirla / tratarla, debe haber vacunacion y medidas de prevencion comunes; como distanciamiento social, y uso de mascarillas
+
+Gripe Aviar
+ - Descubierta en 1997, en Hongkong
+ - Rebroto en mayo de 2022
+¿Por que es dificil contenerlo?
+ - Se contagia entre ganado, una de las industrias mas grandes a nivel global
+ - Tiene alta taza capacidad mutagenica
+ - Se debe a la mala higiene de la industria aviaria
+ 
+Gripe española (H1N1)
+ - Propagacion via mala higiene y medidas de alejamiento inefectivas
+ 
+ Gripe Porcina
+ - El virus se detectó por primera vez en humanos en abril de 2009 en México
+ - Tiene mortalidad baja
+
+Covid-19
+ - SARS-COV-2
+ - Sintomas comunes son diarrea, tos, y fiebre
+ - Poblacion de riesgo son niños, adultos mayores, y embarazadas
+ - Para prevenirla / tratarla, debe haber vacunacion y medidas de prevencion comunes; como distanciamiento social, y uso de mascarillas
+ 
+ Infecciones (ITS) y enfermedades (ETS) de transmision sexual
+ - Infecciones
+  * Causadas por algun patogeno y pueden ser asintomaticas
+ - Enfermedades
+  * Son causadas por alguna infeccion de transmision sexual
+
+ITS mas comunes en Chile
+ - Gonorrea
+  > Ardor al orinar,
+  > Secreción de pus del pene o la vagina,
+  > Sangrado vaginal
+  > Dolor pélvico en las mujeres, dolor en los testículos en los hombres.
+  
+ - Sifilis
+  > llaga indolora 
+  > fiebre
+  > dolor de garganta 
+  > sarpullidos 
+  > Caída del cabello
+  > Verrugas
+  > Sarpullido
+  
+ - Virus del papiloma humano (VPH)
+  > Verrugas en el área genital 
+  > Lesiones precancerosas
+  > Cancer
+  > Dolor pélvico
+  > Flujo vaginal de olor desagradable
+  
+ - Herpes
+  > Erupciones cutaneas
+  > Ardor
+  > Hormigueo
+  > Ampollas
+  > Ganglios inflamados
+  > Fiebre
+
+Medidas de prevencion para enfermedades
+ - Lavado de manos, ventilar espacios compartidos, vacunacion, educacion sexual, uso de elementos de proteccion, y alcohol gel
+ 
+Sistema inmune
+ - Barrera primaria
+  * Piel, Mucosa, Lagrimas, Flora microbiana
+  * Proteje de cualquier patogeno
+  * No tiene memoria
+ - Barrera secundaria (inmunidad innata)
+  * Inflamacion, fiebre, sistema de complemento
+  * Compuesto por celulas
+   > Macrofagos y neutrofilos (reconocen y destruyen)
+ - Barrera terciaria
+  * Compuesta por
+   > Inmunidad celular
+   > Inmunidad humoral
+  * Tiene memoria celular, compuesta por 
+   > Anticuerpos y celulas
+   
+Anticuerpos
+ - Los patogenos contienen ciertas proteinas, lo que hacen los anticuerpos es anclarse a estas proteinas,
+ y en conjunto con otras celulas del sistema inmune, fagocitar el patogeno.
+
+-------------------------- 2026 --------------------------------------------
+
+Unidad de repaso (1)
+
+ # Los Mecanismos de defensa tardan hasta 5 meses en recuperarse despues de una infeccion con Covid-19
+
+Sistema inmune
+ - conjunto de celulas, tejidos, y organos que protejen al organismo de distintos patogenos
+  * Reconocimiento de lo extraño
+  * Eliminacion
+  * Memoria inmunologica
+   # Antigeno = Molecula extraña
+   # Linfocito = Celulas blancas especializadas
+   # Macrofagos = Engullen Patogenos (se los comen)
+   # Patogenos = microorganismo que provoca enfermedad
+   # Celula dendritica = Presentan antigenos a los Linfocitos
+
+Inmunidad innata 
+ - Respuesta rapida, presente desde el momento
+  * Piel, mucosa, Celulas fagociticas
+Inmunidad adaptativa
+ - Respuesta especifica, genera memoria
+  * Linfocitos T & B
+
+Barreras defensivas
+ - 1ra = Barreras fisicas
+  * Piel = Herida causada en esta genera alta liberacion de histamina
+  * Mucosa = El mucus de las mucosas respiratorias retiene patogenos, los cilios los arrastran, 
+  y el estornudo los expulsa.
+  * Estras = pH Estomacal, la Lisocima de las lagrimas, Flora intestinal y fiebre; etc
+
+ - 2da = Respuesta innata
+  * Actua cuando los patogenos entran al organismo
+   # Respuesta adquirida
+   # No especifica
+   # Participan Celulas y proteinas del sistema inmune
+    & Neutrófilos: fagocitan y eliminan bacterias (respuesta rápida).
+    & Macrófagos/monocitos: fagocitosis, limpieza y producción de citocinas.
+    & Células dendríticas (innatas): detección y captura de patógenos; activan inflamación.
+    & Células NK: matan células infectadas/ tumorales.
+    & Eosinófilos: contra parásitos multicelulares.
+    & Mastocitos/basófilos: liberan histamina y mediadores inflamatorios.
+   # Respuesta Inflamatoria
+
+ - 3ra = Inmunidad adaptativa
+  * Genera respuesta especifica para cada patogeno y sus antigenos
+   # Detecta
+   # Elimina
+   # Previene (memoria)
+
+Varias celulas stem pasan por un proceso llamado Hematopoyesis, en le que se tranforman en otro tipo de
+celula con algun tipo de especializacion
+
+Respuesta Inflamatoria (reaccion a la infeccion o lesion)
+ - Caracteristicas
+  * Enrojecimiento
+  * Dolor
+  * calor
+  * Hinchazon
+ - Funcion
+  * Aumento flujo defensivo
+  * Llegada celulas defensivas
+
+
+Organismos linfoides
+ - Medula osea
+  * Organo linfoide primario donde se producen y maduran Linfocitos B (y otros), a partir de celulas
+  progenitoras Hematopoyeticas
+ - Timo
+  * Organo linfoide primario en el mediastino, donde los Linfocitos T maduros se desarrollan y se 
+   seleccionan para convertirse en Linfocitos T maduros y formados
+ - Ganglios linfaticos / Linfonodos
+  * Estan en los conductos linfaticos
+  * Recoje la linfa, actuando como filtro para evitar el paso de microorganismos
+ - Amigdalas/Tonsilos
+  * Ubicadas en la entrada de la faringe
+  * Aportan Linfocitos al sistema circulatorio
+ - Bazo
+  * Pulpa roja con eritrocitos
+   # filtra la sangre, captura y destruye eritrocitos viejos
+  * Pulpa blanca
+   # Contiene tejido linfoide PALS (vaina alveiolar linfoide)
+    & El pals alverga
+     % Linfocitos B (internos) & T (mas externos)
+
+Contenidos guia N°1 (traspasado con lens)
+Texto 1 ------------------------------
+
+El sistema inmune es el encargado de proteger nuestro cuerpo frente a agentes infecciosos como bacterias, virus y hongos Para ello, cuenta con diferentes niveles de defensa organizados en barreras primarias, secundarias y terciarias, que actacan de manera coordinada para evitar o eliminar la amenaza. La barrera primaria corresponde a los mecanismos físicos, químicos y biológicos que impiden la entrada de patógenos al cuerpo. Ejemplos de esta barrera son la piel, las mucosas, las lágrimas, la saliva y el moco de las vías respiratorias. Por ejemplo, si una persona sufre una cortadura, esta barrera se ve comprometida, permitiendo el ingreso de microorganismos. En este caso, el sistema inmune activa una segunda línea de defensa para controlar la infección.
+
+La barrera secundaria corresponde a la inmunidad innata, que es la primera línea de respuesta interna del cuerpo. Es rápida y no específica, lo que significa que actúa igual frente a distintos patógenos. Aquí participan principalmente las células de la línea mieloide, como los macrófagos, que fagocitan (engullen) a los invasores, los neutrófilos, que son las primeras células en llegar al sitio de Infección, los eosinófilos, que participan especialmente en infecciones parasitarias y reacciones alérgicas, los basófilos, que liberan sustancias inflamatorias como la histamina, y los mastocitos, presentes en tejidos, que también participan en respuestas alérgicas e inflamatorias, También son clave los monocitos, que circulan por la sangre y se transforman en macrófagos o células dendríticas al llegar a los tejidos. Estas últimas son fundamentales en el puente entre Inmunidad innata y adaptativa, ya que capturan antigenos y los presentan a los linfocitos T para iniciar la respuesta específica. Además, las células NK (Natural Killer), que son parte de la linea linfoide, pero pertenecen a la inmunidad Innata, reconocen y destruyen células infectadas por virus o células tumorales sin necesidad de reconocimiento específico. Son clave en la defensa temprana frente a infecciones virales. Continuando con el ejemplo de una cortadura, frente a una infección bacteriana, todas estas células actúan para contener la amenaza en las primeras horas.
+
+Por su parte, la barrera terciaria corresponde a la inmunidad adaptativa, que es más lenta pero altamente específica. Esta respuesta es capaz de reconocer características únicas de cada patógeno y generar memoria para respuestas futuras Está a cargo de las células de la línea linfoide, como los linfocitos By T. Esta barrera es esencial cuando la inmunidad innata no logra eliminar completamente al patógeno. El sistema inmune adaptativo tiene dos formas principales de actuar frente a los patógenos, la respuesta humoral vs respuesta celular, La respuesta humoral es llevada a cabo principalmente por los linfocitos Cuando detectan un antigeno
+
+(una sustancia extraña), se transforman en células plasmáticas que producen anticuerpos, Estos circulan por la sangre y los fluidos del cuerpo, uniéndose a los patógenos para neutralizarios o marcarlos para su destrucción. Esta respuesta es especialmente eficaz contra bacterias y virus que están fuera de las células.
+
+
+Texto 2 -----------------------------
+En cambio, la respuesta celular está mediada por los linfocitos T. especialmente los linfocitos T Citotóxicos (CD8+) que destruyen directamente células infectadas por virus o células tumorales. También actúan los linfocitos T ayudadores (CD4+), que coordinan la respuesta inmune activando otras células, como los linfocitos B. los macrofagos y las células dendriticas. Esta respuesta es clave en en infecciones virales y en la detección de células
+
+anómalas. Un concepto clave es la selección clonal, Cada linfocito tiene receptores únicos para detectar un solo tipo de antigeno Cuando un linfocito reconoce su antigeno, se activa y se multiplica (clona) generando una respuesta específica y eficiente contra ese agente,
+
+Por último, la respuesta inmune se desarrolla en varias fases. Primero ocurre el reconocimiento, cuando el sistema detecta un antigeno extraño. Luego viene la activación, donde las células específicas se multiplican. Después, durante el ataque, las células inmunes destruyen al invasor o lo neutralizan. Por consiguiente, viene una fase de declinación donde se produce la muerte de los linfocitos estimulados por los antígenos. Finalmente, queda una fase de memoria donde se conservan linfocitos específicos que recordarán al patógeno en futuras exposiciones. La memoria inmunológica es lo que permite una respuesta más rápida y eficaz si el mismo agente vuelve a ingresar al cuerpo. Esta propiedad es la base de las vacunas, que enseñan al sistema inmune a reconocer un patógeno sin causar la enfermedad
+
+En resumen, el sistema inmune combina rapidez y especificidad gracias a la interacción entre la inmunidad innata y adaptativa. Sus células y órganos trabajan en conjunto para defender el organismo, generar memoria y responder cada vez mejor frente a las amenazas externas.
+
+Texto 3 ------------------------------
+
+El ciclo celular es un proceso fundamental en el cual una célula se divide y se duplica, generando dos células hijas idénticas. Comprende dos fases principales: la interfase y la mitosis. La interfase se divide a su vez en tres fases: la primera, conocida como G1, es un periodo de crecimiento celular y actividad metabólica intensa. 
+
+Le sigue la fase S, donde tiene lugar la replicación del ADN, asegurando que cada célula hija reciba una copia completa del material genético. Finalmente, llegamos a la fase G2, donde la célula se prepara para la división celular. Una vez completada la interfase, la célula entra en la mitosis, un proceso de división nuclear que consta de cuatro fases: profase, metafase, anafase y telofase, culminando con la separación de los cromosomas y la formación de dos núcleos hijos.
+
+El ciclo celular y sus fases son esenciales para el crecimiento y la reproducción celular, cada paso es crucial pare garantizar la correcta división celular y la preservación de la información genética.
+
+
+---------------------- Reproduccion y sexualidad ------------------------------------------------
+
+Tipos de organismo reproductivos
+ - Sexuales
+  * Creacion de individuos a partir de gametos haploides provenientes de dos Organismos
+  * Se obtiene un cigoto
+  * Permite variabilidad genetica
+ - Asexual 
+  * Creación de nuevos individuos a partir de un solo progenitor sin unión de gametos; la descendencia
+  suele ser genéticamente igual al progenitor
+  * Usualmente no tiene variabilidad
+
+Genero
+ - Identidad de Genero
+  * es la percepcion que cada individuo tiene sobre si mismo
+   # No esta ligada al sexo Biologicos
+
+ - Expresion de Genero 
+  * Se relaciona con la manera en la que un individuo muestra su genero al mundo
+   # Sea nombre, vestimenta, etc
+
+ - Sexo Biologico
+  * Es el sexo con el que se nace, y esta determinado por caracteristicas fisicas/fisiologicas
+   # Cromosomas, hormonas, etc.
+
+ - Orientacion sexual
+  * Esta dada por el tipo de persona por el cual se tiene atraccion
+  
+Organos de reproduccion 
+ - Pene (organismo sexual masculino)
+  * Organo erectil que permite el deposito de espermatosoides en el aparato reproductor femenino
+  * Su extremo sensible es el glande
+  * Cuerpo cavernoso y cuerpo esponjoso: Tejidos eréctiles que se llenan de sangre para producir la 
+  erección; el cuerpo esponjoso rodea la uretra y forma el glande.
+  * Uretra: Conducto único por el que salen la orina y el semen; atraviesa el interior del pene hasta 
+  el meato urinario en el glande.
+  * Prepucio: Pliegue de piel que cubre y protege el glande en estado flácido; puede ser removido por 
+  circuncisión.
+  * Frenillo: Banda de tejido en la cara inferior del glande que conecta el prepucio con el glande y 
+  es una zona sensible.
+
+ - Utero
+  * Organismo muscular hueco que recibe al embrion y hace el desarrollo del feto
+ - Oviductos
+  * Conductos musculares que conectan los ovarios con el utero, asi ocurriendo la fecundacion
+ - Ovarios
+  * Gonadas que producen ovocitos
+  * Ubicacion en cavidad pelvica en ambos lados del utero.
+ - Vagina 
+  * Conducto tubular de aprox. 10cm de largo que conecta el utero resto del organismo
+  * Constituye al canal de parto
+ - Endometrio
+  * Capa del utero externa que se desprende todos los meses
+ - Vulva
+  * Conjunto de ganitales externos femeninos
+  * Tiene dos pliegues
+  * Organo sensible = clitoris
+  * Orificio de la uretra por delante del orificio vaginal
+
+Hormonas
+ - Mensajeros quimicos de origen peptidico / lipidico que influyen en el activacion de celulas 
+ determinadas (tejido diana/blanco), el otro grupo de mensajeros quimicos son los neurotransmisores
+ - En torno a reproduccion, existen las siguentes hormonas troncales:
+  * FSH (Hormona Foliculo-estimulante)
+   # Maduracion del ovocito (En femeninos)
+   # Estimula la produccion de espermatosoides (En masculinos)
+  * LH (Hormona Luteinizante)
+   # Controla maduracion del foliculo
+  * Testosterona
+   # Prohormona esteroidal
+   # Responsable de caracteristicas sexuales masculinas secundarias
+   # Tambien esta presente en mujeres, pero en menores cantidades
+   # Su forma activa es la dihidro-testosterona
+   # Es secretada en hombres por las celulas de Leydig
+  * Inhibina
+   # Inhibe la liberacion de FSH (cuando hay demasiada testosterona en el sistema, frena su produccion)
+   # Secretada por Celulas de Sertolli 
+  * Estrogenos
+   # Es parte de las hormonas esteroidales
+   # Su forma mas común es el 17-B-Estrogeno
+   # Responsable de las caracteristicas sexuales femeninas y crecimiento endometrico
+   # Intervienen en el metabolismo de los lípidos y la distribución de la grasa corporal.
+   # Secretado en ovarios principalmente
+   # Produce cuerpo luteo y maduracion del Endometrio
+
+  * Testiculos
+   # Producen espermatosoides y hormona sexual masculinas
+   # Almacenados los espermatosoides en el epididimo para su maduracion
+-------------------------------------------------------------------------------
+Segundo semestre ---- Teorias evolutivas
+
+Biodiversidad
+ - Fijismo (Somos seres perfectos, e inevolucionables)
+  * Creacionismo (Somos seres perfectos, creados por una deidad para la perfeccion)
+ - Evolucionismo
+  * Evolucion de los caracteres adquiridos (Por Jean Baptiste Lamark?
+  * Evolucion por seleccion natural (Por Charles Darwin)
+
+
+Postulados de Lamark
+ - El ambiente no es constante, sinó que va cambiando gradualemente, y establece que surjan nuevas necesidades
+ - Un "sentimento interior" del animal lo lleva a satisfacer una necesidad evolutiva, 
+ - El uso de ciertas partes las fortalece, el desuso las atrofia (ej: el apendice)
+ - Las caracteristicas adquiridas se adhieren (a la siguente generacion, directamente)
+
+Postulados de Darwin/Wallace
+ - Embarcacion Beagle
+  * Experiencias vividas por Darwin en Galapagos
+   # Seleccion natural
+   # Los pinzones, según necesidad, desarrollaban distintos picos, importante conocimiento para la creacion de los postulados.
+ - Las formas de vidas no son estaticas, sinó evolutivas
+ - El proceso de evolucion es gradual, lento y continuo (GRADUALISMO)
+ - Organismos parecidos estan emparejados y decienden de un antepasado común (ORIGEN COMÚN)
+ - Seleccion natural (SUPERVIVENCIA DEL MAS APTO)
+
+ - Teoria de Darwin/Wallace
+  * Ideas centrales
+   # NO EXPLICA VARIABILIDAD GENETICA
+   # Evolucionismo
+   # Gradualismo
+   # Origen Común
+  * Condiciones para la seleccion natural
+   # Variabilidad
+   # Presion por la seleccion y reproduccion natural
+
+"En las costas de la region del maule, la arena es gris, y existen meduzas grises y medusas blancas; con el paso del tiempo, se ha establecido
+que la fraccion de las meduzas grises era mayor que las blancas"
+ - Como interpretarias esto?
+  * Posible respuesta: Las medusas grises sobrevivian mas, pues pasaban desapercibidas en el ambiente
+ - Que pasaria si la arena fuera blanca?
+  * Posible respuesta: Las medusas blancas sobrevivirian más, pues ellas se camuflarian mejor en el ambiente
+
+Tipos de seleccion natural
+ - Estabilizante
+  * Privilegia los rangos promedio
+   # Una girafa con un cuello muy largo u muy corto no sobreviven mucho, pero la que tenga el rasgo promedio (cuello mediano) si.
+ - Distruptiva
+  * Elimina el rasgo promedio
+   # Un pajaro tiene un pico especializado para semillas pequeñas, y el otro para semillas grandes; el rasgo promedio (pico mediocre para ambas)
+   no evolucionará; y las caracteristicas especializadas prevaleceran
+ - Direccional
+  * Se prioriza uno de los rasgos extremos
+   # Un grupo de polillas tiene distintos colores en una cueva; un extremo seria oscuro, y el otro claro,
+   como la cueva es oscura, poco a poco, las polillas claras dejaron de existir, y las polillas oscuras prevalecen
+
+Neodarwinismo (Teoria sintetica de la evolucion)
+ - Paleontologia
+ - Genetica
+ - Sintetica
+  * Rechaza la teoria de caracteres adquiridos
+  * No basado en individuos, sinó poblaciones
+  * Mutaciones aportan/justifican variabilidad
+  * Evolucion gradual
+
+Teoria del equilibrio puntuado (Stephen J. Gould, Niles Eldredge)
+ - Basada en cambios geneticos
+ - Habla de genetica, y de registros fosiles
+  * Propone paradas (Estasis)
+  * Saltos bruscos
+   # Y es mecanismo de especialidades
+
+Neodarwinismo vs. equilibrio puntuado
+ -             | - - - - 
+  *            | &   @
+ - #           | %     °
+ -  &          | #  +
+
+Seleccion artificial
+ - Lo que pasó con los pugs
+
+Registro fosil
+ - Huella o rastro de la existencia de una especie
+  * Tipos de fosilizacion
+   # Reemplazo
+    & Se cambia materia organica por minerales
+   # Molde
+    & Vestigios de presencia o actividad (sease huellas, coprolitos, etc)
+   # Preservacion
+    & Capacidad de organismos para preservarse, usualmente confinados en un material que los preserva (Ambar, asfalto, hielo, etc)
+
+Biogeografia
+ - Estudia el reparto de los seres vivos en el planeta
+Anatomia comparada
+ - Organos homologos (Origen evolutivo común: provienen del mismo ancestro.
+Evolución divergente: con el tiempo se modifican para cumplir funciones distintas.)
+
+ - Organos analogos (Origen evolutivo distinto: no comparten un ancestro inmediato común para esa estructura.
+Evolución convergente: la forma se parece porque enfrentan presiones ambientales similares, por lo que “convergen” hacia soluciones parecidas.)
+
+Organos vestigiales
+ - Organos en desuso, algún dia tuvieron uso, pero ya no es el caso
+
+Bioquimica y biologia molecular
+ - Se comparan secuencias de ADN, y asi se determina parentesco

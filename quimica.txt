@@ -1,0 +1,406 @@
+---------------------------- Mezclas ---------------------------------------------------------
+
+Existen dos tipos de mezclas:
+
+- Mezclas heterogéneas (componentes mezclados, pero distinguibles el uno del otro)
+  ° Ej: Tierra de hojas
+
+ * De estas existen las "Suspensiones" de las que, se distingue claramente los elementos que la componen.
+  ° Ej: Polvo en el aire
+   
+- Mezclas homogéneas (componentes mezclados e indistinguibles para el ojo)
+  ° Ej: Agua de mar
+
+ * De estas existen las mezclas "Coloides" las cuales representan las partículas de un elemento suspendidas sobre el otro, comúnmente siendo referidas como "Emulsiones"
+  ° Ej: Mayonesa
+
+Disoluciones
+
+Referidas a mezclas homogéneas en las que las partículas del soluto se reparten equitativamente a través del solvente (comúnmente agua); para que esto suceda, las fuerzas entre las moléculas que se establecen entre el soluto y el solvente sean mayores a las fuerzas que los mantienen separados.
+
+ - Dependiendo del soluto; el color, el sabor y las propiedades electrolíticas pueden cambiar, por esta ultima, se puede deducir, que cuando una mezcla acuosa es conductiva, es probablemente así debido al soluto.
+  * Si tiene la capacidad de volver una mezcla acuosa conductiva, se le conoce como "Electrolito" al soluto.
+
+Estas se pueden clasificar según los estados que presenten los elementos que los compongan.
+
+ - Disoluciones solidas
+  * Ref. a solidos o líquidos, disueltos en un solido, para obtener mejores características/propiedades.
+   ° Ej: Acero (combinación de hierro [solvente] y carbono [soluto]) y plástico (en algunos casos, combinaciones de varios plásticos distintos.)
+
+ - Disoluciones Liquidas
+  * Ref. a un solido, liquido o gas, disuelto en agua
+   ° Ej: El mar (disolución liquido-solido), el alcohol al 80% (disolución liquido-liquido), y la carbonatación de una bebida (disolución liquido-gas).
+
+ - Disolución gaseosa
+  * Ref. a una mezcla de gases
+   ° Ej: El aire (mezcla de oxigeno y argón, disueltos en nitrógeno).
+
+Solubilidad
+
+Referido la máxima cantidad de soluto que puede recibir un solvente; pasado cierto punto, el soluto no se disolverá correctamente en el solvente. Existen 3 grupos:
+ - Disolución Sobresaturada
+  * Esta tiene más soluto del que el solvente puede recibir a cierta temperatura, estas suceden cuando se cambian algunos factores en una disolución saturada, como la temperatura, presión, etc.
+  * Estas tienden a ser inestables
+
+ - Disolución Saturada
+  * Esta tiene la cantidad max. de soluto que puede llegar a tener un solvente en cierta temperatura.
+
+ - Disolución Insaturada
+  * Tiene una cantidad menor a la máx. que puede recibir el soluto.
+
+Factores internos que afectan la solubilidad
+
+El factor interno principal es la interacción soluto-solvente, permitiendo separar las moléculas
+ - "Lo semejante disuelve lo semejante", ósea, disolvente polar disuelve sustancias polares, y disolvente apolar disuelve sustancias apolares.
+
+Términos aplicados a disoluciones liquido-liquido para determinar la solubilidad
+
+ - Liquido miscible: Líquidos que se pueden mesclar en cualquier proporción, y siempre terminara homogénea la mezcla.
+   ° Ej: Alcohol/Agua
+
+ - Liquido inmiscible: Líquidos que no se pueden mezclar para hacer una disolución, debido a distintas polaridades.
+   ° Ej: Agua/Aceite
+
+Factores Externos que afectan la solubilidad
+
+ - Agitación
+  * Al agitar, se aumenta la movilidad de las moléculas del soluto en el solvente; esta no aumenta la solubilidad, pero acelera el proceso que demora el soluto en disolverse.
+
+ - Temperatura
+  * Al subir la temperatura, aumenta la solubilidad de muchos solidos y líquidos
+  * Al subir la temperatura, la solubilidad de los compuestos gas-liquido disminuye
+
+ - Presión 
+  * Con los solutos gaseosos, al aumentar la presión, aumenta la solubilidad.
+
+Unidades de concentración
+
+Para saber la cantidad de soluto, necesitamos saber la relación que este tiene con el solvente, esto se puede expresar en distintas unidades:
+ 
+ - Porcentaje en masa (% m/m)
+   ° %m/m = masa del soluto / masa disolución x 100
+
+ - Porcentaje masa/volumen (% m/V)
+   ° %m/V = masa del soluto / volumen disolución x 100
+
+ - Porcentaje (% V/V)
+   ° %V/V = volumen del soluto / volumen disolución x 100
+
+ - Concentración Molar / Molaridad (C)    
+   ° C = Moles del soluto / volumen disolución 
+
+ - Concentracion Molal / Molalidad (mb)
+   ° mb = Moles del soluto / masa disolvente
+
+ - Fraccion molar (X)
+   ° X = Moles del soluto / Moles totales = Moles del soluto / Moles soluto + Moles solvente
+
+ - Partes por millon (ppm)
+   ° masa del soluto / masa de la disolucion x 10^6
+
+Guia 1
+---- Historia química orgánica ----
+
+ - Vinculada al humano desde tiempos inmemorables
+  * Antiguas civilizaciones lo usaban para conseguir recursos
+ 
+ - En 1675, Nicolas Lemery (francés) acepto que los compuestos químicos naturales tenían 3 fuentes
+  * Plantas
+  * Animales
+  * Minerales
+ - Posteriormente, se decía que los mismos compuestos venían de animales y plantas; cambiando la clasificación
+  * Procedencia animal/vegetal
+  * Procedencia no animal/vegetal
+ 
+ - Vitalismo
+  * Muchos biólogos planteaban que los seres vivos tenían una fuerza vital
+  * Compuestos orgánicos = Solo extraíbles de seres vivos
+ 
+ - En 1828, Friedrich Wöhter, haciendo pruebas con distintos Cianatos, accidentalmente produjo urea artificial
+
+ - Al Hermann Kolbe sintetizar el acido acetico, y al sintetizarse la urea, cae la teoría vitalista; con esto, se empieza a intentar sintetizar otros compuestos organicos
+ 
+ - En 1858, August Kekulé y Archibald Scott, plantearon los enlaces químicos, cambiando la historia de la química.
+
+---- Química organica ----
+
+ - Estudia los compuestos del carbono, mas que nada hidrocarburos (carbono-hidrogeno), fundamental para la vida.
+
+---- ¿Por que es importante? ----
+
+ - Esencial para la vida: ya que todo ser vivo tiene compuestos organicos.
+
+ - Medico: Los farmacos tienen moleculas orgabucas que interactuan con procesos biologicos
+ 
+ - Industria/Tecnologia: Plasticos, cosmeticos, combustibles, pinturas, detergentes, tienen compuestos organicos
+ 
+ - Agricultura: Pesticidas, herbicidas y fertilizantes organicos ayudan a la eficiencia de producir alimentos
+
+---- Formas del carbono ----
+
+ - Los atomos de carbono se pueden enlazar con otros atomos, ya sean carbono, o cualquier otro
+
+ - El grafito y el diamante son formas alotropicas del carbono, esto significa que su estructura es la misma, pero forma de enlace entre atomos es distinta
+
+ - Tiene varias formas, como:
+  
+  * Grafito: cada atomo se une (covalente) a otros 3, formando una red de hexagonos planos que forman laminas paralelas entre si, unidas por fuerzas intermoleculares
+   #: Dependiendo de como se organicen las moleculas, hay dos tipos de grafito
+    &: Grafito hexagonal (mas estable), donde hay apilamiento ABAB
+    &: Grafito romboédrico (menos estable), donde hay apilamiento ABCABCA.
+   #: Una capa individual de grafito se conoce como "grafeno"
+
+ * Diamante: cada atomo se une con 4 mas, formando estructuctura tetrahedrica
+  #: Debido a sus condiciones extremas de presion y temperatura, mantiene una alta pureza.
+   &: Uno sintetico no tiene la misma pureza.
+
+ * Fullereno: Descubierto el 1985 por Harold Kroto, Robert Curl, y Richard Smalley, garantizandoles un novel.
+  #: Es la tercera forma mas estable del carbono natural, con una composicion quimica similar al grafeno, pero con pentagonos y/e hexagonos, ademas de a veces heptagonos
+  #: Suele presentarse en esferas
+   &: Ej: 60 carbonos, en forma C6O, forma 2 pentágonos y 20 hexágonos, como un balón de football
+  #: Tiene conductividad eléctrica, siendo útil para medicina, ciencia, y nanotecnología.
+
+---- Atomo de carbono ----
+
+ - Se encuentra en el grupo 14, periodo 2, y tiene un N° atomico de Z=6
+ - En su estado fundamental, su config. electrónica es:
+  #: 1s2 - 2s2 - 2px1 - 2py1 - 2pz0
+  #: 1s2 - 2s2 - 2p2
+ - Tiene 4 electrones de valencia, por lo que es considerado TETRAVALENTE
+Para hacer enlaces covalentes, debe tener 4 electrones de valencia en su orbital de valencia, por lo que se excita para darle un electron del nivel anterior, al nivel de valencia, para que queden 4 electrones de valencia disponibles (4 átomos desapareados). 
+  #: 1s2 - 2s1 - 2p3
+  #: 1s2 - 2s1 - 2px1 - 2py1 - 2pz1
+
+ - Según la teoría de los orbitales atomicos plantea que electrones se encuentran en orbitales, que orbitan el núcleo; estos tienen formas definidas
+
+---- Por que es tan especial? ----
+ - Ya que de los tetravalentes, es el que mas diversidad de compuestos tiene, y el que hace enlaces mas estables.
+
+---- Polaridad compuestos organicos ----
+ - Su comportamiento depende del tipo de enlace
+ - El enlace covalente requiere que se compartan electrones entre 2 atomos.
+ - De este, existe:
+  #: Covalente Polar
+   &: Uno de los atomos es mas electronegativo que el otro
+   &: Entre mayor sea la diferencia de sus electronegatividades, mayor será la polarización del enlace/molecula
+  #: Covalente Apolar
+   &: Electronegatividades similares, mientras menor sea su diferencia, menor será la polarización del enlace/molecula 
+ - Las temperaturas de fusion/ebullición son determinadas por el tipo de enlace.
+
+---- Conductividad eléctrica ----
+ - Los inorgánicos con enlace ionico son buenos conductores en disolución o fundidos
+ - Los organicos con sus enlaces covalentes, no conducen electricidad
+ - Con ciencia se han descubierto polímeros orgánicos conductivos.
+  
+--------------------------------------------- GUIA 2: Hibridación ---------------------------------------------
+
+Hibridación del átomo de carbono
+ - Este es el proceso en el cual dos orbitales se combinan, formando orbitales nuevos, redistribuyendo sus electrones; con esto, el carbono puede realizar enlaces simples, dobles o triples,
+ - Tipos de hibridación
+  #: SP3
+   &: En esta, hay un enlace simple, y una hibridación por enlace sigma, siendo este el mas fuerte que hay.
+
+  #: SP2
+   &: 2 orbitales combinándose para formar 3 hibridos tipo sp2.
+   &: Queda un p orbital puro (sin hibridar)
+   &: Hace un enlace pi, y uno sigma
+
+  #: SP
+   &: S se combina con P, formando 2 orbitales hibridos tipo sp
+   &: Quedan 2 orbitales sin hibridar.
+   &: Hace 1 enlace sigma, y 2 pi.
+   
+------------------------------ Grupos funcionales ------------------------------------------------------
+
+Alcoholes
+ - Son derivados del agua (hidroxilo) en el que uno de sus hidrogenos es reemplazado po un grupo organico; se obtiene un hidrocarburo alifatico (lineal) 
+ 
+Acido carboxilico (RC(=O)OH)
+ - Prefijo "acido"
+ - Sufijo "oico"
+ - Ubicado al final de una cadena
+
+Éter(es) (ROR)
+ - Polar, incoloro, inflamable
+ - Bajo punto de ebullición
+ - No forma puentes de hidrogeno entre ellos
+ - Buen olor
+ - SIEMPRE SE UBICA AL CENTRO DE LA MOLECULA
+ - Sufijo "eter"
+ 
+Ester (RCO(=O)R)
+ - Comunes en la naturaleza
+ - Volatiles y apolares
+ - Sufijo "oato de alquilo"
+ 
+Cetona (RC(=O)R)
+ - Soluble en agua
+ - Alto punto de ebullicion
+ - Buenos solventes de distancias polares
+ - Altamente reactivo por estructura
+ - Sufijo "ona"
+ - Carbon primario el mas cercano al carbono del grupo
+ 
+Aldeido (RCH(=O))
+ - Soluble en agua
+ - Alto punto de ebullicion
+ - Buenos solventes de distancias polares
+ - Altamente reactivo por estructura
+ - El carbono del grupo es el carbono 1
+ - Los ciclos tienen sufijo "carbaldeido"
+ - Sufijo "al"
+ 
+Amina (NH3)
+ - Sufijo "amina"
+ - Tiene primario, secundario y terciario
+  * NH2
+  * NH
+  
+Amida (RC(=O)NH2)
+ - Sufijo "amida"
+ - Tiene primario, secundario y terciario
+  * (RC(=O)NHR)
+  * (RC(=O)NHRR')
+  
+Anhidrido (RC(=O)OC(=O)R)
+ - A los derivados del acido carboxilico, se les resta 1 mol de H2O
+ - Son cadenas inferiores a 10 carbonos
+ - Incoloro, de fuerte olor
+ - Alto punto de ebullicion
+ - Prefijo "Anhidrido"
+ - Sufijo "ico"
+ - Existen 2 tipos
+  * Simetricos
+   # Misma cantidad de carbonos en ambos lados
+   # Solo se considera 1 vez el nombre
+  * Asimetricos
+   # Se concidera 2 veces el nombre
+   
+Nitrilos (RC(≡N)
+ - Derivados del cianuro de hidrogeno
+ - Incoloros, de olor unico
+ - Alto punto de ebullicion
+ - Altas polaridades
+  * Son solubles en agua
+
+Tioles (RSH)
+ - Horrible olor, ligeramente polar
+ - Menos soluble que los alcoholes
+ - Punto de ebullicion bajo
+  * Interacciones dipolo-dipolo
+ - Se escoje la cadena que tenga el grupo funcionales
+  * Carbono 1 será el mas proximo al grupo
+ - Sufijo "tiol"
+ 
+Sulfuro (RSR) -- NO VA
+ - Menos volatil que el eter/mas reactivo
+ - Sufijo "sulfuro"
+ 
+Haluros de alquilo
+ - Presenta elementos del grupo halogenos
+  * Ej: F, Cl, Br, I, etc.
+ - Nomenclatura se nombran primero los elementos por orden alfabetico
+
+----------------------------- Contenidos 2026 ---------------------------------
+Disoluciones quimicas
+ - Mezcla homogenea formada por un soluto disuelto uniformemente en un solvente
+
+Soluto
+ - Sustancia que se disuelve en otra, generalmente en menor concentracion
+
+Solvente
+ - Sustancia de disuelve el soluto y suele estar presente en mayor cantidad
+
+Solubililad (NO CONFUNDIR CON SOLUTABILIDAD)
+ - Cantidad maxima de soluto que puede disolverse en un solvente a una temperatura y presion determinados
+
+Solventacion
+ - Proceso por el cual particulas del solvente rodean y estabilizan las particulas del soluto, si el solvente
+es agua, se conoce como hidratacion
+
+Mezclas 
+ - combinacion fisica de 2 o mas sustancias que conservan sus quimicas
+
+Mezclas homogenea
+ - Mezcla en la que sus componentes estan distribuidas
+
+Mezclas heterogeneas
+ - Sus elementos no estan uniformente distribuidas, sus partes se distinguen a simple vista
+
+Coloide
+ - Un coloide es una mezcla en la que hay partículas muy pequeñas dispersas en un medio (gas, líquido o sólido) y que no se sedimentan fácilmente. Estas partículas suelen estar entre 1 nm y 1000 nm.
+  * Ejemplos: leche, mayonesa, gelatina, nubes y espumas.
+
+Emulsion
+ - Tipo de coloide con dos liquidos dispersos inmiscibles (no mezclables) una fase está finamente dispersa encima
+  * Mayonesa siendo un ejemplo
+
+Tamizado
+ - Separado de mezclas homogeneas con un tamiz, las particulas pequeñas pasan el filtro, las grandes permanecen arriba
+
+Destilacion
+ - Separacion de mezclas homogeneas basada en distintas temperaturas de ebullicion, la mas volatil se evapora, y su vapor es condenzado y recolectado en otro
+   compartimento
+
+Separacion
+ - Dividir los compuestos de una mezcla sin alterar su consistencia quimica
+
+Cristalizacion
+ - Metodo de separacion/separacion de mezclas homogeneas, comunmente entre un solido y un liquido
+
+Ionizacion
+ - La ionización es el proceso por el cual una sustancia (generalmente un átomo o molécula) gana o pierde electrones y se convierte en iones (con carga eléctrica).
+
+Enlaces atomicos
+ - Son fuerzas que mantienen unidos los átomos para formar moléculas o estructuras. 
+  * Iónico: transferencia de electrones (se forman iones).  
+  * Covalente: comparten electrones.  
+  * Metálico: electrones “compartidos” entre muchos átomos (en metales).
+
+Disociacion
+ - La disociación es cuando una sustancia (por ejemplo, una molécula o un compuesto iónico en agua) se separa en partículas más pequeñas: iones o moléculas.
+  * Ejemplo: al disolver una sal como NaCl en agua, se disocia en Na⁺ y Cl⁻.
+
+Electrolitos
+ - Sustancias que, al disolverse en agua o fundirse, producen iones y conducen la corriente electrica
+
+No electrolitos
+ - Sustancia que no se disocia en iones (ej; azucar de mesa)
+
+Miscibilidad
+ - Capacidad de dos sustancias (usualmente liquidos) de mesclarse completamente formando una fase/disolucion
+
+Concentracion
+ - Cantidad de soluto en cantidad de solvente; expresado como 
+  * % Masa/Masa = Masa soluto / Masa disolucion X 100
+  * % Masa/Volumen =  Masa soluto / Volumen disolucion X 100
+  * % Volumen/Volumen =  Volumen soluto / Volumen disolucion X 100
+  * Gramos/Litro
+  * Moles/Litro
+
+Molalidad = Moles Soluto/KG solvente 
+
+Gradiente de concentracion
+ - Diferencia de concentracion entre dos regiones (un lado mas concentrado, el otro menos).
+
+Solucion saturada
+ - Contiene la maxima cantidad de soluto que puede disolverse a una temperatura dada
+
+Solucion insaturada
+ - Contiene una cantidad menor de soluto del maximo que puede ser disuelto a una temperatura dada
+
+Solucion sobresaturada
+ - Tiene demasiado soluto, cosa que a una temperatura dada, no se puede disolver; y quedan remanentes no disueltos en el solvente
+
+Molalilidad
+ - Moles soluto / Kilos solvente
+
+Molaridad
+ - Moles soluto / Litros solvente
+
+Presion 
+ - Fuerza de un sistema sobre una suferficie por unidad de area
+
+Volumen
+ - Espacio que ocupa una sustancia (sease litros u metros cubicos)
+ 

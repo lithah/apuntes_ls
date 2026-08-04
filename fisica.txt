@@ -1,0 +1,197 @@
+--------------------- Dinamica ---------------------------------------
+La dinámica es el área de la física encargada de estudiar las causas del movimiento, para ello se introduce el concepto de
+la fuerza. Una fuerza es una interacción entre dos o mas objetos que pueden producir aceleración y/o deformaciones. Es una magnitud vectorial y se mide en newtons y dinas
+
+Sistema internacional: Newtons
+CGS: Dinas
+
+1 Newton = 10^5 Dinas
+1 Newton = 1 Kg X 1(m/s^2)
+1 Dina = 1 Gr x 1(m/s^2)
+
+Se define como fuerza neta a la suma de todas las fuerzas que actúan sobre un objeto, si esta se equilibra implica que la fuerza neta es 0.
+
+Leyes de Newton
+I. Inercia
+
+"Todo objeto permanece en reposo o MRU a menos que una fuerza actúe sobre el", esta ley indica la fuerza neta sobre un objeto es 0, el objeto puede estar o en reposo o
+en MRU. Ademas esta ley señala que cuando un objeto experimenta una aceleración al
+mismo tiempo se ve afectado por una fuerza ficticia contraria a los cambios en el movimiento denominada "Inercia", por ejemplo, si un auto frena de golpe, el objeto tendera a seguir en linea recta.
+Cuando un objeto experimenta una trayectoria circunferencial se vera afectado
+por la inercia en forma de una fuerza hacia afuera de la trayectoria denominada
+"Efecto centrifugo"
+
+II. "Ley fundamental de la dinámica"
+
+La fuerza neta aplicada sobre un objeto equivale al producto de la masa por su aceleración
+mF = M x A
+
+mF = Fuerza neta (n)
+M = Masa (kg)
+A = Aceleración (m/s^2)
+
+Observaciones:
+1. Si las masa del objeto permanece constante, entonces la aceleración será directamente proporcional a la fuerza aplicada.
+
+2. Si la fuerza aplicada permanece constante, entonces la aceleración será inversamente proporcional a la masa.
+
+III. Ley de accion y reacción
+
+"A toda accion le corresponde una reacción de igual magnitud, igual dirección, pero con sentido contrario."
+
+Observaciones:
+
+1. Accion y reacción actúan de manera simultanea, esto significa que aparecen al mismo tiempo, sin embargo, se pueden distinguir debido a que la reacción no existe sin la accion.
+
+2. Accion y reacción nunca se anulan, debido a que actúan sobre objetos diferentes
+
+---------------------------------------- 4to Medio (2026) ------------------------------------------
+
+Hidroestatica
+ - Estudio de los fluidos en movimiento, con las siguentes condiciones 
+
+  * Fluido laminar
+   # Se produce cuando las capas de fluido se mueven ordenadamente de manera paralela, ademas, las
+   capas flujen minimizando el roce
+
+  * Fluido turbulante
+   # Ocurre cuando las moleculas de un fluido en movimiento generan torbellinos
+
+  * Fluido viscoso
+   # Un fluido no viscoso fluye con total facilidad, sin disipacion de energetica
+  
+  * Fluido permanente
+   # La velocidad en los que las particulas de un fluido pasan por un punto determinado
+   # Si varia, es interminable / no persistente
+  
+  * Fluido perfecto 
+   # No laminar, no viscoso, irrotacional, incompresible
+
+  * Caudal
+   # Volumen del fluido que atravieza una capa de separacion transversal de tuberia en un 
+   tiempo determinado
+   # Q = Volumen / tiempo
+   # Q = Volumen x Aceleracion (checkar)
+
+  * Conservacion de Caudal
+   # Como no hay paso de fluido a travez de la superficie lateral del tiburones
+   # Caudal entrada = Caudal salida 
+   # A1 x V1 = A2 x V2
+
+  * Principio de Bernoulli
+   # El principio de Bernoulli establece que, para un fluido incompresible y sin fricción a lo largo 
+   de una misma línea de corriente, la suma de la energía por unidad de volumen debida a la presión, 
+   la energía cinética y la energía potencial gravitatoria se mantiene constante.
+
+   # p1 + ½ ρ v1² + ρ g h1 = p2 + ½ ρ v2² + ρ g h2
+
+    ---------------- & DESCRIPCION DE LAS VARIABLES & --------------------------------------------
+    p1 (presión en 1)
+    ½·ρ·v1² (presión dinámica en 1; ρ = densidad, v1 = velocidad en 1)
+    ρ·g·h1 (término potencial en 1; g = gravedad, h1 = altura en 1)
+    p2 (presión en 2)
+    ½·ρ·v2² (presión dinámica en 2; v2 = velocidad en 2)
+    ρ·g·h2 (término potencial en 2; h2 = altura en 2)
+    -----------------------------------------------------------------------------------------------
+
+    # Para generar sustentacion, el objeto debe de tener mayor presion por debajo (por ende, el aire
+     irá mas lento), y menor presion por arrib (por ende, aire mas rapido)
+     & A mayor velocidad, menor presion
+
+Teorema de tordichello
+ - La rapidez de la salida de un fluido por un orificio de profundidad h, respecto a la superficie del
+ liquido es la misma que ocupa un cuerpo que cae libremente desde altura h
+  * v = √2gh
+   # Velocidad de salida del fluido = √2 x gravedad x altura
+
+Tubo de Venturi
+ - Mide la rapidez de un fluido, a partir de las diferencias de presion del sector mas ancho y angosto
+  * (v1^2-v2^2) = 2 x gravedad (g) x variacion de altura (Δh)
+   #
+      ________
+     /         \
+    /           \
+   /  entrada    \        <-- sección ancha (A1)
+  |               |
+  |               |
+  |    constricción\____
+  |      garganta   ___/   <-- sección estrecha (A2)
+  |               |
+  |               |
+   \             /
+    \           /
+     \_________/
+
+Etiquetas:
+- Entrada (A1): velocidad v1, presión p1
+- Garganta (A2): velocidad v2 > v1, presión p2 < p1
+
+Esfigmomanometro / Tensiometro
+ - Mide presion arterial
+ - Funciona bajo el principio de Pascal
+
+Efecto Magnus
+ - Se produce cuando una pelota encurva su recorrido en el aire, por diferencias de velocidades que
+ cambian la velocidad del aire
+  * Ej: cuando una pelota hace "efecto", o "gol olimpico"
+
+------------------------------------------------------------------------------------------------------
+
+Electricidad
+ - Electroestatica
+  * Rama de la fisica que estudia las cargas electricas en reposo, para ello se define como carga
+  electrica a la propiedad intrinceca de la materia que viene con los electrones y protones
+ - Objeto cargado
+  * Se dice que un obj. se encuentra electricamente neutro cuando la cantidad de particulas con carga
+  es igual a la cantidad de particulas con carga negativa. 
+  * Cuando el atomo es estable solamente se mueven los electrones de la capa de valencia
+  * Si el objeto pierde electrones, se encontrara positivo, si recibe electrones, se encontrará 
+  negativo
+
+ - Leyes de la cargas
+  * La carga electrica no se crea ni se destruye, solo se transfiere
+   # La suma de las cargas iniciales es igual a la suma de las cargas finales, la carga electrica se
+   mide en Coulong 
+   # Pseudo-formula: EQ = Eq (su suma es 3) (NO ENCONTRE ESTO EN NIUN LADO) --ignorar
+
+   # Se reconocen 2 tipos de cargas electricas (+/-) que tienen las siguentes interacciones
+    & <+ +>
+    & +><-
+    & <- ->
+  * Ley de conservacion de las cargas fundamentales
+   # Cuando hay tranferencia de cargas solo se pueden entregar o recibir multiples enteros (?) de la carga
+   fundamental, la cual es la carga que posee al prestar el electron, y equivale a 
+    & e- = -1,6x10^-19
+    & p+ = 1,6x10^-19
+
+
+Metodos de carga
+ - Frotamiento
+  * En este metodo, los objetos se encuentran nuetros, luego, uno de los objetos recibe electrones, Y
+  el otro los pierde
+  * Como resultado, ambos objetos quedan con la misma cantidad de carga, pero con signo contrario
+
+ - Contacto
+  * Se necesitan 2 objetos con al menos uno de ellos cargados, cuando ambos objetos se tocan, ocurre un 
+  traspaso de cargas, respetando la ley de conservacion
+   # Si ambos objetos son exactamente iguales, se traspasa el promedio de la energetica
+
+  * Observacion: Los objetos de pueden clasificar en conductores y no conductores
+   # Conductores: Permiten el movimiento libre de las cargas electricas debido a su geometria molecular
+    
+   # Aislantes: su estructura molecular es mas irregular, por lo que dificultan el paso de las cargas 
+   electricas
+
+ - Induccion
+  * Para este estado, se necesita contacto ligero y un objeto cargado, al momento de acercar el
+  inductor, al tocar al objeto neutro, el conductor se polariza, es decir, las cargas se reordenan
+
+  * Sin alejar al conductor, se genera una coneccion a tierra, de tal manera que el onketo neutro
+  queda cargado con el signo opuesto al inductor
+
+
+
+    
+
+
+

@@ -1,0 +1,256 @@
+------- Unidad 1: ¿Como se hace la filosofia? ---------
+ - Filosofia significa "amor a la filosofia" (griego)
+  * Corriente de pensamiento que busca comprender la realidad; el acto de esta es "filosofar"
+ - Preguntas filosoficas
+  * Son de caracter abierto, son criticas, fundamentales para el ser; obligan el proceso argumentativo y apuntan a ser universales
+
+¿De que forma conoce el ser humano?
+ - Intuitivo -- https://concepto.de/conocimiento-intuitivo/
+  * Forma de comprensión inmediata de la realidad que no es fruto de procesos racionales ni voluntarios, es decir, que se obtiene a partir de procesos de percepción inconscientes
+  * Generalmente veloz, ágil, y está vinculado con la creatividad, de manera que no se suele saber de dónde viene. 
+    # No siempre se considera como una forma válida de pensamiento, especialmente en entornos formales y racionales, como el científico. Sin embargo, a la hora de resolver un problema, puede ser tan válida como cualquier otra.
+  * A menudo se la vincula con las pseudociencias y las explicaciones ocultistas.
+ - Discursivo -- https://encyclopaedia.herdereditorial.com/wiki/Conocimiento_discursivo
+  * Se obtiene a través de la reflexión
+  * La mente conoce como por etapas, recorriendo diversos enunciados o proposiciones, enlazados entre sí por razonamientos. Estos razonamientos pueden ser inferencias inmediatas o pueden ser razonamientos lógicos encadenados mediante sucesión de premisas y conclusiones, escritos en lenguaje natural o formal. 
+
+Logica
+ - Ciencia de la estructura de los argumentos (los estudia, no los forma)
+ - Un argumento logico se compone de:
+  * Premisas
+   # Proposiciones iniciales de un argumento, a partir de las cuales es posible llegar a una conclusión. En todos los casos, la conclusión debe inferirse o desprenderse de las premisas, a través de un procedimiento deductivo o inductivo que sea válido y lógico. Por ejemplo:
+
+Premisa 1: Los niños fueron hoy a la escuela.
+Premisa 2: Juan es un niño.
+Conclusión: Juan fue hoy a la escuela.
+
+Las premisas son el punto de partida de un razonamiento (que permite demostrar, justificar o refutar algo). A partir de las premisa comienza la labor inductiva o deductiva. Un mismo argumento puede tener una o más premisas y, dado que son proposiciones, siempre afirman o niegan algo y, por lo tanto, pueden ser verdaderas o falsas. Por ejemplo:
+
+En el Caribe el clima es caliente,
+Todos los planetas son redondos,
+Ningún cerdo puede volar.
+
+Sin embargo, no es la verdad o falsedad de las premisas lo que determina si el razonamiento es o no válido, dado que a partir de premisas verdaderas pueden inferirse conclusiones falsas. La naturaleza del argumento o razonamiento y su validez dependen de establecer una correcta relación entre las premisas y las conclusiones, más allá del contenido. Por ejemplo:
+
+Premisa 1: Matías nos visita los domingos
+Premisa 2: Hoy es domingo.
+Conclusión: Hoy nos visitará Matías.
+
+En este caso, ambas premisas pueden ser verdaderas, pero no por eso la conclusión debe serlo. Porque puede que Matías ese domingo no nos visite, por más que siempre lo haga los días domingo.
+
+  * Conclusiones
+   # La proposición final de un argumento o un razonamiento, porque se desprende de las premisas (enunciados que afirman algo).
+   # Por lo tanto, una conclusión no es una opinión ni una sugerencia ni un resumen de lo antes expuesto, sino un argumento lógicamente derivado de las premisas evaluadas, es decir, el fruto de una labor del pensamiento y el razonamiento.
+   
+Inferencias
+ - Inductivas
+  * El razonamiento inductivo o inducción es una forma de razonamiento en que la verdad de las premisas apoyan la conclusión, pero no la garantizan. 
+  * Un ejemplo clásico de razonamiento inductivo es:
+   # Todos los cisnes observados hasta el momento han sido blancos
+   # Por lo tanto, todos los cisnes son blancos
+  * En principio, podría ser que el próximo cisne que se observe no sea blanco.
+  * Dada su naturaleza falible, su justificación puede ser problemática. ¿Cuándo estamos justificados en realizar una inferencia inductiva, y concluir, por ejemplo, que todos los cisnes son blancos a partir de una muestra limitada de ellos? ¿Qué distingue a un buen argumento inductivo de uno malo? Estos y otros problemas relacionados dan lugar al problema de la inducción, cuya vigencia e importancia continúa desde hace siglos. 
+  
+ - Deductivas
+  * Una inferencia es deductivamente válida si su conclusión se sigue lógicamente de sus premisas, es decir, si es imposible que las premisas sean verdaderas y la conclusión falsa.
+  
+Silogismos
+ - Es un tipo de razonamiento deductivo que hace parte de la lógica. Consta de dos proposiciones como premisas y otra como conclusión, siendo la última una inferencia necesariamente deductiva de las otras dos. 
+  * Su estructura fija consta de tres proposiciones:
+   # Premisa mayor o universal. Supone una afirmación general o universal, de carácter amplio. Por ejemplo: Todos los humanos son mortales.
+   # Premisa menor o particular. Establece una relación específica entre un miembro individual de una categoría y la categoría general mencionada en la premisa mayor. Por ejemplo: Marcos es humano.
+   # Conclusión. Es la inferencia lógica que se hace a partir de las premisas. Por ejemplo: Marcos es mortal.
+   
+Dialogo argumentativo
+ - Un diálogo argumentativo es un intercambio de ideas entre dos o más personas que utilizan argumentos para defender su punto de vista con el objetivo de persuadir o llegar a un acuerdo. Se basa en reglas de cooperación, como aportar información relevante y veraz, y busca construir una comprensión compartida del tema a través de argumentos, razonamientos y análisis de posturas.
+  * Ej: Un debate
+ - Reglas
+  * Principio cooperativo
+   # Contribuye a la conversación tal y como lo exige el objetivo o propósito que le corresponda
+  * Regla de cantidad
+   # Proporciona tanta información como sea necesaria para mantener tu punto de vista, pero no más
+  * Regla de cualidad
+   # No digas lo que creas que es falso y no trates de mantener a toda costa una opinión de la que no tengas pruebas suficientes
+  * Regla de relevancia
+   # Debes ser relevante, esto es, centra tus intervenciones en el asunto sobre el que se dialoga y no cambies de tema sin permiso
+  * Regla de modo
+   # Explícate con claridad, sin ambigüedades, con brevedad y ordenadamente.
+
+Dialogo fructifero
+ - Interacción verbal productiva entre dos o más partes, donde se comparten ideas y se busca la comprensión mutua.
+ - Se busca un concenso
+  * Ej: Negociacion
+  
+Tipos de falacias
+ 
+ - Preguntas complejas
+  * Se comete cuando se hace una pregunta retórica con el ánimo de obtener una respuesta que, sea cual fuere, parece afirmar en todo caso lo mismo
+   # Ej: ¿Haz dejado de pegarle a tu mujer?
+
+ - Arg. Ad ignoratum
+  * Afirmar que algo es verdadero (o falso), porque no existe una prueba que demuestre su falsedad (o verdad)
+   # Ej: Hubo otra civilización antes de la humana
+
+ - Arg. Circular
+  * Justifica la veracidad de la premisa con la de la conclusión y viceversa
+
+ - Arg. Ex populo
+  * Responder a un argumento con una supuesta opinión que de ello tiene la gente en general, en lugar del argumento por sí mismo
+   # Ej: Todos saben que...
+
+ - Arg. de falsa causa
+  * Algo es la causa de un determinado efecto por la simple correlación (temporal) que se manifiesta entre un suceso anterior y otro posterior.
+   # Ej: Me tomé el refresco y me empezó a doler la cabeza. El refresco provoca dolor de cabeza
+
+ - Arg. Autoridad
+  * Apela a la autoridad o al prestigio de alguien o de algo a fin de defender una conclusión, pero sin aportar razones que la justifiquen
+   # Ej: Si! por que yo lo digo
+ 
+ - Generalización Apresurada
+  * Consiste en sacar conclusiones sobre algún asunto tomando como muestra representativa uno o pocos casos individuales
+   # Ej: Algunos niños que se vacunaron fueron diagnosticados con autismo, por lo tanto, las vacunas producen autismo
+
+ - Arg. Ad baculum
+  * Argumentar amenazando
+
+Inducción
+ - Razonamiento en generalizaciones de observaciones especificas; utilizado para predecir eventos futuros
+
+El problema de Hume
+ - Plantea que la inducción no se justifica, debido a no poder predecir el futuro; en otras palabras, no podemos asumir que por que algo sea verdad en el pasado, sera verdad en el futuro?
+ 
+Percepcion de la realidad
+ - Objetiva
+  * Existe independientemente de su percepción
+ - Subjetiva
+  * Construida según experiencias, religion, cultura, etc
+
+Percepcion de filosofos
+ - Platon
+  * Mundo de las ideas como realidad verdadera
+ - Burkley
+  * Idealismo: La realidad es percepción, existencia depende del ser conciente
+ - Aristoteles
+  * Realidad basada en sustancias y propiedades fisicas
+ - Materialismo
+  * Solo la materia fisica existe
+  
+-------- Unidad 3: ¿Que podemos conocer? ---------
+
+ Concepcion de la verdad
+  - Podemos acceder a la verdad absoluta, pero es casi imposible
+   * Dogmatismo: Verdades absolutamente indebatibles
+   * Progmatismo: Busca la verdad utilizado
+   * Relativismo: Realidad relativa
+   * Perseptivismo: la suma de varias perspectivas
+   
+Planteamientos de Kant
+ - Existen 2 tipos de formas de ver el mundo
+  * Fenomeno: Construccion de realidad dada por sentidos
+  * Noumeno: El objeto tal cual es
+ - Según el, la critica es la ciencia de los limites
+ 
+Juicios de Kant
+ - Juicios analíticos y sintéticos (a partir de la relación existente  entre sujeto y predicado).
+  * Son aquellos en los que el predicado está incluido en el sujeto.
+   # EJ: “El todo es mayor que sus partes”. 
+ - En los juicios analíticos, es suficiente analizar el sujeto (“todo”) para descubrir que el predicado («es mayor que sus partes») está incluido en él. Estos juicios tienen un punto en contra: no amplían nuestro conocimiento.
+
+ - Juicios a priori
+  * Aquellos cuya verdad puede ser conocida independientemente de la experiencia (no es necesario recurrir a ella). Por esta razón son universales (vale para todos) necesarios (su contrario es imposible).
+
+ - Los juicios a posteriori 
+  * Son todos aquellos cuya verdad depende de la experiencia. En consecuencia, estos juicios no son ni universales ni necesarios (son particulares y contingentes)
+
+Analíticos: no amplían el conocimiento.
+Sintéticos: amplían el conocimiento.
+A priori: universales y necesarios.
+A posteriori: particulares y contingentes.
+
+Dado que estos son los juicios propios de la ciencia, Kant se pregunta cómo son posibles los juicios sintéticos a priori, esto es cómo
+ funciona la Razón Humana para que sean posibles los juicios sintéticos a priori.
+ 
+Conocimiento contingente
+ - la contingencia es el modo de ser o característica de algo en cuanto a que puede ser o no ser, dependiendo del caso (algo que no es necesario, pero sí es posible). En general la contingencia se predica de los estados de cosas, los hechos, los eventos o las proposiciones. Existe un debate sobre si es aceptable hablar de entidades contingentes (o entidades necesarias o imposibles), conocido como el debate en torno a las modalidades de dicto (de la palabra) y de res (de la cosa). 
+
+Enfoque trasendental de Kant
+ - Conocimiento de los objetos, como el ser humano los conoce a priori
+  * Del objeto del ser humanos
+   # Universal, necesario, y amplia el saber
+
+Los juicios analíticos
+ - son aquellos en los que el predicado está contenido en el sujeto, por lo que su verdad no requiere experiencia y se puede determinar analizando el propio significado de los términos. 
+
+Juicios compuestos
+ - Son aquellos que combinan dos o más juicios simples a través de conectores lógicos como "y", "o", "si... entonces", etc.. Se caracterizan por tener más de un sujeto o más de un predicado, y se pueden clasificar en diferentes tipos según los nexos que los unen, como los juicios copulativos ("y"), disyuntivos ("o") o condicionales ("si... entonces"). 
+  * Mercurio y Venus son planetas (dos sujetos)
+  * Mi cuñado es arquitecto e ingeniero (dos predicados) 
+  * Está lloviendo y hace calor" (dos juicios simples unidos). 
+
+¿Que es la ciencia?
+ - Conjunto de conocimientos adquiridos segun observaciones y razonamiento
+ - Se caracteriza por ser 
+  * Analitica
+  * Precisa
+  * Metodica
+  * Factiva
+  * Simbolica
+  * Trasendente
+  * Conmensurable
+  * Verificable
+  * Predictiva
+  * Abierto
+  * Util
+  * Universal
+ - Buscan aumentar el conocimiento
+ - Es metodica y precisa
+ - Existen ciencias:
+  * Formales
+   # No requieren de las experiencias para ser aceptadas
+   # Matematicas, filosofia, logica, estadistica
+  * Exactas
+   # Requieren experiencia para ser aceptadas
+   # Fisica, biologia, logica, estadistica
+ 
+Mayeutica
+ - La mayéutica o método socrático, es la metodología ideada por Sócrates para llegar a la verdad a través del diálogo. 
+  * Subyace la reflexión en torno a la figura del filósofo o del maestro. Aquel que enseña no debe llenar las cabezas de sus alumnos con ideas o conocimientos ya establecidos, al contrario, el maestro debe guiar a sus alumnos para que ellos mismos sean capaces de alumbrar la verdad, es decir, generar en ellos la capacidad de auto educarse. 
+
+Dialectica 
+ - como el discurso en el que se contrapone una determinada concepción o tradición, entendida como tesis, y la muestra de los problemas y contradicciones, entendida como antítesis. De esta confrontación surge, en un tercer momento llamado síntesis, una resolución o una nueva comprensión del problema.
+ 
+Metodo cientifico
+ - Las principales características de un método científico válido son la falsabilidad y la reproducibilidad y repetibilidad de los resultados, corroborada por revisión por pares.
+ 
+Fenomenologia
+ - La fenomenología es una rama filosófica que trata de comprender y darle importancia a cómo las personas vivimos el mundo en el que vivimos, tanto en cuanto a sus aspecto más físico como en términos de interacción social y emocionalidad.
+ 
+Reduccion fenomenologica
+ - La reducción fenomenológica es la práctica meditativa descrita por Edmund Husserl, fundador de la fenomenología, mediante la cual uno, como fenomenólogo, es capaz de liberarse del cautiverio en el que uno está retenido por todo lo que acepta como cierto.
+
+Hermeneutica 
+ - hace referencia a la interpretación de un texto o una fuente en general, ya tenga carácter religioso, filosófico o literario. 
+  * Ej: Biblia, etc
+
+Epojé
+ - La experimentacion del evento, buscando una vista objetiva.
+ 
+Los argumentos requieren respaldo, reflexion detras
+
+Argumentacion = Logos
+Opinion = Dogma
+
+Argumentacion
+ - Tesis
+ - Premisas
+ - Argumentacion
+ - Contraargumentos
+ - Conclusiones
+ 
+Razonamiento
+ - Pensamiento del cual se llega a una conclusion, siguiendo ciertos parametros
+
+
+  
+ 
+
