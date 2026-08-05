@@ -1192,7 +1192,11 @@ Reformas constitucionales 2005 (135 reformas, entre ellas, las siguentes)
    * Dentro de ella, esta el distrito 17 y 18 (uno elige 7 parlamentarios, el otro elige 3)
  - Termino inamovilidad comandante en jefe de carabineros / FFAA
  - Eliminacion conceptos de legislatura ordinaria / extraordinaria
- - Persidente camara baja en sucesion presidencial
+  * Ordinaria: Durante el año, Mociones en legislacion
+  * extraordinaria: Durante verano, Mensajes en legislacion
+ - Persidente camara baja en sucesion presidencial 
+  * Antes: Presidente del Senado → Presidente de la Corte Suprema → Presidente de la Cámara de Diputados.
+  * Despues: Presidente del Senado → Presidente de la Cámara de Diputados → Presidente de la Corte Suprema. → Presidente de la Cámara de Diputados.
  - Eliminacion de conceptos de legislatura ordinaria y extraordinaria
  - 3 interpelaciones por ministro
  - Renuncia de parlamentario
@@ -1202,4 +1206,4 @@ Reformas constitucionales 2005 (135 reformas, entre ellas, las siguentes)
  - Elimina FFAA como garante de institucionalidad
 
 
-Obj: Analisis de los tres poderes del Estado de la constitucion de 1980'
+Obj: Analisis de los tres poderes del Estado de la constitucion de 1980
