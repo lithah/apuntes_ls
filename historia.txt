@@ -614,7 +614,7 @@ Caracteristicas del golpe de estado
  - Estado subsidiario
   # Copesa =  Consorcio periodistico de Chile, autores de la tercera
   # Edwards = Autores del mercurio
-  # Kast queria eliminar INDH
+  # Kast queria eliminar INDH (Instituto Nacional Derechos Humanos)
 
 Pensamiento Portaliano
  - Respeto al orden
@@ -630,3 +630,31 @@ La naturaleza de las fuerzas armadas
  - Depositaria de gran parte de la capacidad del estado para utilizar la fuerza.
  - Organizacion y cultura enfocaa a situaciones excepcionales.
  - Su importancia ha decracido en el ultimo siglo.
+
+Caracteristicas golpe de estado 
+ - Supresion estado de derecho (por estado de sitio)
+ - Eliminacion de los partidos politicos (unidad popular proscrito, condeferacion democracia suspendida)
+   # Grupo Edwards y Copesa son censurados por Gobt. de sitio
+   # DINA/CNI encargados de represion politica
+   # Desde 1980, comenzaron disposiciones transcitorias para reformar la constitucion, le entregó
+   poder a la DINA/CNI, la cual las desaparecio 
+ - No hay participacion democracia
+ - Censura medios de comunicacion
+ - Violencia Politica
+ - Violacion DDHH
+ - Sistema neoliberal (Se modifica a el nuevo sistema mixto eventualmente)
+ - Estado subsidiario
+   # El PRIE (Partido revolucionario constitucional) hizo un "golpe constitucional"
+
+Doctrina Monroe = "America para los americanos"
+
+La naturaleza de las fuerzas armadas
+ - Una de las instituciones basicas del estado
+ - Depositaria de gran parte de la capacidad del estado para usar la fuerza
+ - Oeganizacion y cultura enfocada a situaciones excepcionales
+ - Su importancia ha decrecido en el ultimo siglo.
+ - "Las fuerzas armadas son una representacion de la sociedad a la que sirven y deben
+    mantener vinculos solidos con el resto de la poblacion"
+  * Hay una desconexion, esto no se cumple; pues hoy en dia se habla de un mundo militarizado
+    que difiere del mundo civil, cosa que no deberia de suceder.
+   # Carlos Ibañez armo carabineros como fuerza civil militarizada

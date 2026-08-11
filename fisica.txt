@@ -189,9 +189,45 @@ Metodos de carga
   * Sin alejar al conductor, se genera una coneccion a tierra, de tal manera que el onketo neutro
   queda cargado con el signo opuesto al inductor
 
+07/08/26 - fisica
 
+Magnetismo
+ - Capacidad de algunos cuerpos de atraer o repeler otros, ej: hierro
+ - El oxido de hierro, bajo ciertas condiciones, se conoce como magnetita
+  * Dice la leyenda que Magnes, un hombre griego, la descubrio en un monte, pues sus sandaleas se
+   habian pegado al suelo
+  * En aquel lugar, se fundó Magnesia
+ - El spin en movimiento genera una carga electrica, su movimiento es conocido como
+   movimiento dipolar magnetico
+  * Cuando todas las cargas van en la misma direccion, se forma un iman permanente
+  * Si van en distintas direcciones todos; no hay magnetismo, pues sus momentos dipolares se cancelan
+  * Para poder forman un iman permanente; se requiere un elemento ferromagnetico; pues estos ordenan
+    los spines de las moleculas para la misma direccion, generando un iman permanente.
+  * Los campos
+ - Los elementos ferromagneticos son atraidos por un iman, reordenan y alinean los momentos
+   magneticos de los atomos; algunos ejemplos son el Hierro, sus aleaciones, con Cobalto, Niquel
+   y Aluminio
+ - Los elementos Paramagneticos son debilmente atraidos por un iman, la alineacion de los momentos
+   magneticos es minima, algunos ejemplos serian Platino, Aluminio, Calcio, Sodio y Tungsteno
+ - Los elementos Diamagneticos, no son atraidos por un iman natural, e incluso pueden ser repelidos por el, su alineacion de
+  los momentos magneticos es nula o contraria a la direccion del momento del material magnetico,
+  algunos ejemplos son Mercurio, Plata, Oro, Cobre, Plomo y Silicio
+ - Todo elemento magnetico tiene dos polos, si tenemos un iman roto, tendra dos polos, y asi sease
+   cual sea su tamaño
+ - Siempre tienen dos polos los imanes, atraen al hierro, ademas que los polos opuestos se atraen
+   y los polos iguales se repelen
+ - Campo magnetico
+  * Referido al espacio alrededor de un iman, donde otro iman o cuerpo ferromagnetico será atraido
+    o repelido debido a fuerza magnetica
+  * Estos se representan por las "lineas de campo" o "lineas de fuerza" magnetica.
+   # El termino "Campo" se refiere a la region del espacio donde una fuerza actua
 
-    
-
+Caracteristicas de las lineas de fuerza
+ - Son imaginarias y solo sirven para represntar la forma e intensidad del campo magnetico.
+ - En aquellas zonas donde el campo magnetico es mas intenso, las lineas de campo estan mas concentradas
+  * Por ejemplo, en los polos de un iman
+ - Son finitas, es decir, no se cortan ni se interrumpen
+ - Se dirigen, por fuera del iman, del polo norte al polo sur, y por dentro del polo sur 
+ al polo norte
 
 
