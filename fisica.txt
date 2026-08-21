@@ -135,7 +135,7 @@ Efecto Magnus
  cambian la velocidad del aire
   * Ej: cuando una pelota hace "efecto", o "gol olimpico"
 
-------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------ 
 
 Electricidad
  - Electroestatica
@@ -190,6 +190,32 @@ Metodos de carga
   queda cargado con el signo opuesto al inductor
 
 07/08/26 - fisica
+Generacion energia electrica
+ - Induccion electrica (Faraday)
+  * cambio de campo magnetico en un conductor
+ - Efecto fotoelectrico / celda fotovoltaica
+  * Produce electricidad por su propia luz
+  * Foton incide metal, se lleva un electron
+   # Asi funcionan los paneles solares
+ - Termocuplas
+  * Corriente a partir de calor, pero en infimas cantidades (genera poca energia, uso en baja escala, por ejemplo, medicion de temperatura)
+ - Piezoelectrico 
+  * Corriente por friccion del cuerpo, usado para generar chispas, por ejemplo (estufas) (usado para baja escala)
+
+Plantas de generacion fotovoltaica
+ - Energia
+  * Lo que nos permite hacer un trabajo (medida en Joules/Coulong)
+  * Una caloria es equivalente a 4,19 joules
+ - Centrales hidroelectricas
+  * Aprovechan de la energia del movimiento del agua (sease natural o artificial)
+  * Pros: Renovable, Bajas emisiones 
+  * Contras: Consecuencias medioambientales	
+
+	Costo de construcción elevado
+Confiable 
+	Riesgo de sequía
+Segura 
+	Embalses limitados
 
 Magnetismo
  - Capacidad de algunos cuerpos de atraer o repeler otros, ej: hierro
@@ -216,11 +242,14 @@ Magnetismo
    cual sea su tamaño
  - Siempre tienen dos polos los imanes, atraen al hierro, ademas que los polos opuestos se atraen
    y los polos iguales se repelen
+
+
  - Campo magnetico
   * Referido al espacio alrededor de un iman, donde otro iman o cuerpo ferromagnetico será atraido
     o repelido debido a fuerza magnetica
   * Estos se representan por las "lineas de campo" o "lineas de fuerza" magnetica.
    # El termino "Campo" se refiere a la region del espacio donde una fuerza actua
+
 
 Caracteristicas de las lineas de fuerza
  - Son imaginarias y solo sirven para represntar la forma e intensidad del campo magnetico.
@@ -229,5 +258,54 @@ Caracteristicas de las lineas de fuerza
  - Son finitas, es decir, no se cortan ni se interrumpen
  - Se dirigen, por fuera del iman, del polo norte al polo sur, y por dentro del polo sur 
  al polo norte
+  # El estado plasmico de la tierra es razón por la que tenemos polos magneticos, debido a las cargas; ademas de 
+    ser el centro de esta compuesto de elementos ferromagneticos 
+  # Por la rotacion y por el estado plasmico del centro de la tierra tenemos campos magneticos
+
+Radiacion
+ - Existen 3 tipos
+  * Alpha
+   # Carga electrica positiva
+  * Beta
+   # Electrones
+  * Gamma
+   # Luz de alta frecuencia y energia 
+ - Estas destruyen la vida en la tierra
+
+Auroras Polares
+ - Radiacion acumulada liberada por la radiacion exitando moleculas atmosfericas
+ - Norte (Boreal) (tienden a ser verdes)
+ - Sur (Austral) (tienden a ser rojas)
+
+Efecto Oersted
+ - Cuando corriente pasa por un coil, genera un campo magnetico concentrico
+
+"Los parlantes funcionan por un coil y una membrana movil por la cual circula corriente que cambia con la frecuencia del
+sonido; cuando circula la corriente, la membrana se repele por el iman, provocando vibraciones de la misma frecuencia
+que el sonido original"
 
 
+Induccion de Faraday
+ - La variacion de campos magneticos dentro de un conductor produce campos electricos, por consecuencia; corrientes electricas
+
+Galvanometro
+ - Mide existencia de corriente
+
+"Faraday inventó el motor electrico"
+
+Transformador
+ - Aumenta o reduce voltajes
+
+ ooooooooooooooooo
+ o_______________o
+ o |o         o||o
+ o |o         o||o
+ o |o  ^      o||o
+ o||o  |      o||o
+ o||o         o||o
+ o---------------o
+ ooooooooooooooooo
+
+  # SOLO FUNCIONA CON CORRIENTE ALTERNA
+  # La bobina primaria está conectada a la fuente electrica, y produce un campo magnetico que se amplifican en el nucleo de hierro,
+    el campo mag. variable provoca una corriente electrica en la bobina secundariq    

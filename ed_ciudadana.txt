@@ -1207,3 +1207,50 @@ Reformas constitucionales 2005 (135 reformas, entre ellas, las siguentes)
 
 
 Obj: Analisis de los tres poderes del Estado de la constitucion de 1980
+
+Requisitos para ser presidente de la republica
+ - Art 25 de Constitucion
+ - Nacionalidad Chilena
+ - Eleccion por mayoria absoluta de votos emitidos
+ - Poseer 35 años de edad
+ - No tener/haber tenido pena aflictiva
+ - Enseñansa media o equivalente
+ - Duracion de 4 años sin reeleccion
+ - Remuneracion: $11.795.000
+  # Para que el presidente sea electo en Chile, debe tener 50% + 1 de los votos validamente emitidas
+  # En Argentina, si la diferencia entre los candidatos de menor a 10 puntos porcentuales; no se va a segunda vuelta, por que estadisticamente repetir
+    la eleccion no cambiará los resultados
+
+  # Fugimori, en perú, ganó por aprox. 1.5 puntos porcentuales
+  # Antes los senadores debian de ser mayores a 35 años (CHECK!!!!!)
+
+  # Pena aflictiva REMUEVE la ciudadania
+  # SE LLAMA DIETA PARLAMENTARIA POR QUE EL PARLAMENTO LE PAGA AL PRESIDENTE (IMPORTANTE)
+
+Atribuciones Presidente de la Republica
+ - Nombra ministro de Estado
+ - Nombra magistrados (propone al senado)
+ - Lleva a cabo la politica exterior
+ - Nombra a los comandantes en jefe de las FFAA / los embajadores
+ - Otorga beneficios economicos / indulto
+ - Tiene la jefatura de las FFAA
+ - Designa al contralor general
+ - Declara la guerra
+ - Cuida de las rentas publicas
+ - Mensaje sobre la marcha del país
+ - Dieta como ex-presidente: $11.468.000
+  # CIRCULO DE HIERRO DEL PDTE: Segpres - Ministro del interior - Ministro del Secretario General de Gobierno (Segregob) - Ministro de hacienda
+    Ministro Relaciones Exteriores
+  # Biministro = Interior & Segregob -> Vocero/a
+  # Magistrados de la corte suprema jubilan a los 75 años
+
+Requisitos para ser parlamentario
+ - Diputados (art. 47 y 48)
+  * Elegidos por distritos
+  * Eleccion directa
+  * Renovacion total cada 4 años
+  * Ciudadano con derecho a sufragio
+  * Tener 21 años
+  * Enseñansa media o equivalente
+  * Tener residencia en la region
+  * Pueden ser reelegidos por dos veces
