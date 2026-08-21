@@ -190,6 +190,7 @@ Metodos de carga
   queda cargado con el signo opuesto al inductor
 
 07/08/26 - fisica
+
 Generacion energia electrica
  - Induccion electrica (Faraday)
   * cambio de campo magnetico en un conductor
@@ -208,14 +209,23 @@ Plantas de generacion fotovoltaica
   * Una caloria es equivalente a 4,19 joules
  - Centrales hidroelectricas
   * Aprovechan de la energia del movimiento del agua (sease natural o artificial)
-  * Pros: Renovable, Bajas emisiones 
-  * Contras: Consecuencias medioambientales	
+  * Pros: Renovable, Bajas emisiones, Confiable, Segura 
+  * Contras: Consecuencias medioambientales, Costo de construcción elevado,	Riesgo de sequía, Embalses limitados
+ - Centrales fotovoltaica
+  * Utilizan efecto fotoelectrico para producir energia
+  * Pros: Adaptable, Ahorro económico, Sustentable, No contaminante
+  * Contras: Baja eficiencia, Coste de instalacion elevado, Mucho espacio,
+    Menor eficiencia en invierno/noche, Disminuye rendimiento en condiciones
+    ambientales extremas, contaminacion ambiental puede afectar, produccion es toxica
+    
 
-	Costo de construcción elevado
-Confiable 
-	Riesgo de sequía
-Segura 
-	Embalses limitados
+
+   
+
+
+
+
+	
 
 Magnetismo
  - Capacidad de algunos cuerpos de atraer o repeler otros, ej: hierro
