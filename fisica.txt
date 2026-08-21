@@ -256,6 +256,19 @@ Energia electrica
  - Energia consumida = Watts x tiempo
  - Según sistema internacional = Watts x Segundo/Kilowatts x hora
 
+Efecto Joule
+ - "cada que la corriente pasa por un circuito electrico, el circuito aumenta su temperatura"
+ - Depende del Amperaje y la resistencia
+ - Calor producido (Q) = Amperaje al cuadrado x Resistencia x tiempo (segundos)
+ - Usado para la generacion de calor
+  * Puede provocar incandecencia (FUEGOOO)
+   # Los fusibles funcionan en este aspecto, son un mecanismo de seguridad que, al aumentar la corriente,
+   se derrite cortando el contacto, evitando daños a los demas componentes
+  * En Chile, usamos interruptores automaticos, que la detectar un aumento repentino de corriente, por el campo
+  electromagnetico que aquella genera, se corta el contacto
+  * Antes usabamos placas de metal que al calentarse rompian el contacto, se dejaron de usar debido a que
+  su tiempo de accion no era inmediato, y su tardanza podia provocar incendios.
+
 Magnetismo
  - Capacidad de algunos cuerpos de atraer o repeler otros, ej: hierro
  - El oxido de hierro, bajo ciertas condiciones, se conoce como magnetita
