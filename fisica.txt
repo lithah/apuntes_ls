@@ -217,8 +217,27 @@ Plantas de generacion fotovoltaica
   * Contras: Baja eficiencia, Coste de instalacion elevado, Mucho espacio,
     Menor eficiencia en invierno/noche, Disminuye rendimiento en condiciones
     ambientales extremas, contaminacion ambiental puede afectar, produccion es toxica
-    
-
+ - Central Eolica
+  * Usan el viento para pasar la energia del movimiento de turbinas a electricidad
+  * Contras: Ocupa mucho espacio, matan pajaros (influyen en los ecosistemas)
+ - Termoelectricas
+  * Quema combustible para evaporar agua, esta mueve turbinas que generan electricidad
+  * Contras: Altas emisiones, Usualmente cerca del mar
+ - Mareomotriz
+  * Convierte el movimiento de las olas a energia electrica
+  * Pros: No tiene emisiones mayores
+  * Contras: No funciona el 100% del dia, el agua de mar corroe facilmente sus componentes, alto mantenimiento
+ - Termosolar
+  * La energía termosolar usa espejos para concentrar la luz del Sol y calentar sales fundidas. Ese calor produce vapor, 
+    mueve una turbina y genera electricidad. 
+  * Pros: Produce electricidad renovable, puede almacenar calor en sales fundidas, 
+  sigue funcionando después de la puesta del Sol, genera pocas emisiones contaminantes.
+  * Contras: Es costosa de construir, necesita mucho sol y espacio, 
+  consume agua para refrigeración, no funciona bien con nubes o poco sol
+  
+ - Termonuclear
+  * Calor producido por el proceso de fision nuclear evapora agua que mueve turbinas, generando electricidad
+  * 
 
    
 
