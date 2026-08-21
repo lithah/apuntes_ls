@@ -234,17 +234,27 @@ Plantas de generacion fotovoltaica
   sigue funcionando después de la puesta del Sol, genera pocas emisiones contaminantes.
   * Contras: Es costosa de construir, necesita mucho sol y espacio, 
   consume agua para refrigeración, no funciona bien con nubes o poco sol
-  
  - Termonuclear
   * Calor producido por el proceso de fision nuclear evapora agua que mueve turbinas, generando electricidad
-  * 
+  * Pros: Mucha energia, Segura
+  * Contras: Residuos toxicos, tiene mala reputacion   
+ - Geotermicas
+  * Utilizan geisers para mover turbinas
+  * Pros: renovable y constante; produce pocas emisiones; ocupa poco espacio; no depende del clima.
+	* Contras: solo es viable en ciertas zonas; su construcción es costosa; puede liberar gases o minerales; 
+  puede provocar pequeños terremotos.
 
-   
+Potencia electrica (watts) 
+ - Rapidez con la que un consumo/resistencia transforma energia electrica hacia otro tipo de energia; expresa la
+ energia transformada por unidad de tiempo 
+  * Potencia (watts) = Voltaje x Amperaje
+  * Por ley de Ohm = Potencia = Voltaje x Amperaje = Voltaje al cuadrado dividido en resistencia = 
+  Amperaje al cuadrado x Resistencia
 
-
-
-
-	
+Energia electrica
+ - Energia consumida, transformada, o "disipada" por un artefacto electrico, en un determinado tiempo (usualmente horas)
+ - Energia consumida = Watts x tiempo
+ - Según sistema internacional = Watts x Segundo/Kilowatts x hora
 
 Magnetismo
  - Capacidad de algunos cuerpos de atraer o repeler otros, ej: hierro
