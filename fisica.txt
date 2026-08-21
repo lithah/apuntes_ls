@@ -269,6 +269,15 @@ Efecto Joule
   * Antes usabamos placas de metal que al calentarse rompian el contacto, se dejaron de usar debido a que
   su tiempo de accion no era inmediato, y su tardanza podia provocar incendios.
 
+Variacion de la resistencia en los materiales
+ - La resistencia varia con la temperatura, esta disminuye con la temperatura
+ - Termocuplas miden esto
+
+Superconductores
+ - Si se enfria un metal a temperaturas cercanas a 0 kelvin, se vuelve superconductor, pues no tiene/tiene muy
+ poca resistencia
+  * Siempre repelen a los imanes, esto provoca/permite la levitacion magnetica
+
 Magnetismo
  - Capacidad de algunos cuerpos de atraer o repeler otros, ej: hierro
  - El oxido de hierro, bajo ciertas condiciones, se conoce como magnetita
