@@ -1254,3 +1254,30 @@ Requisitos para ser parlamentario
   * Enseñansa media o equivalente
   * Tener residencia en la region
   * Pueden ser reelegidos por dos veces
+
+Requisitos para ser senador
+ - Art. 48 de la constitucion
+ - Eleccion directa por circumscripciones
+ - Ciudadano con derecho a sufragio
+ - Enseñanza media o equivalente
+ - Tener 35 años
+ - Son 50 senadores (43 en ejercicio)
+ - Duran 8 años en cargo
+ - Se renuevan alternadamente cada 4 años
+ - Se renuevan solo 1 vez
+ - Remuneracion: $11.458.000
+ - Remuneracion total: $27.878.683
+   # 9na circumscripcion declarada el 20/08/2018
+
+Atribuciones del Senado
+ - Conocer atribuciones realizadas por diputados
+ - Por 2/3 cuando se trata de presidente/gobernador
+ - Mayoria en ejercicio de otras autoridades
+ - Contiendas de competencia
+ - Aprueba ministros, al fiscal nacional, dictamenes del presidente
+ - Autoriza ausencia del presidente
+ - Declara inhabilidad presidencial
+ - Rehabilitacion de la ciudadania
+   # Camara de origen, usualmente camara de diputados
+   # en 2022, se modifico el quorum de los senadores en ejercicio para cambios de leyes permanentes, siendo 4/7
+   # Para las leyes organicas constitucionales, se requiere 50%+1 del senado

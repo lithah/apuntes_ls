@@ -369,4 +369,45 @@ Transformador
 
   # SOLO FUNCIONA CON CORRIENTE ALTERNA
   # La bobina primaria está conectada a la fuente electrica, y produce un campo magnetico que se amplifican en el nucleo de hierro,
-    el campo mag. variable provoca una corriente electrica en la bobina secundariq    
+    el campo mag. variable provoca una corriente electrica en la bobina secundaria
+
+Dinamica
+ - Estudio del movimiento en los objeto
+ - Varios conceptos
+  * Trayectoria: Camino que recorre un objeto desde el punto inicial al final
+   # Su longitud se denomina "distancia recorrida" y se mide en metros
+  * Desplazamiento: vector escalar que conecta el punto de partida con el 
+    punto de llegada
+   # Observaciones: 
+    & El modulo del desplazamiento siempre es menor o igual que la distancia
+      recorrida
+     % Tipos de movimiento
+      $ Relativo: sistema de referencia en movimiento
+      $ Absoluto: sistema de referencia en reposo 
+
+
+     Tipo          |       Descripcion        |     Velocidad    |   Aceleracion
+-----------------------------------------------------------------------------------
+      MRU          | Movil recorre distancias | Constante        | N/A
+                   | iguales en tiempos       |                  | 
+                   | iguales                  |                  | 
+------------------------------------------------------------------------------------
+      MRUA         | Recorre distancias       | Aumenta su       | Tiene igual
+                   | mayores en tiempos       | Magnitud         | direccion y 
+                   | iguales                  |                  | sentido que la 
+                   |                          |                  | velocidad
+------------------------------------------------------------------------------------
+      MRUR         | Reconoce distancias      | Reduce su        | Tiene igual 
+                   | menores en tiempos       | magnitud         | direccion
+                   | iguales                  |                  | y sentido contrario
+                   |                          |                  | a la velocidad
+
+Formulario
+ - Rapidez = distancia / tiempo
+ - Velocidad = desplazamiento / tiempo
+ - Aceleracion = Velocidad final - Velocidad inicial / tiempo
+
+ - Posicion = Posicicion inicial + Rapidez x tiempo (MRU)
+ - Posicion = Posicion inicial + Velocidad x tiempo + Aceleracion x tiempo / 2
+ - Posicion final al cuadrado = Velocidad inicial al cuadrado + 2 x Aceleracion x distancia
+ - Posicion final = Velocidad inicial + Aceleracion x tiempo 

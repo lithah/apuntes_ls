@@ -222,3 +222,140 @@ Momento de inercia, torque, y varios
    # Paralela al eje En el eje de rotacion
   * Para que haya equilibrio rotacional
    # Sumatoria de los torques de la derecha = Sumatoria de los torques de la izquierda
+
+--------------------------------------------------------------------------------------------------------
+Pensamiento cientifico
+ - Etapas
+  * Observacion
+   # Planteamiento del problema
+    & Hipotesis
+     $ Experimentacion
+      ~ Analisis de resultados
+       % Conclusion
+
+ - 3 variables tipicas
+  * Variable Dependiente
+  * Variable Independiente
+  * Variable controlada (usualmente no mencionada/no tan relevante)
+   # Un formato de hipotesis sería:
+    & Si cambia o aumenta [variable independiente], entonces cambiará o 
+      aumentará/disminuirá [variable dependiente].
+   # La hipotesis debe de ser replicable en todos lados (via verificacion por pares)
+ - Formas de planteamientos del pensamiento cientifico
+  * Teoria está sujeta a cambios.
+  * Ley es comprobable en todo el universo, es permanente e inmutable. 
+  * Teorema es una afirmacion cuya validez se demuestra en su marco logico, a partir de otras verdades
+  * Principio es una verdad anunciada verbalmente sin principios matematicos
+  * Postulado es una afirmacion definida como cierta sin necesidad de pruebas
+  * Axioma es algo mas general que un Postulado
+  * Inferencia son juicios basados en una premisa, esto implica la necesidad de interpretar un resultado
+   # Tiene valor predictivo
+   # No todas son correctas
+
+Aplicacion del metodo cientifico
+ - Procesamiento de datos
+  * Se registran los datos, y se establece una relacion entre sus variables (sease x & Y)
+ - Elaboracion de conclusiones
+  * En base a los datos obtenidos, se concluye a partir de ellos
+   # Relacion NO INDICA causalidad
+   # Puede no ser el fin del experimento (de no ser correcta la conclusion, se vuelve a la formacion de
+     hipotesis)
+
+Etapas metodo cientifico
+ - Observacion de un hecho
+  * Definicion y planteamiento del problema
+   # Formulacion hipotesis
+    $ Experimentacion
+     & Analisis resultados y conclusiones
+      @ Si se comprueba la hipotesis
+        ~ Se acepta la hipotesis, se repite el experimento, se generaliza, y se vuelve una Teoria
+      @ Si no se acepta, se regresa a la formulacion de hipotesis
+
+Variable independiente = X = Causa
+Variable dependiente = Y = Efecto
+
+Al analizar un grafico, se debe de observar, analizar y predecir
+   # CORRELACION VA EN ABSOLUTOS DE 1, SU VALOR MAX. POSITIVO ES 1, Y NEGATIVO ES -1
+
+^      |.  .  |  ⟋
+|      |  .   |⟋         * Extrapolacion (en el grafico) e interpolacion (no graficada)
+|      |   . ⟋           Basado en los datos conocidos, se puede extrapolar (asumir los datos fuera del intervalo) teniendo los datos medios; 
+|      |.  ⟋. |          de igual manera, se puede interpolar (asumir los datos dentro del intervalo) los datos si se tienen los
+|      | ⟋    |          valores iniciales e finales/avanzados
+|      ⟋ .  . |
+|    ⟋ |      |
+|  ⟋   |   .  |
+|⟋     |.   . |
+-------------------->
+
+
+^  
+|  .   .  .   ..   .    * X no está correlacionada a Y
+|  . . . .    . . .       Demuestra poca/nula correlacion entre ambas variables (Correlacion = 0)
+|  .     .  .    . .      
+|--------------------     
+|  .    .     .  . . 
+|   .     .        .
+| .     .   . .   .  
+--------------------->
+
+
+^
+|      . . ⟋ .          * Correlacion positiva
+|       .⟋ .              Demuestra que "a mayor X, mayor Y", (Correlacion > 0);
+|     .⟋  .               se manifesta como correlacion perfecta cuando todos los puntos siguen un
+|   .⟋  .                 patron estable (en otras palabras Correlacion = 1)
+| .⟋  .   
+|⟋.
+-------------------->
+
+
+^
+|⟍ .
+| .⟍ .
+|   .⟍.                  * Correlacion negativa
+|     .⟍ .                 Demuestra que "a menor X, menor Y", (correlacion < 0)
+|      . ⟍.
+|         .⟍.
+|           .⟍ .
+--------------------->
+
+   # Exactitud: Acercarse a valor esperado
+    & "A mayor exactitud, mas cercano al valor esperado"
+   # Presición: indica qué tan juntos o dispersos están los datos.
+    & Datos juntos = alta precisión.
+    & Datos dispersos = baja precisión.
+
+----------------------------------------------------------------------------------------
+Modelos Cosmologicos (modelos de vision del universo)
+ - Modelo Clasico Aristotelico
+  * Aristoteles plantea a la tierra como centro de todo, todo estaba girando en torno a ella en orbitas
+   perfectas y esfericas/circulares; la tierra está fija, sin rotacion ni traslacion.
+ 
+ - Modelo Geocentrico de Ptolomeo
+  * Tierra como centro, fija
+   # Incluye el concepto de Epiciclos (Eran pequeños círculos cuyos centros giraban alrededor de 
+   círculos mayores. Se usaban para explicar el movimiento aparentemente irregular o retrógrado de los 
+   planetas.)
+  
+ - Giordano Bruno
+  * "Como Dios es infinito, el espacio debe de serlo, y como es infinito, deben de existir mas tierras y soles"
+
+ - Modelo Heliocentrico (Nicholas Copernico)
+  * Sol como centro, todo girando en torno a el en circumferencias inmutables ("orbitas circulares")
+
+ - Modelo Relativista (usado hoy en dia)
+  * Universo sin centro, en expansion infinita
+
+ - Tycho Brake y Kepler
+  * Tycho Brahe realizó observaciones muy precisas de los planetas. 
+  * Kepler utilizó esos datos para demostrar que las órbitas planetarias son elípticas y formular 
+    sus tres leyes del movimiento planetario.
+
+Leyes de Kepler
+ - Primera ley: Los planetas se mueven alrededor del Sol en órbitas elípticas, con el Sol en uno de los focos.
+ - Segunda ley: Un planeta se mueve más rápido cuando está cerca del Sol y más lento cuando está lejos.
+  # Perihelio: punto más cercano al Sol; el planeta se mueve más rápido.
+  # Afelio: punto más lejano del Sol; el planeta se mueve más lento.
+ - Tercera ley: Cuanto más lejos está un planeta del Sol, más tiempo tarda en completar su órbita.
+
