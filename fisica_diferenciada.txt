@@ -241,13 +241,14 @@ Pensamiento cientifico
     & Si cambia o aumenta [variable independiente], entonces cambiará o 
       aumentará/disminuirá [variable dependiente].
    # La hipotesis debe de ser replicable en todos lados (via verificacion por pares)
+
  - Formas de planteamientos del pensamiento cientifico
   * Teoria está sujeta a cambios.
   * Ley es comprobable en todo el universo, es permanente e inmutable. 
   * Teorema es una afirmacion cuya validez se demuestra en su marco logico, a partir de otras verdades
   * Principio es una verdad anunciada verbalmente sin principios matematicos
-  * Postulado es una afirmacion definida como cierta sin necesidad de pruebas
-  * Axioma es algo mas general que un Postulado
+  * Postulado es una afirmacion definida como cierta sin necesidad de pruebas (hay cierta duda de su universalidad)
+  * Axioma es algo mas general que un Postulado (menos controvertible que postulado)
   * Inferencia son juicios basados en una premisa, esto implica la necesidad de interpretar un resultado
    # Tiene valor predictivo
    # No todas son correctas
