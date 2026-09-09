@@ -411,3 +411,42 @@ Formulario
  - Posicion = Posicion inicial + Velocidad x tiempo + Aceleracion x tiempo / 2
  - Posicion final al cuadrado = Velocidad inicial al cuadrado + 2 x Aceleracion x distancia
  - Posicion final = Velocidad inicial + Aceleracion x tiempo 
+
+
+Leyes de Newton
+ - 1ra ley de newton
+  * Todo objeto permanece en reposo o MRU amenos que una fuerza afecte sobre el
+  * Mientras mas masa tiene el obj, mas inercia tiene
+  * Inercia = Capacidad de los obj de mantener su movimiento
+
+ - 2da ley de newton (ley fundamental de la dinamica)
+  * Velocidad = Masa x Aceleracion
+  * Fuerza neta (suma de fuerzas sobre el obj) = masa x aceleracion
+  * Si la fuerza es constante, la aceleracion es inversamente proporcional a
+    la masa
+  * Si la masa es constante, la aceleracion es directamente proporcional a la
+    fuerza
+ 
+ - 3ra ley de newton (accion/reaccion)
+  * A toda accion le corresponde una reaccion de igual magnitud, direccion,
+    pero en sentido contrario
+  * Accion/reaccion son simutaneos
+  * Accion/reaccion actuan sobre distintos objetos
+  * Accion/reaccion nunca se anulan
+
+
+     Tipo          |       Descripcion        |     Direccion      |   Modulo
+-----------------------------------------------------------------------------------
+     Peso          | Fuerza con la que el de  | Direccion          | Peso = Masa x 
+                   | la tierra atrae a los    | Vertical, sentido  | Gravedad
+                   | objetos                  | hacia abajo        |
+------------------------------------------------------------------------------------
+     Normal        | Fuerza que ejercen las   | Direccion          | Si la superficie
+                   | superficies en           | perpenticular      | es horizontal
+                   | conjunto                 | direccion hacia    | Normal = masa x gravedad
+                   |                          | afuera             | 
+------------------------------------------------------------------------------------
+     Tension       | Fuerza que ejercen       | Diraccion paralela | Tiene igual
+                   | los cables/cuerdas       | a la cuerda,       | 
+                   |                          | sentido al centro  | 
+                   |                          |                    | a la velocidad

@@ -1281,3 +1281,70 @@ Atribuciones del Senado
    # Camara de origen, usualmente camara de diputados
    # en 2022, se modifico el quorum de los senadores en ejercicio para cambios de leyes permanentes, siendo 4/7
    # Para las leyes organicas constitucionales, se requiere 50%+1 del senado
+
+   # Diputado legisla y fiscaliza
+   # Senador legisla y sanciona "jueces"
+
+   # En el comité politico, están:
+    & El/la presidente
+    & El/La ministr@ de la SegPres
+    & El/La vocer@ de gobierno
+    & El/La ministr@ del interior/exterior
+    & El/La ministr@ de hacienda
+
+   # Parlamento aprueba el uso de platas (se discute el presupuesto de la nacion el 30/09)
+    & La fecha es fija desde la constitucion de 1833
+
+Atribuciones de congreso nacional
+ - Aprobar/rechazar los tratados internacionales.
+ - Presidente informa al congreso contenido de tratados internacionales
+ - Congreso puede formular reservas del tratado
+ - Consulta del presidente al congreso por retiro de de un tratado internacional
+ - No realizara sesiones sin tener la tercera parte de sus m miembros (52 diputados/14 senadores)
+ - Cuenta publica en junio
+  * No pueden ser candidatos a congresistas
+   # Ministros de estado
+   # Gobernadores
+   # Delegados
+   # Alcaldes
+   # Consejeros regionales (CORE)
+   # Concejales
+   # Miembros del banco central
+   # Miembros de tribunales superiores de justicia
+   # Miembros del tribunal constitucional
+   # TRICEL
+   # Contralor general
+    & Cargo vecinal/gremial
+    & Gerentes privados que tengan contrato con el estado
+   # Fiscal nacional
+   # Comandantes en jefe de las FFAA
+
+   # OMC actua como jurado para tratados no respetados (orden de no comercio para otros paises) 
+
+Sistema inquisitivo
+ - Se inicia por accion, denuncia, u oficio
+ - Impulso procesal lo efectua el juez
+ - Demandado no sabe desde el comienzo, quien ni por que
+ - Demandado no puede saber quien es el juez
+ - Proceso es secreto
+   # Pueden ser acelerados por cohecho/coima
+
+Sistema Acusatorio
+ - Se inicia solo por accion del interesado
+ - Impulso procesal lo efectuan los interesados
+ - Demandado conoce desde el comienzo quien y por que se lo demanda
+ - Partes saben quien es el juez
+ - Proceso es publico (elimina probabilidad de tormento).
+
+"Si no tienes quien te defiende; puedes solicitar que la defensoria penal publica, la corporacion de asistencia judicial te entreguen un abogado quien te
+defienda"
+
+Atribuciones poder judicial
+ - Articulo 76 de la constitucion politica de la republica
+ - Permanecen en cargos por comportamiento
+ - Corte suprema tiene superintendencia correctiva
+ - Conocer causas civiles y criminales
+ - Responsables por cochecho y prevaricacion
+ - No pueden ser aprehendidos sin orden de tribunal (salvo flagrancia)
+ - Ordenan a fuerza publica medios de accion
+ - Remuneracion: $11.458.000

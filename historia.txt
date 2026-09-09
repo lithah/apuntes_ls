@@ -668,3 +668,53 @@ Relaciones entre la sociedad civil y militar de Chile
   * El equilibrio militar es clave para evitar intervenciones y consolidad la democracia
  - Contexto Chileno
   * Chile transita desde la dictadura hacia un modelo democratico con supervision civil fortalecida
+
+EEUU - Control civil-militar
+ - Presidente como comandante en jefe
+  * La constitucion otorga al presidente el mando supremo de las FFAA (art. III, Sec. 2)
+ - Supervicion del congreso
+  * El congreso tiene potestad para declarar la guerra, aprobar presupuestos, y regular fuerzas militares
+ - Secretario de defensa civil
+  * La ley exige que el secretario de defensa sea un civil, garantizando el control civil sobre el ejercito
+
+   # Decreto ley 3464 nueva constitucion
+
+Francia - Control civil-militar
+ - Autoridad suprema del presidente
+  * El presidente de la republica es el Jefe de las fuerzas armadas según articulo n°15 de la constitucion francesa
+ - Defensa nacional y parlamento
+  * El parlamento autoriza declaraciones de guerra y supervisa las misiones militares en el exterior, garantizando control civil democratico
+ - Doctrina republicana
+  * La tradicion republicana francesa enfatiza la subordinacion militar al poder civil y la neutralidad politica de las fuerzas armadas
+ - Control civil efectivo
+  * El primer ministro y el gobierno dirigen la politica de defensa, con mecanismos institucionales que limitan la autonomia militar
+
+Gran bretaña - Relacion civil-milital
+ - Rol del parlamento
+  * Aprueba el presupuesto de defensa y supervisa las operaciones militares mediante comités especializados
+ - Primer ministro
+  * El primer ministro ejerce el control efectivo de las FFAA como jefe de gobierno y presidente del gabinete de guerra
+ - Tradicion constitucional
+  * La constitucion no escrita de Gran Bretaña establece por convencion la responsabilidad civil sobre las fuerzas militares
+ - Monarca y control civil
+  * El monarca es comandante en jefe en lo ceremonial, pero el control efectivo recae en el gobierno civil democraticamente electo.
+
+España - Relacion civil-militar
+ - Subordinacion al gobierno
+  * Las fuerzas armadas estan subordinadas al gobierno civil y al rey como jefe de estado según la constitucion de 1978
+ - Control parlamentario
+  * El parlamento supervisa el uso de las FFAA y aprueba los presupuestos de defensa, garantizando el control democratico
+ - Limitaciones Post-Franquismo
+  * Tras la dictadura franquista, la constitucion estableció restricciones explicitas al poder militar para consolidad la democracia
+ - Articulos Claves
+  * El articulo 8 define la mision de las FFAA y su subordinacion al poder civil, reforzando el modelo democratico español.
+
+Canadá - Relacion civil-militar
+ - Corona y Gobernador general
+  * El gobernador general actua como representante de la corona y ejerce poderes formales sobre la fuerzas armadas canadienses
+ - Control primer ministro
+  * El Primer ministro y el gabinete ejercen control civil efectivo sobre las decisiones militares y la defensa nacional
+ - Supervision parlamentaria 
+  * El parlamento supervisa el presupuesto y las operaciones militares, garantizando la rendicion de cuentas democratica
+ - Subordinacion y derechos civiles
+  * Las fuerzas armadas estan subordinadas al poder civil, con enfasis en la proteccion de los derechos civiles y libertades fundamentales
