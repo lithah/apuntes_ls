@@ -1,0 +1,27 @@
+Proyecto Quimica
+
+ - Nombre: 
+ - Colegio: San Ignacio de Talca (sede central)
+ - Ignacio Hormazabal - Samuel Mera - Germán Muñoz
+ - Realizacion: 07/septiembre
+
+ - Observacion: Necesidad de difundir los principios del balanceo quimico hacia la comunidad academica
+ - Pregunta: ¿Como difundir estos principios de una manera simple?
+ - Objetivos: Derivar una manera simple de explicar el concepto de balanceo quimico, utilizando materiales simples y reciclados
+ - Hipotesis: Si presentamos un concepto simple, eventualmente facilitará su comprension de los conceptos en el aula
+ - Metodologia: 
+   1. Presentamos el modelo, el cual se asimila a una balanza
+   2. Explicamos que dos sets de canicas representan las moleculas dentro de una reaccion quimica
+   3. Explicar que en las reacciones quimicas, debe de haber un balance entre la masa de los reactantes y los productos, por la ley de conservacion de la masa
+   4. Colocar las canicas en los recipientes
+   5. Mostrarlas balanceadas, demostrando el balance de los reactantes/productos
+   6. Entregar datos complementarios usando este modelo como guia para facilitar comprension 
+ 
+ - Resultados: Demostrar el cumplimiento de la ley de conservacion de la materia, ademas de facilitar los aprendizajes a estudiantes de grados menores
+ - Analisis: Basado en las interacciones tenidas con el publico, podemos deliberar si es que se facilitó el entendimiento de las materias presentadas
+ - Conclusiones: Rojas, L. (2026, mayo 21). Tipos de reacciones químicas: explicación detallada con ejemplos. Pomok Química | Limpieza y Mantenimiento Industrial; Pomok Química. https://pomok.com.mx/tipos-de-reacciones-quimicas/
+
+ Wikipedia contributors. (s/f). Ley de conservación de la materia. Wikipedia, The Free Encyclopedia. Recuperado el 3 de agosto de 2026, de https://es.wikipedia.org/w/index.php?title=Ley_de_conservaci%C3%B3n_de_la_materia&oldid=173782583
+Client challenge. (s/f). Scribd.com. Recuperado el 3 de agosto de 2026, de https://es.scribd.com/document/851153009/Ley-de-conservacion-de-la-materia
+Reacción exotérmica y endotérmica. (2015, octubre 22). Portal Académico del CCH. https://e1.portalacademico.cch.unam.mx/alumno/quimica1/unidad1/reaccionesQuimicas/reaccionexotermicaendotermica
+4.3: La estequiometría de las reacciones. (2019, March 9). LibreTexts Español; Libretexts. https://espanol.libretexts.org/Bookshelves/Quimica/Libro%3A_Qu%C3%ADmica_General_(OpenSTAX)/04%3A_Estequiometria_de_las_Reacciones_Quimicas/4.3%3A_La_estequiometria_de_las_reacciones

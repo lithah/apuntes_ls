@@ -1,0 +1,8 @@
+ - Los pigmentos de plantas se refieren a clorofila;
+   carotenoides, antocianinas, betalaínas 
+ - El primario en plantas es clorofila
+ - Poca evidencia de coexistir en las mismas especies
+ - Antocianina es un flavonoide, responsable de coloracion
+   roja, purpura, y azul en plantas y frutas
+ - Metodos de extraccion pueden ser ultrasonido, microondas,
+   alta presion, fluido supercritico, entre otras

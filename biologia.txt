@@ -545,3 +545,116 @@ Organos vestigiales
 
 Bioquimica y biologia molecular
  - Se comparan secuencias de ADN, y asi se determina parentesco
+
+
+---------------------------------------------------------------------------------------------------------------
+                                          Sistema Nervioso
+
+Impulso Nervioso
+ - Tipos de conduccion
+  * Conduccion continua (mas lenta)
+  * Conduccion Saltatoria (Aprovechando la vaina de mielina)
+
+ Estimulo Umbral -> Viaja por el axon
+	|
+	|
+	V		                         |-> Despolarizancion
+  Impulso Nervioso -> Etapas --|-> Repolarizacion
+	   |	  \	                   |-> Hiperpolarizacion
+	   |       --------\
+	   V                |-------|> Clasificacion ------> Saltatoria (rapida)
+ Llega al terminal axonico             |-------------> Continua (mas lenta)
+        generando
+           |
+	         |
+	         V
+       Sinapsis
+         / \
+        /   \
+       /     \
+  Quimica / Electrica --------------> Ocurre por uniones GAP (Conocidas como conexinas)
+	|			    |--> Rapida
+	|			    |--> Bidireccionales
+  |         |--> Unico mecanismo de transmision 
+	|
+	|----> Por liberacion de neurotransmisores
+	|----> Unidireccional
+	|----> Mas lento
+      Puede
+       Ser
+	|----> Inhibitoria
+  |----> Exitatoria
+         
+Sinapsis quimica
+ - Union de 2 o mas neuronas u ejecutores
+   # Al llegar el impulso, la neurona permite la entrada de calcio, se libera el neurotransmisor, estos se unieron a un canal que
+     permite el paso de Iones
+   # Si es Inhibitoria, entran Iones de Cloro, y salen de potacio; esto pasa al relajarse o dormir
+    ~ Hacen que el potencial sea mas negativo, asi dificultando llegar a un impulso umbral                                       
+   # Si son exitatorios, entra sodio, esto hace el potencial mas positivo, reduciendo la dificultad para
+     acciones umbral
+
+Eliminacion de neurotransmisores
+ - Recaptacion a la terminacion nerviosa presinaptica
+   mediante transporte activo 2° (NT no peptidicos)
+
+ - Degradacion (proteolisis de neutropeptidicos)
+
+ - Difusion lejos de ls membrana postsinaptica
+ 
+neurotransmisores
+ - Acetilcolina
+  * Generacion de contracciones musculares
+  * Actua en el sistema simpatico y parasimpatico
+  * Regula la secrecion hormonal
+   # Aumenta ADH (antidiuretica)
+
+ - Dopamina
+  * Puede provocar Parkinson (cuando de esta se carece)
+  * Puede provocar Demencia (cuando hay excesivas cantidades de esta)
+  * Regula comportamiento emocionales
+  * Movimiento
+  * Comportamiento, cognicion y pensamiento abstracto
+
+ - Alcohol
+  * Afecta/Tiene relacion a:
+    # Prefrontal (inhibe pensamiento abstrato y razocinio)
+    # Hipocampo (Puede provocar lagunas mentales o blackouts. puede dañar el hipocampo y afectar al aprendizaje)
+    # Mielina (Afecta la transmision de impulsos)
+    # Cancer
+    # Enfermedades cardiovasculares
+    # Su consumo se vé por influencia social
+    # Depresion
+    # Historial familiar
+    # Riesgos hepaticos
+
+ - Serotonina
+  * Coagulacion sanguinea
+  * COntraccion del corazon
+  * Regulacion de los ciclos del sueño
+  * Autodepresivo natural
+
+ - Endorfinas
+  * Inhibe el dolor y está involucrado en el desarrollo del placer
+  * Morfina Endogena
+
+  # Las drogas emulan el comportamiento de un neurotransmisor
+  # La cocaina inhibe la recaptura de la dopamina
+
+Tejido Nervioso
+ - Compuesto por Neuronas y Glias
+  * Las neuronas son las celulas funcionales del sistema nervioso, que funcionan por señales electromagneticas,
+  interconectando el sistema nervioso
+
+Soma
+ - Dendritas (reciben neurotransmisores)
+ - nucleo (almacena ADN)
+ - Cuerpo de Nissl (RER y neurotransmisor)
+
+Axon
+ - Zona donde se conduce el impulso nervioso
+ - Mielinico (tiene vaina de mielina, la cual acelera el impulso nervioso)
+ - Amielinico (carece de mielina)
+
+Terminal axonico (Almacena y libera neurotransmisores)
+

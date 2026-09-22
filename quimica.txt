@@ -375,10 +375,9 @@ Concentracion
   * % Masa/Masa = Masa soluto / Masa disolucion X 100
   * % Masa/Volumen =  Masa soluto / Volumen disolucion X 100
   * % Volumen/Volumen =  Volumen soluto / Volumen disolucion X 100
-  * Gramos/Litro
-  * Moles/Litro
 
 Molalidad = Moles Soluto/KG solvente 
+Molaridad = Moles soluto/L de disolucion
 
 Gradiente de concentracion
  - Diferencia de concentracion entre dos regiones (un lado mas concentrado, el otro menos).
@@ -404,3 +403,17 @@ Presion
 Volumen
  - Espacio que ocupa una sustancia (sease litros u metros cubicos)
  
+------------------------------------------------------- 21/09/26 -------------------------------------------------------
+Unidades de concentracion ----> Atomicas ----> Molaridad (Moles soluto / litros Disolucion)
+                            |              |-> Molalidad (Moles soluto / Kilos Solvente)!!!!!!!!
+                            |              |-> PPM
+                            |
+                            |
+                            |
+                            |
+                            |
+                            |___> Fisicas ---> % Masa / masa (Masa Soluto / Masa Disolucion x 100)
+                                           |  
+                                           °--> % Masa / Volumen (Masa Soluto / Volumen Disolucion x 100)
+                                           |
+                                           °--> % Volumen / Volumen (Volumen Soluto / Volumen Disolucion x 100)
