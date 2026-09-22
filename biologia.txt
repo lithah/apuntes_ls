@@ -658,3 +658,24 @@ Axon
 
 Terminal axonico (Almacena y libera neurotransmisores)
 
+Funciones Neuronales
+ - recibir señales desde receptores Neuronales
+ - trasmitir las señales de otras neuronas a otras u a celulas efectoras
+ - Conduce estas señales como impulso nervioso, que consisten en cambios en la polaridad efectiva a nivel de
+ su membrana celular.
+
+Impulso nervioso
+ - Capacidad de responder estimulos, generando respuesta desde el axon (ahi se produce y viaja por el)
+
+Concentracion de Iones
+ - La presencia de iones explica que en las neuronas hayan cargas
+ - La neurona está en constante ciclo de balanceo ionico (entra sodio, sale potasio)
+
+Sub-Umbral
+ - Neurona en reposo (-70m/V)
+
+Umbral (figura común)
+
+Superumbral
+ - Picos en repeticion
+ 
