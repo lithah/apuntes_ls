@@ -6,3 +6,57 @@
    roja, purpura, y azul en plantas y frutas
  - Metodos de extraccion pueden ser ultrasonido, microondas,
    alta presion, fluido supercritico, entre otras
+
+
+Antocianinas
+ - El término antocianina fue propuesto en 1835 por el farmacéutico alemán Ludwig
+   Clamor Marquart (1804-1881) para describir el pigmento azul de la col lombarda 
+ - Pigmentos hidrosolubles presentes en las vacuolas de celulas vegetales que
+   dan los tonos rojos, purpuras y azules a las hojas, flores y frutos
+ - Son parte de los flavonoides (Metabolito secundario = Algunos productos 
+   residuales de bacterias, Hongos, u plantas, en este caso, derivado de la 
+   Fenilalanina).
+ - Su estabilidad depende del estado de oxidacion, la TEMPERATURA, la fuerza
+   ionica, la ACIDEZ (ph) y sus interacciones con otras moleculas.
+ - Presentes en el VINO, en cientas de plantas, usualmente acompañando a los
+   Carotenos (otro pigmento natural)
+
+Carotenos
+ - Fallamos en extraerlos de la zanahoria debido a que estos nos son solubles 
+   en agua (Hipotesis)
+ - Absorben la luz ultravioleta, violeta y azul y dispersan la luz naranja o roja,
+   y (en bajas concentraciones) la luz amarilla. 
+ - Responsables de los colores naranja en el follaje seco
+ - Es mayormente estable; aunque al aplicarle altas temperaturas puede variar;
+   para obtener los mejores resultados, se recomienda cocinarlos de la siguente
+   manera: cocinado con microondas < cocinado al vapor < hervido < salteado
+ - Oxidacion principalmente por reacciones de oxidacion 
+
+Tipos de metodos de extraccion
+ - Extraccion Solido-Liquido
+  * Consiste en extraer compuestos solubles del un solido, via algun solvente
+    ej: agua u alcohol
+ - Extraccion Liquido-Liquido
+  * Metodo similar a la decantacion en el que la diferencia de polaridades
+    facilita la separacion; de este derivan varios metodos
+
+Mordientes
+ - Para aumentar la estabilidad del tintado de los pigmentos, se usa un mordiente;
+   este se caracteriza por ser un elemento que funciona como un enlace entre las
+   moleculas del textil y el tinte; este facilita la permanencia del tintado en
+   la tela; y mejora la visibilidad del color de la tela.
+ - Ej: Alumbre de potasio / Aluminio
+
+Betalainas
+ - Presentes en remolacha
+ - Factores que afectan su estabilidad: Temperatura, PH, Luz, Metales, Oxigeno
+ - Estable a la luz, pero no al calor por sobre 90°C
+
+Modelo experimental:
+ - Preparamos dos posibles utilizaciones practicas de este modelo
+  * Tiras de medicion de pH
+   # Debido a que las antocianinas detectan cambios en pH (debido a las variaciones de posicion del hidroxilo/metoxilo),
+     si embuimos papel en nuestra mezcla; y posteriormente lo secamos; tenemos un set funcional de medidores de pH;
+  * Tintado de textiles
+   # Las antocianinas son capaces de tintar textiles; por ejemplo; un famoso uso de esto es tintar fibras con cebolla hervida;
+     en nuestros intentos; logramos algunos resultados; mejorados por la adicion de mordientes, y la mejora de la tecnica

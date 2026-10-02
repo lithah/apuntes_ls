@@ -446,7 +446,40 @@ Leyes de Newton
                    | conjunto                 | direccion hacia    | Normal = masa x gravedad
                    |                          | afuera             | 
 ------------------------------------------------------------------------------------
-     Tension       | Fuerza que ejercen       | Diraccion paralela | Tiene igual
+     Tension       | Fuerza que ejercen       | Diraccion paralela | Depende de la situacion
                    | los cables/cuerdas       | a la cuerda,       | 
                    |                          | sentido al centro  | 
-                   |                          |                    | a la velocidad
+                   |                          |                    |
+ 
+------------------------------------------------------------------------------------
+  Fuerza elastica  | Fuerza con la que los    | Direccion paralela | Fuerza elastica
+                   | resortes recuperan su    | al resorte,        | K x Delta
+                   | forma                    | Sentido contrario  | 
+                   |                          | a la deformacion   |
+ 
+------------------------------------------------------------------------------------
+ Fuerza de roce    | Fuerza que se opone al   | Diraccion paralela | Fuerza de roce
+                   | deslizamiento entre      | sentido contrario  | masa x N (vect)
+                   | superficies              |	al desplazamiento. | 
+                   |                          |                    |   
+		   | Estatico   | Dinamico    |                    | 
+		   | - Variable	| - Constante |			   |
+		   | - Super-   | - Super-    |			   |
+		   | ficies no  |  ficies no  |			   |
+                   | deslizan   |  deslizan   |                    |
+---------------------------------------------------------------------------------------------------------------------
+Obj: Identificar el papel del movimiento relativo en el surgimiento de la relatividad espacial
+
+1) Relatividad de Galileo
+ - Existen los sistemas inerciales y no inerciales
+  * Un ejemplo de esto seria un tren largo; este tiene velocidad constante de 200km/h, si una persona adentro de este
+    va en la misma direccion a una velocidad de 5km/h; su velocidad dependerá del sistema de referencia
+ - La direccion es para donde acelera
+ - Sistema inercial es cuando está en reposo/MRU, o cuando tiene velocidad constante (modulo constante, 
+   trayectoria rectilinea, u sentido unico
+ - Velocidad = Vectorial, en la cual se debe considerar direccion y sentido del sistema de referencia
+ - -> A/ -> B // Vab = Vb - Va
+
+Postulados de Einstein
+ 1. Las leyes de la fisica aplican igualmente para todos los sistemas inerciales
+ 2. La rapidez de la luz es constante, independiente del movimiento del sistema de referencia

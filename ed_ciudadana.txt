@@ -1348,3 +1348,83 @@ Atribuciones poder judicial
  - No pueden ser aprehendidos sin orden de tribunal (salvo flagrancia)
  - Ordenan a fuerza publica medios de accion
  - Remuneracion: $11.458.000
+
+Jerarquia y organizacion judicial chilena
+ - Division de los poderes del estado
+  * Poder ejecutivo
+   # Encabezado por el presidente y sus ministros. Su principal funcion es gobernar, lo que implica administrar el pais y conducir sus relaciones exteriores
+  * Poder legislativo
+   # Representado por el Congreso nacional (senadores y diputados). Tiene como principales funciones promover, revisar, y discutir las leyes y fiscalizar 
+     actos del ejecutivo
+  * Poder judicial
+   # Ejercido por la Corte Suprema, la corte de apelaciones y los tribunales de justicia (jueces). Su principal funcion es aplicar justicia. La Corte suprema
+     (falta...)
+
+Comparacion sistema viejo y nuevo
+
+          Inquisitivo                    |            Nuevo
+ --------------------------------------------------------------------------------------------------
+  Juez: Acusa, investiga, y falla        | Juez: Jusgan y fallan | Fiscales: Investigan y acusan
+---------------------------------------------------------------------------------------------------
+ El juez dirige la investigacion como un | Fiscales: Investiga y formula cargos contra
+ sumario seceto, recayendo en el todas   | el imputado y dirige el accionar de las
+ las funciones del proceso               | policias
+                                         |
+                                         | Juez de garantia: Vela por el debido proceso y que no
+                                         | se vulneren los derechos de las personas
+                                         |
+                                         | Defensor Público: Representa al acusado
+---------------------------------------------------------------------------------------------------
+ Procedimiento secreto y por escrito     | Procedimiento publico, inmediato, y a traves de juicio
+                                         | oral
+---------------------------------------------------------------------------------------------------
+Proceso: Prision presentiva por orden    | Proceso: Diversas medidas cautelares; como prision
+el juez                                  | preventiva (si hay peligro para la sociedad), arresto
+                                         | domicilario, libertad vigilada y arraigo
+---------------------------------------------------------------------------------------------------
+Principios del poder judicial
+ - Independencia de los otros poderes del estado para el cumplimiento de sus funciones
+ - Legalidad, es decir, los tribunales deben estar establecidos por ley al igual que las causas que tramitan y fallan
+ - Inamovilidad, los jueces permanecen en sus cargos aunque no de manera absoluta, permitiendo que los tribunales actuen libres de presiones y con imparcialidad
+ - Inexcusabilidad, los juece debem resolver siempre los asuntos de su competencia, sometidos a su consideracion a pesar de que no exista una ley respectiva
+ - Responsabilidad de los actos que se ejecutan dentro de las funciones como jueces
+
+Estructura del sistema judicial chileno
+   # en 1810 se termina la gran audiencia
+   # en la patria vieja, existio el supremo tribunal judiciario
+   # en 1817, hasta 1823, volvio a existir el supremo tribunal judiciario
+   # en 1823, nace la corte suprema y la corte de apelaciones
+    & Primera: Primer paso de competencia; debe de ser el primer tribunal al que se atiende, antes de pasar a tribunales de mayor competencia
+    & Segunda: (ej. corte de apelaciones dependiendo del caso)
+    & Tercera: (ej. corte suprema)
+    & Arriba de la corte suprema; se puede solicitar la revision de una decision de ella en un tribunal internacional
+      % Dependiendo de necesidad/gravedad, se debe atender a distintos tribunales; de escalar el caso, debe ser recibido por un tribunal de mayor competencia
+
+   # La justicia chilena es Garantista; osea que los criminales tienen muchas ventajas
+ - El poder judicial tiene el mandato legal de resolver los conflictos e impartir justicia, considerando siempre ser garante de los derechos de las personas.
+   Sus acciones deben realizarse de manera clara, rapida, y efectiva.
+ - Tribunales
+  * Juzgados de familia
+   # Especializados en la resolucion de conflictos familiares
+  * Juzgado letras del trabajo
+   # Especializados en resolver conflictos laborales
+  * Juzgados de letras de competencia común
+   # Especializados en cumplir los procedimientos de la ley procesal penal
+  * Juzgados civiles
+   # Especializados en resolver conflictos entre las personas
+
+Ministerio publico (agosto, 2000)
+ - Sus funciones son:
+  * Dirigir de forma exclusiva la investigacion de delitos
+  * Ejercer la accion penal publica
+  * Proteger a las victimas y testigos
+  * Llevar a los imputados a los tribunales, si corresponde
+   # Enmienda: 4/7 (antes 2/3)
+   # LOC: 50%+1
+
+Igualdad ante la ley
+ - El principio de igualdad ante la ley esta intimamente relacionado con el sentido de justicia y con la historia republicana de Chile.
+   La constitucion de 1922 (art. 12, inciso 1), la consticucion de 1925 (art. 10 inciso 1) y la constitucion vigente (art. 19 inciso) lo
+   han establecido.
+
+   # En chile; la venda de la dama de la libertad está caida; debido a la corrupcion sistematica de el sistema legal
