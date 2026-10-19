@@ -483,3 +483,33 @@ Obj: Identificar el papel del movimiento relativo en el surgimiento de la relati
 Postulados de Einstein
  1. Las leyes de la fisica aplican igualmente para todos los sistemas inerciales
  2. La rapidez de la luz es constante, independiente del movimiento del sistema de referencia
+
+--------------------------------------------------------------------------------------------------------------------------
+Fenomenos ondulatorios
+ - La luz es un tipo de energia radiante con comportamiento dual (onda y particula)
+ - Onda: Cuando se propaga la luz; pueden ocurrir los siguentes fenomenos
+  * Refraccion: Es el cambio de direccion de la propagacion en medios transparentes/translucidos
+   # Se mide con el indice de refraccion (n), el cual indica la resistencia de un medio para ser recorrido por la luz
+   # Indice de refraccion: rapidez de la luz en el vacio / rapidez de luz en el medio
+   # Adimencional (no tiene unidades)
+   # No puede ser menor a 1 
+   # Cuando la luz pasa de un medio mas denso a uno menos denso, el angulo de incidencia es menor que el reflejado (1ra ley)
+   # Cuando la luz pasa de un medio menos denso a uno mas denso, el angula de incidencia es mayor que el reflejado (2ra ley)
+   # Espejismo: Los cambios de luz que van refractando, curvando la imagen, produciendo imagenes invertidas como reflejos; esto por refraccion interna total
+   # Descomposicion de la luz blanca: la luz blanca se divide en distintos colores debido a sus distintas longitudez de onda 
+  * Difraccion
+  * Interferencia
+ - Particula: Cuando interactua con la materia, la luz se comporta como:
+  * Reflexion
+   # Cuando la luz no puede atravezar el medio y rebota
+   # Está la reflexion difusa y especular
+    & La reflexion especular se produce en superficies lisas y totalmente pulidas (ej: espejos)
+    & Reflexion difusa se produce cuando la luz incide en una superficie opaca; ademas siendo irregular; esto hace que se refleje en distintas
+      direcciones; este tipo nos permite ver los distintos objetos sobre los cuales se refleja la luz
+    & Posicion aparente: Causa ilusiones opticas, como la luz se difracta
+   # Se refleja sobre superficies opacas, y algunas superficies transparentes, dependiendo del angulo de incidencia
+   # Ley de reflexion
+    & "El angulo que forma el rayo incidente a la normal es igual al angulo que se forma entre el rayo reflejado y la normal."
+    & "Cabe mencionar tambien que la reflexion ocurre en el mismo plano y que la normal siempre es perpendicular a la superficie reflectante"
+  * Emision
+  * Absorcion

@@ -292,7 +292,7 @@ Tioles (RSH)
   * Carbono 1 será el mas proximo al grupo
  - Sufijo "tiol"
  
-Sulfuro (RSR) -- NO VA
+Sulfuro (RSR) 
  - Menos volatil que el eter/mas reactivo
  - Sufijo "sulfuro"
  
@@ -417,3 +417,21 @@ Unidades de concentracion ----> Atomicas ----> Molaridad (Moles soluto / litros 
                                            °--> % Masa / Volumen (Masa Soluto / Volumen Disolucion x 100)
                                            |
                                            °--> % Volumen / Volumen (Volumen Soluto / Volumen Disolucion x 100)
+
+
+Tipos de separacion de mezclas
+ - Fisicos
+  * Tamizado
+   # Separacion de mezclas solido/solido heterogeneas; las cuales son filtradas via un tamiz/malla/colador/etc; asi distribuyendolas por tamaño;
+    las piezas pequeñas son filtradas y las piezas mas grandes permanecen
+  * Filtrado
+   # Separacion de mezclas heterogeneas solido/liquido en las que los elementos atraviezan un filtro; este permite que
+    solo los liquidos puedan pasar el filtro; dejando los solidos atras 
+   # Algunos filtros pueden filtrar bacterias; debido a estas contribuyen a una suspencion (heterogenea), por lo que teniendo
+     un filtro lo suficientemente pequeño, se pueden filtrar
+  * Decantacion:
+   # Cuando se colocan dos liquidos inmiscibles en una mezcla heterogenea; se espera a que, por su diferencia de densidad/polaridad, se separen;
+    al estar visiblemente divididas; se remueve el liquido mas denso del fondo; dejando solo el liquido menos denso flotando en la superficie  
+   # Funciona en mezclas heterogeneas; no necesariamente liquido/liquido, pero dependiendo del caso, puede no ser el adecuada
+  * Evaporacion
+   # Separacion de compuestos liquido/solido en mezclas homogeneas; 
