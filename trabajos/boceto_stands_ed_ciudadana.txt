@@ -1,0 +1,51 @@
+Avances tecnologicos españoles
+ - Programa nacional de Algoritmos Verdes
+  * Los LLM usan demasiada energia para funcionar, y demasiada agua para regular su temperatura
+  * Se propone regulaciones a los LLMs y tecnologias blockchain
+  * Integracion de IA verde y blockchain al tejido productivo del pais
+  * De esto, se propone:
+   # Eje 1. Fomentar la investigación en IA sostenible y Green Tech
+
+    Creación de hasta dos cátedras universitarias asociadas al área temática de algoritmos verdes.
+    Desarrollo de un área temática específica sobre IA e Impacto Medioambiental de carácter interdisciplinar y formada por profesionales.
+    Financiación de investigadores a través de Spain Talent Hub.
+
+Eje 2. Impulsar el uso de infraestructuras y servicios eficientes
+
+    Desarrollo de estándares y herramientas para medir el consumo energético de algoritmos.
+    Impulso a la certificación para empresas de servicios de hardware y software sostenibles.
+    Sello de calidad Green Tech para reconocer modelos de IA sostenibles.
+
+Eje 3. Integrar la IA verde y el Blockchain en el tejido productivo
+
+    Integración de la IA en las cadenas de valor de la economía.
+    Desarrollo de misiones I+D+I Green by Design, invirtiendo en tecnologías sostenibles dentro del programa Retech.
+    Fondo Next Tech, un instrumento de colaboración público-privado para apoyar iniciativas que aborden problemas medioambientales.
+
+Eje 4. Dinamizar el mercado español a través de la IA verde y el Blockchain verde
+
+    Promoción de la adopción de modelos de IA en sectores que busquen reducir efectos del cambio climático y celebración anual de los desafíos Green AI, competiciones de desarrollo tecnológico donde se ofrezcan soluciones a retos medioambientales.
+
+Tecnologia y biotecnologia
+ - Investigaciones de genetica y bioingenieria permiten desarrollo de terapias para enfermedades cronicas
+ - España es un referente en ensayos clínicos, con importantes avances en áreas como la inmunoterapia, la terapia génica y el tratamiento del cáncer. 
+ - nuevos fármacos y terapias para enfermedades neurodegenerativas y enfermedades raras
+
+Catedra Arrels
+ - Fiannciar cada una de las dos universidades publicas para isar la Catedra Arrels
+ - esta plantea planes de reciliencia climatica; está destinada a convertir la ciencia y la innovación en respuestas aplicadas frente al cambio climático
+
+Avances en la ciencia española
+-Paleontologia: lograron encontrar antecesores de los humanos en la evolucion como el hommoantecesor y algunos homo sapiens
+-Astronomia: tienen el "el gran telescopio de canarias" encontrando rastros de las primeras estrellas del universo y la vigilancia a eventos como supernovas y agujeros negros
+-tienen centros de investigacion en la antartica que estudian en cambio climatico entre otros
+-tiene al padre de la neurociencia descubriendo algunos de sus mecanismos ganando un premio nobel
+
+
+
+
+
+poblacion española: la poblacion española a crecido a lo largo de las años debido a factores como la inmigracion actualmente 
+españa tiene 47 millones de habitantes donde 5 millones de ellos son inmigrantes, mientras algunas regiones rejuvenecen y crecen
+ otras emvejezen y sufren los cambios de la despoblacion , el 51,0% de la poblacion española son mujeres mientras que el otro 
+ 49,0% son hombres 
