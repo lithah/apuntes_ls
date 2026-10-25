@@ -390,3 +390,17 @@ Obj: Relacionar la ecuacion de relatividad con aplicaciones
   * En presencia de un campo gravitatoria, la luz emitida tiende hacia el rojo
   * Una masa produce una curvatura del espacio tiempo lo que curva las trayectorias
    # La luz es curvada alrededor de un obj. masivo
+
+
+Referencias de Relatividad
+ - https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_relatividad
+ - https://es.wikipedia.org/wiki/Masa_y_energ%C3%ADa_en_la_relatividad_especial
+
+ (galileana)
+ - https://bibliotecadigital.ilce.edu.mx/sites/ciencia/volumen2/ciencia3/078/htm/sec_4.htm
+ - https://teoriaonline.com/teoria-relatividad-galileana/
+ - https://es.wikipedia.org/wiki/Invarianza_galileana
+ 
+ (general)
+ - https://es.wikipedia.org/wiki/Relatividad_general
+ - https://modern-physics.org/relatividad-general-esenciales-impacto-y-teorias-explicadas/

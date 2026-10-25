@@ -677,3 +677,132 @@ Umbral (figura común)
 
 Superumbral
  - Picos en repeticion
+
+ -----------------------------------------------------------------------------------------------------------
+ ----------------------------Fotosintesis (extraido de /trabajos/trabajo_biologia_afiche_fotosintesis.txt)
+
+ Cloroplastos
+ - Membrana externa
+ - Espacio intermembrana
+ - Membrana interna
+ - Estroma
+ - Tilacoides de grana
+ - Grana
+ - Lumen
+ - Laminilla o lamela del estroma
+ - Ribosomas 70S (más pequeños que los de las células eucariotas)
+ - ADN circular
+
+Teoría endosimbiótica
+
+ - La teoría endosimbiótica explica el origen de las células eucariotas. Según la versión clásica, 
+ una célula anaerobia fagocitó a una bacteria aerobia; esta no fue digerida, sino que estableció una 
+ relación de simbiosis y se convirtió en la mitocondria. Posteriormente, una célula eucariota fagocitó 
+ una cianobacteria, que dio origen al cloroplasto.
+
+ - Los modelos actuales proponen que el huésped original pudo ser una arquea anaerobia o un protoeucarionte,
+   y que a partir de esta asociación surgieron las características propias de las células eucariotas.
+
+Fotosíntesis en eucariotas
+ - En los organismos eucariotas fotosintéticos, la fotosíntesis ocurre en el cloroplasto, un orgánulo celular especializado.
+
+Fase Clara o Luminosa (Ubicación: membranas de los tilacoides.)
+ - Reactantes: Agua (H₂O), Luz solar
+ - Productos: Oxígeno (O₂), ATP, NADPH
+
+ - En esta fase, la energía de la luz se utiliza para producir ATP y NADPH. Por eso solo puede ocurrir 
+   cuando hay luz, ya sea natural o artificial.
+ - La luz es captada por la clorofila, ubicada en los tilacoides del cloroplasto.
+ - La clorofila y las proteínas forman complejos llamados fotosistemas.
+ - Un fotón incide en la clorofila del Fotosistema II y excita un electrón.
+ - Los electrones excitados pasan a la cadena transportadora de electrones, formada por moléculas como la plastoquinona 
+   y el citocromo b6f.
+ - Estos electrones son canalizados hacia el Fotosistema I.
+ - Se vuelven a exitar, y luego pasan a la ferredoxina
+ - Esta usa NADP+ Reductasa para producir NADPH
+ - El fotosistema II repone sus electrones perdidos, y
+   libera como subproducto protones y O2 
+
+
+Fase oscura o Ciclo de Calvin (Ubicación: estroma del cloroplasto.)
+ - Reactantes: CO₂, ATP, NADPH
+ - Productos: Glucosa (C₆H₁₂O₆), ADP, NADP⁺
+ - Son reacciones químicas que no requieren luz directamente. Por eso pueden ocurrir de día o de noche. 
+ - En esta fase se usa el ATP y el NADPH producidos en la fase luminosa, junto con el dióxido de carbono 
+   absorbido del ambiente, para producir G3P, la cual puede formar glucosa y otros azúcares, como el almidón.
+ - El dióxido de carbono se fija en moléculas orgánicas.
+ - Mediante el Ciclo de Calvin, el carbono del CO₂ se transforma finalmente en glucosa.
+ - La glucosa sirve como fuente de energía para la planta y como base de la alimentación de gran parte de la vida en la Tierra.
+ - Esta fase es de “construcción”: a partir de carbono, hidrógeno y energía, se forman moléculas orgánicas grandes.
+
+Factores que afectan la tasa de Fotosíntesis 
+
+ - Intensidad Luminosa
+  * La tasa fotosintética aumenta al aumentar la intensidad lumínica (hasta 600 Watts) sobre este valor, 
+  inicialmente se mantiene constante, y luego desciende. (Fig. 17 – Gráfico 1).
+ - Temperatura
+  * El proceso es eficiente entre los 10 oC y 35 oC (Fig. 17 – Gráfico 2).
+ - Concentración de CO2
+  * Es el sustrato inorgánico más importante de la fotosíntesis, ya que es la fuente de carbono para la síntesis de moléculas 
+  orgánicas (Figura 17 – Gráfico 3).
+ - Agua
+  * Esta materia prima es importante ya que no sólo aporta electrones y protones sino también, porque participa en todas las 
+    reacciones químicas de este proceso.
+  * https://image1.slideserve.com/2270918/disponibilidad-de-agua-y-concentraci-n-de-co-2-l.jpg
+ - Sales minerales
+  * Son necesarias para la síntesis de moléculas orgánicas como la clorofila y para algunos cofactores enzimáticos.
+
+Graficos necesarios pa'l trabajo/estudio: https://www.blogdebiologia.com/factores-que-afectan-la-tasa-de-fotosintesis.html
+
+Rol del estoma en la fotosintesis
+ - Cómo funcionan los estomas
+  * Cada estoma (el pequeño poro o agujero) está flanqueado por dos células protectoras que se expanden y contraen, 
+  cerrando y abriendo el estoma. Dos controles en la apertura y el cierre de los estomas son el balance hídrico de la 
+  planta y la concentración de dióxido de carbono. cuando la planta se deshidrata y se marchita, el cierre de los estomas 
+  de la planta retendrá agua. Cuando aumenta el nivel de humedad, los estomas se abren de nuevo. cuando el nivel de dióxido
+   de carbono en la hoja desciende por debajo de lo normal, alrededor del 0,03 por ciento, los estomas se abren para admitir 
+  más dióxido de carbono.
+
+ - Papel de los estomas en la fotosíntesis.
+  * Los estomas controlan el flujo de gases dentro y fuera de las hojas. Durante el día, cuando las temperaturas del aire aumentan
+   y los niveles de dióxido de carbono son normales o superiores a los normales, los estomas se abren, lo que permite que entre el 
+   dióxido de carbono y la fotosíntesis. El oxígeno, un subproducto venenoso (para la planta) de la fotosíntesis, sale a través de 
+   los estomas. En la noche, la glucosa se recombina con el oxígeno, liberando energía cuando la molécula de glucosa se rompe de 
+   nuevo en agua y dióxido de carbono. El exceso de agua sale a través de los estomas en un proceso llamado transpiración. Así, 
+   los estomas no participan directamente en la fotosíntesis. sin embargo, los estomas controlan la entrada de dióxido de carbono,
+   un componente crítico de la fotosíntesis, y permiten que salga el exceso de oxígeno. los estomas también controlan el flujo de
+   vapor de agua que sale de la hoja.
+
+Como el cambio climatico afecta a la taza fotosintetica
+ - El aumento de las temperaturas afecta negativamente la fotosíntesis porque altera el funcionamiento de enzimas clave, 
+  especialmente la RuBisCO. Esta enzima fija el dióxido de carbono (CO₂) para formar azúcares, pero al subir la temperatura 
+  tiene más tendencia a unir oxígeno (O₂) en lugar de CO₂. Esto inicia la fotorespiración, un proceso que desperdicia energía
+  y recursos de la planta.
+
+ - A temperaturas aún más altas, la RuBisCO y otras enzimas pueden perder su estructura y dejar de funcionar correctamente. 
+  Esto afecta tanto la fotosíntesis como el transporte de azúcares hacia los tejidos, reduciendo el crecimiento y la producción 
+  de frutos o granos. 
+
+ - Además, las plantas abren sus estomas para refrescarse y absorber CO₂. Sin embargo, con el calor, la atmósfera retiene más agua
+   y extrae humedad de las hojas; si los estomas permanecen muy abiertos, la planta pierde demasiada agua, lo que puede perjudicar 
+   su supervivencia y su capacidad fotosintética. 
+ - Grafica: https://grupofico.com/calentamiento-global-y-problemas-en-la-fotosintesis-soluciones-agricultura/
+
+ - Las hojas usan el pigmento clorofila para producir su alimento
+   pero en otoño; al haber menos luz y las temperaturas empiezan a
+   disminuir, se reduce la produccion de clorofila; y al haber menor
+   proporcion de esta, se empieza a descomponer y desaparece; asi
+   revelando tonalidades amarillas y naranjas (provenientes de 
+   carotenoides usualmente no visibles); y las plantas que tornan
+   tonos mas rojos y morados tienden a provenir de las antocianinas
+
+Fuentes (para estudiar)
+http://www.curtisbiologia.com/node/96
+https://www.quimica.es/enciclopedia/Fase_clara.html
+https://www.quimica.es/enciclopedia/Fase_oscura.html
+https://e1.portalacademico.cch.unam.mx/alumno/biologia1/unidad2/fotosintesis/fases
+https://cienciadehoy.com/como-funcionan-los-estomas-en-la-fotosintesis/
+https://mundoagropecuario.com/el-aumento-de-las-temperaturas-tambien-altera-la-fotosintesis-en-un-clima-cambiante/
+https://grupofico.com/calentamiento-global-y-problemas-en-la-fotosintesis-soluciones-agricultura/
+
+
