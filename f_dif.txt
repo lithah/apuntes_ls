@@ -374,7 +374,19 @@ Obj: Relacionar la ecuacion de relatividad con aplicaciones
   * e = Momentum² x c² + (mc²)² (Foton = e -> Momentum x c) (relativista)
 
  - Relativadad general
+  * Un obj. con masa curva el espacio tiempo
+  * Existen 2 tipos de masa, Inercial y Gravitatoria
+   # Gravitatoria: produce la deformacion en el espacio tiempo, por lo tanto atraccion (gravedad)
+   # La masa no afecta por que hay dos tipos de masa; en teoria son iguales, pero debido a su comportamiento,
+     lo que acelera te frena
+   # Inercial: Se opone a la aceleraciones
   * Principio de equivalencia: een la cercania de cualquier punto, un punto gravitacional es equivalentes
     a un marco de referencia acelerado en ausencia de campos gravitacionales
   * Principio de variabilidad: todas las leyes de la naturaleza tienen la misma forma independiente
     del marco de referencia, acelerada o no.
+  
+ - Efectos de la relatividad
+  * El tiempo transcurre mas lento en presencia de un campo gravitatorio
+  * En presencia de un campo gravitatoria, la luz emitida tiende hacia el rojo
+  * Una masa produce una curvatura del espacio tiempo lo que curva las trayectorias
+   # La luz es curvada alrededor de un obj. masivo
