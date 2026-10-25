@@ -679,7 +679,7 @@ Superumbral
  - Picos en repeticion
 
  -----------------------------------------------------------------------------------------------------------
- ----------------------------Fotosintesis (extraido de /trabajos/trabajo_biologia_afiche_fotosintesis.txt)
+ ---------- Fotosintesis (extraido de /trabajos/trabajo_biologia_afiche_fotosintesis.txt) ------------------
 
  Cloroplastos
  - Membrana externa

@@ -365,13 +365,15 @@ Obj: Relacionar la ecuacion de relatividad con aplicaciones
  - Cantidad de movimiento Relativista
   * Mecanica clasica: Momentum = Masa x velocidad
   * Mecanica Relativista: Momentum = Gamma x Masa x velocidad
-  * Gamma = 1 / root(1-v²/c²)
+  * Gamma/Factor de Lorenz = 1 / root(1-v²/c²)
  - Energia Relativista 
-  * c = 3x10⁸
+  * c (velocidad de la luz) = 3x10⁸
   * c²= 9x10¹⁶
-  * e = mc² (en reposo) (clasica)
-  * e = gamma x mc² (relativista)
-  * e = Momentum² x c² + (mc²)² (Foton = e -> Momentum x c) (relativista)
+  * e⁰= mc² (energia en reposo) (clasica)
+  * e = gamma x mc² (energia total relativista)
+  * Relación energía-momento
+   # Para una partícula con masa:
+    & E² = p²·c² + m²·c⁴
 
  - Relativadad general
   * Un obj. con masa curva el espacio tiempo
@@ -391,7 +393,69 @@ Obj: Relacionar la ecuacion de relatividad con aplicaciones
   * Una masa produce una curvatura del espacio tiempo lo que curva las trayectorias
    # La luz es curvada alrededor de un obj. masivo
 
+Relatividad especial (1905)
+ - Pretende resolver la incompatibilidad existente entre
+   la mecanica newtoniana y el electromagnetismo
+ - Principio de relatividad
+  * las leyes de la física son las mismas en todos los sistemas de referencia inerciales; no existe un marco inercial privilegiado.
+ - Fisica en movimiento de cuerpos en ausencia de fuerzas
+   gravitatorias
+ - Constancia de la velocidad de la luz
+  * La velocidad de la luz en el vacío, "c", es la misma para todos los observadores inerciales, 
+    independientemente del movimiento de la fuente o del observador.
+ - Hace compatibles las ecuaciones de maxwell (Electromagnetismo)
+   con una reformulacion de las leyes de movimiento
+ - Unifica los conceptos de espacio/tiempo
+ - La relatividad general estudia la interacción gravitatoria como 
+   una deformación en la geometría del espacio-tiempo.
+   * Un obj. con masa curva el espacio tiempo
+    # La luz de una estrella alejada del sistema solar brillara;
+    y eventualmente llegará cerca del sol, y hacia la tierra; en este
+    caso; la luz se curva alrededor del sol y así llega a la tierra.
+ - No proporciona una descripción relativista adecuada del campo gravitatorio.
+  * Se aplica a sistemas de referencia inerciales; puede usarse localmente en sistemas 
+    no inerciales, pero su formulación básica no incluye la gravedad como campo dinámico.
+ - Dilatación temporal
+  * un reloj en movimiento respecto de un observador avanza más lento desde el punto de vista de 
+    ese observador.
+ - Contracción de longitud
+  * un objeto en movimiento se mide más corto en la dirección del movimiento
+   respecto de un observador en reposo relativo.
+ - Relatividad de la simultaneidad
+  * dos eventos simultáneos para un observador pueden no serlo para 
+   otro en movimiento relativo.
+ - Equivalencia masa-energía
+  * masa y energía son interconvertibles
+   # E = mc² (Energia es igual a masa x velocidad de la luz en el vacio)
 
+
+Relatividad general
+ - Generaliza la relatividad especial.
+ - Incluye
+  * Principio de equivalencia
+   # Describe la aceleracion y la gravedad como aspectos distintos de la misma
+     realidad
+  * Nocion de la curvatura espacio/tiempo 
+   # Efectos de la relatividad
+    & El tiempo transcurre mas lento en presencia de un campo gravitatorio
+    & La luz que sube desde una región de gravedad fuerte hacia una más débil se corre al rojo; la que cae hacia una masa se
+     corre al azul.     
+    & Una masa produce una curvatura del espacio tiempo lo que curva las trayectorias
+     % La luz es curvada alrededor de un obj. masivo
+ - Ecuación de campo de Einstein
+  * relaciona la distribución de masa-energía con la curvatura del espacio-tiempo.
+ - Geodésicas
+  * los cuerpos libres y la luz siguen las trayectorias más “rectas” posibles en un espacio-tiempo curvado.
+ - Ondas gravitacionales
+  * perturbaciones de la curvatura del espacio-tiempo que se propagan a la velocidad de la luz; fueron 
+ detectadas directamente por LIGO en 2015.
+ - Agujeros negros
+  * regiones donde la curvatura es tan extrema que ni la luz puede escapar.
+ - Aplicaciones prácticas 
+  * el GPS debe corregir tanto la dilatación temporal por velocidad como la dilatación gravitacional entre 
+ satélites y la superficie terrestre.
+
+ 
 Referencias de Relatividad
  - https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_relatividad
  - https://es.wikipedia.org/wiki/Masa_y_energ%C3%ADa_en_la_relatividad_especial
