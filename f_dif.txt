@@ -449,8 +449,10 @@ Relatividad general
  - Ondas gravitacionales
   * perturbaciones de la curvatura del espacio-tiempo que se propagan a la velocidad de la luz; fueron 
  detectadas directamente por LIGO en 2015.
+   # https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/GW_propagating_surface_bin.gif/960px-GW_propagating_surface_bin.gif?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
  - Agujeros negros
   * regiones donde la curvatura es tan extrema que ni la luz puede escapar.
+   # https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Agujero_Negro_-_Sandra_Abigail_P%C3%A9rez_Gonz%C3%A1lez.jpg/960px-Agujero_Negro_-_Sandra_Abigail_P%C3%A9rez_Gonz%C3%A1lez.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail
  - Aplicaciones prácticas 
   * el GPS debe corregir tanto la dilatación temporal por velocidad como la dilatación gravitacional entre 
  satélites y la superficie terrestre.
