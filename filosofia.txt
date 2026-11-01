@@ -277,22 +277,86 @@ Empirismo (Locke, Hume)
      los ángeles, los humanos, los animales, las plantas y una variedad de cosas construidas. Los modos son existencias 
      dependientes. Los modos nos dan las ideas de las matemáticas, la moral, la religión y la política y las convenciones 
      humanas en general.
-
+ - https://es.wikipedia.org/wiki/David_Hume#Empirismo
  - Hume fue más radical: llevó el empirismo a sus límites, cuestionando incluso la causalidad (solo vemos eventos sucesivos, 
    no una "conexión" necesaria).
+ - Hume creía que todo el conocimiento humano proviene de los sentidos, pero llevó el empirismo a un nuevo nivel de escepticismo.
+  Argumentó de acuerdo con la visión empirista de que todo conocimiento se deriva de la experiencia sensorial, pero aceptó que 
+  esto tiene implicaciones que normalmente no son aceptables para los filósofos. Escribió, por ejemplo, "Locke divide todos los
+  argumentos en demostrativos y probables. Desde este punto de vista, debemos decir que sólo es probable que todos los hombres
+  deban morir o que el sol saldrá mañana, porque ninguno de estos puede demostrarse". Hume pensó que podemos formar creencias 
+  sobre aquello que se extiende más allá de cualquier experiencia posible, mediante el funcionamiento de facultades como la 
+  costumbre y la imaginación, pero se mostró escéptico sobre las afirmaciones de conocimiento sobre esta base.
 
 Racionalismo (Descartes)
-  - Descartes enfatizaba ideas claras e indudables (como "pienso, luego existo"), pero también reconocía que los sentidos 
+ - Descartes aseguraba que solo por medio de la razón se podían descubrir ciertas verdades universales, contrario en su 
+   totalidad a la idea que manejaba el movimiento empirista. 
+ - El racionalismo sostiene que la fuente de conocimiento es la razón dada por Dios y rechaza la idea de los sentidos, ya que
+   nos pueden engañar; defiende las ciencias exactas, en concreto las matemáticas. Descartes quería volver a la filosofía en un 
+   conocimiento científico, por lo tanto, darle un método científico, por lo que se basó en las matemáticas, que se consideraban 
+   como una ciencia segura, por ello se dio a la tarea de describir el principio de la matematización, en su libro Discurso del
+   método, para realizar una investigación filosófica. El método consiste de cuatro reglas:
+  * Evidencia: solo es verdadero todo aquello que no emite ninguna duda al pensamiento.
+  * Análisis: reducir lo complejo a partes más simples para entenderlo correctamente.
+  * Deducción: permitir a la operación racional deductiva el peso de la investigación, para encontrar las verdades complejas a 
+    partir de la deducción de las simples.
+  * Comprobación: Comprobar si lo descubierto a partir de la razón fue conseguido a través de estas reglas antes mencionadas.
+ - Descartes enfatizaba ideas claras e indudables (como "pienso, luego existo"), pero también reconocía que los sentidos 
    aportan información.
  - Las ideas no dependen de la experiencia
  - "Ideas innatas"
  - No requieren un origen particular
  - Deduccion/instrospeccion
 
-Materialismo
+Comparacion (https://es.wikipedia.org/wiki/Racionalismo#Racionalismo_vs._empirismo)
++---------------------+--------------------------------------------+-------------------------------------------------------+
+|       Criterio      |            Racionalismo                    |                    Empirismo                          |
++---------------------+--------------------------------------------+-------------------------------------------------------+
+| Inferencia lógica   | Deducción                                  | Inducción                                             |
+| Representantes      | Descartes, Spinoza                         | Hume, Locke                                           |
+| Fundamentos         | Matemáticas                                | Ciencia                                               |
+| Posterioridad       | Desconfianza de la información de los      | Confianza en la información de los sentidos           |
+|                     | sentidos                                   |                                                       |
+| Estilo              | Teórico                                    | Práctico                                              |
+| Ética               | Deontología                                | Utilitarismo                                          |
+| Exceso              | Se vuelve un idealismo                     | Se vuelve materialista                                |
+| Juicios             | A priori a priori                          | A posteriori a posteriori                             |
+| Método de           | Demostrativo                               | Experimental                                          |
+| conocimiento        |                                            |                                                       |
+| Existencia de Dios  | Se puede conocer a Dios por medio de la    | Dios no existe ya que no se puede demostrar por       |
+|                     | razón                                      | medio de la experiencia                               |
+| Metafísica          | Si es una ciencia                          | No es una ciencia                                     |
+| Tipo de             | Cuantitativa                               | Cualitativa                                           |
+| investigación       |                                            |                                                       |
++---------------------+--------------------------------------------+-------------------------------------------------------+
+
+
+Materialismo (https://es.wikipedia.org/wiki/Modernismo_(movimiento_filos%C3%B3fico_y_cultural))
  - Derivado del racionalismo
  - Cree que todo se explica según un bien material (Que las celulas forman a los seres, ciertos materiales forman las cosas; no en fuerzas intrinsecas)
  - Nace derivada del pensamiento capitalista
-
+ - El movimiento evidenció un deseo de creación de nuevas formas de arte, filosofía y organización social que reflejaran el emergente 
+  nuevo mundo industrial, incluyendo características con formas, hasta entonces inéditas, de urbanización, tecnología y guerra. Los artistas intentaron 
+  apartarse de las formas de arte tradicionales, que consideraban anticuadas u obsoletas. 
+ - Una característica notable del modernismo es la autoconciencia con respecto a las tradiciones artísticas y sociales, que a menudo condujo a la 
+ experimentación con la forma, junto con el uso de técnicas que llamaban la atención sobre los procesos y materiales utilizados en la creación de obras de 
+ arte.
+ - especialmente en Occidente, se ve como una tendencia de pensamiento socialmente progresivo que reafirma el poder de los seres humanos para crear, mejorar 
+ y remodelar su entorno con la ayuda de la experimentación praxtica, el conocimiento cientifico o la tecnologia.
+ - Desde esta perspectiva, el modernismo alentó reexaminar todos los aspectos de la existencia, desde el comercio a la filosofía, con el objetivo de 
+ encontrar aquello que estaba "frenando" el progreso y reemplazarlo por nuevas formas de alcanzar el mismo fin.
+ - Para Roger Griffin, el modernismo puede definirse, en una visión maximalista, como una amplia iniciativa cultural, social o política, sostenida por el hábito
+  de 'la temporalidad de lo nuevo'. El modernismo buscó restaurar un 'sentido de orden y propósito sublime en el mundo contemporáneo, contrarrestando así la erosión 
+  (percibida) de una norma general, bajo el impacto fragmentador y secularizante de la modernidad.' Así, fenómenos aparentemente ajenos entre sí como 'expresionismo, 
+  futurismo, vitalismo, teosofía, psicoanálisis, nudismo, eugenesia, planificación urbana y arquitectura utópicas, danza moderna, bolchevismo, nacionalismo orgánico, 
+  e incluso el culto al autosacrificio que sustentaba la hecatombe de la Primera Guerra Mundial. Se revela una causa común y una matriz psicológica en la lucha contra 
+  la (percibida) decadencia'. Todos ellos ofertan acceder a una 'experiencia suprapersonal de realidad', en la que los individuos creían que podían trascender su 
+  propia mortalidad, y finalmente, habían dejado de ser víctimas de la historia para convertirse en sus creadores.
 Postmodernismo
+ - corriente filosófica que asume que se han sobrepasado las ideas que han caracterizado a la modernidad y a la Ilustración
+ - La filosofía posmoderna propone nuevas formas de cuestionar y leer los textos y la historia, influenciada sobre todo por el marxismo, las críticas de Kierkegaard
+  y Nietzsche a la racionalidad, la fenomenología de Husserl y Heidegger, el existencialismo de Sartre, el psicoanálisis de Freud y Lacan y el estructuralismo de Lévi-Strauss, 
+  así como por la lingüística y la crítica literaria.
+  * Los teóricos de la literatura Roland Barthes, Gérard Genette y Roman Jakobson han influenciado a su vez a los filósofos posmodernos. También los disidentes del surrealismo,
+   Georges Bataille y Antonin Artaud, así como los teóricos Walter Benjamin y Maurice Blanchot, han influido en la filosofía posmoderna.
  - Rechazo al dogma preestablecido
