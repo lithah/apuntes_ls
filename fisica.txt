@@ -494,7 +494,7 @@ Fenomenos ondulatorios
    # Adimencional (no tiene unidades)
    # No puede ser menor a 1 
    # Cuando la luz pasa de un medio mas denso a uno menos denso, el angulo de incidencia es menor que el reflejado (1ra ley)
-   # Cuando la luz pasa de un medio menos denso a uno mas denso, el angula de incidencia es mayor que el reflejado (2ra ley)
+   # Cuando la luz pasa de un medio menos denso a uno mas denso, el angulo de incidencia es mayor que el reflejado (2ra ley)
    # Espejismo: Los cambios de luz que van refractando, curvando la imagen, produciendo imagenes invertidas como reflejos; esto por refraccion interna total
    # Descomposicion de la luz blanca: la luz blanca se divide en distintos colores debido a sus distintas longitudez de onda 
   * Difraccion
@@ -513,3 +513,37 @@ Fenomenos ondulatorios
     & "Cabe mencionar tambien que la reflexion ocurre en el mismo plano y que la normal siempre es perpendicular a la superficie reflectante"
   * Emision
   * Absorcion
+
+Lentes
+ - Dispositivos opticos que refractan la luz. Existen dos tipos
+  * () Convergentes [IGUAL AL CONCAVO]
+   # Juntan la luz; delgados en los bordes, gruesos en el centro
+   # Ej: Lupa
+   # Se juntan en el Foco
+  * )( Divergentes [IGUAL AL CONVEXO]
+   # Separan la luz; delgados en el centro, gruesos en los bordes
+   # No tienen foco
+  * Espejo plano
+   # Imagen virtual, derecha y de igual tamaño
+  * Espejo Convexo --(|
+   # Imagen virtual, derechas, y de menor tamaño
+  * Espejo Concavo --)|
+   # Si la imagen está del infinito hasta el centro de curvatura, es mas pequeña la img. resultante
+   # Si la imagen se encuentra en el centro de curvatura, es de igual tamaño
+   # Si la imagen está del centro de curvatura para adelante, es mas grande
+   # Del foco para atras, la imagen es real e invertida
+   # En el foco, no hay imagen (punto ciego)
+   # Del foco para adelante, la imagen es virtual y derecha
+   # Imagen varia según posicion del objeto
+   # Rayos notables 
+    & Cuando el rayo va paralelo al eje optico, pasa por el foco
+    & Cuando el rayo pasa por el foco, se refleja paralelo al eje optico
+    & Cuando el rayo va por el centro de curvatura, se refleja por el mismo centro de curvatura
+   # Cuando el rayo para por el vertice, se refleja con el mismo angulo pero en sentido contrario
+   
+Posicion / Imagen
+Entre Inf. y C = Real, invertida y mas pequeña
+En C = Real, invertida y de igual tamaño
+Entre C y F = Real, invertida, y de mayor tamaño
+En F = No hay
+Entre F e V = Virtual, derecha, y de mayor tamaño

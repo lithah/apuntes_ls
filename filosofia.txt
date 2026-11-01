@@ -250,7 +250,49 @@ Argumentacion
 Razonamiento
  - Pensamiento del cual se llega a una conclusion, siguiendo ciertos parametros
 
+--------------------------------------------------------------------------------
+Empirismo y racionalismo  
 
-  
- 
+Empirismo (Locke, Hume)
+ - Es Cuantitativo
+ - Afirma que todas nuestras ideas vienen de la experiencia
+ - Las "ideas" son las nociones que nos quedan de una impresion sensorial directa
+ - Pensar no es sinó asociaciones entre ideas
+ - Locke decía que la mente es una tabula rasa ("pizarra en blanco"), pero incluso él admitía que la reflexión sobre 
+   la experiencia genera ideas. No era puramente pasivo.
+   * https://es.wikipedia.org/wiki/John_Locke#Ideas_simples_y_complejas
+    # Según Locke las ideas simples son indivisibles y completas, pero no son siempre claras; son sin mezcla, homogéneas e 
+    inanalizables: no se puede pues ni definirlas ni explicarlas. No se puede tampoco comunicarlas, ni conocerlas sin experiencia
+    personal. Estas ideas son solo los materiales de nuestro pensamiento. Distingue dos tipos de ideas: las ideas simples y 
+    complejas.
+    # Ideas simples: considera que son aquellas que proceden de la experiencia, y que el entendimiento recibe de un modo pasivo.
+     En función de su procedencia, Locke afirma que pueden clasificarse a su vez en tres categorías: sensación, reflexión o ambas.
+     & Ej: el color, el calor, el frío, el gusto, etc.
+    # Ideas complejas: son ideas elaboradas en la mente a partir de las ideas simples. Locke nos indica que existen cuatro 
+    categorías de ideas compuestas: sustancia, modos, relaciones y universales.
+     & Ej: la idea de espacio (modo), de causalidad (relación) o la idea de hombre (universal).
+      % Según Locke, el entendimiento por composición agrupa una serie de ideas simples en un todo que él llama sustancia. Pero 
+     la sustancia sigue sin ser percibida. Locke finalmente afirma que la sustancia es algo necesario en la que van las cualidades
+     pero incognoscible. Las sustancias son existencias independientes. Los seres que cuentan como sustancias incluyen a Dios, 
+     los ángeles, los humanos, los animales, las plantas y una variedad de cosas construidas. Los modos son existencias 
+     dependientes. Los modos nos dan las ideas de las matemáticas, la moral, la religión y la política y las convenciones 
+     humanas en general.
 
+ - Hume fue más radical: llevó el empirismo a sus límites, cuestionando incluso la causalidad (solo vemos eventos sucesivos, 
+   no una "conexión" necesaria).
+
+Racionalismo (Descartes)
+  - Descartes enfatizaba ideas claras e indudables (como "pienso, luego existo"), pero también reconocía que los sentidos 
+   aportan información.
+ - Las ideas no dependen de la experiencia
+ - "Ideas innatas"
+ - No requieren un origen particular
+ - Deduccion/instrospeccion
+
+Materialismo
+ - Derivado del racionalismo
+ - Cree que todo se explica según un bien material (Que las celulas forman a los seres, ciertos materiales forman las cosas; no en fuerzas intrinsecas)
+ - Nace derivada del pensamiento capitalista
+
+Postmodernismo
+ - Rechazo al dogma preestablecido
